@@ -1,0 +1,672 @@
+(PCB D:\TKPS-Krynko\lab4_Krynko.DSN
+ (parser
+  (host_cad Altium)
+  (host_version 18.00)
+  (string_quote ')
+  (routes_include testpoint)
+  (constant Top 1)
+  (constant Bottom 2)
+  (constant TestPointLayerNumFront 10)
+  (constant TestPointLayerNumBack 11)
+ )
+ (resolution MM 100000)
+ (structure 
+  (rule (clearance 0.3048))
+  (boundary
+   (rect pcb -14.53706 -15.0095 336.4592 304.31296)
+  )
+  (boundary
+   (path signal 0
+    3.78206 287.4137 6.61924 96.43364 1.41732 0.94488 320.50482 1.88976 
+    317.66764 288.35858 3.78206 287.4137
+   )
+  )
+  (layer Top
+   (type signal)
+   (rule (clearance 0.3048))
+  )
+  (layer Bottom
+   (type signal)
+   (rule (clearance 0.3048))
+  )
+  (grid via .01)
+  (grid wire .01)
+  (rule (width 0.254))
+  (via
+   'CCTVIA_(Default)'
+   (spare
+   )
+  )
+ )
+ (placement
+  (component Ê50-35-470ÌÊÔ-10Â_1
+   (place C1 135.17626 128.45542 front 180
+   )
+  )
+  (component Ê50-35-1ÌÊÔ-50Â_1
+   (place C2 137.70864 62.98438 front 90
+   )
+  )
+  (component Ê50-35-0,1ÌÊÔ-50Â_1
+   (place C3 135.23468 15.70736 front 0
+   )
+  )
+  (component ÊÐ142ÅÍ5À_1
+   (place DA1 135.01878 186.32932 front 0
+   )
+  )
+  (component LM555CM_1
+   (place DA2 226.3013 18.23466 front 0
+   )
+  )
+  (component ÈÏÄ156_1
+   (place HL1 182.77078 125.02134 front 0
+   )
+  )
+  (component C2-33H-0.125W_OLD_UGO_1
+   (place R1 303.022 18.288 front 270
+   )
+   (place R2 237.72876 62.83452 front 0
+   )
+   (place R3 185.65114 68.4403 front 0
+   )
+   (place R4 208.05394 78.62316 front 180
+   )
+  )
+  (component C2-33H-0.25W_OLD_UGO_1
+   (place R5 269.01648 192.5701 front 270
+   )
+  )
+  (component TRANS_1_1
+   (place T1 54.04866 44.59986 front 90
+    (property
+     (height 0.8382)
+    )
+   )
+  )
+  (component TC122_1
+   (place V1 180.7845 183.82234 front 270
+   )
+  )
+  (component 2Ä2136ÀÑ_1
+   (place VD1 41.52392 175.1076 front 0
+   )
+  )
+  (component 1N34_1
+   (place VO1 241.4778 52.0446 front 0
+   )
+  )
+  (component ÊÒ315Á_1
+   (place VT1 268.986 83.566 front 180
+   )
+  )
+  (component 2XR_1
+   (place X1 103.124 62.992 front 90
+   )
+  )
+ )
+ (library
+  (image Ê50-35-470ÌÊÔ-10Â_1
+   (outline (rect Top -4.189 -2.399 4.189 5.979))
+   (pin P:SX150Y150D080A_me 1 0.0 0.0)
+   (pin P:EX150Y150D080A_me 2 0.0 3.75)
+  )
+  (image Ê50-35-1ÌÊÔ-50Â_1
+   (outline (rect Top -2.665 -1.375 2.665 3.955))
+   (pin P:SX150Y150D080A_me 1 0.0 0.0)
+   (pin P:EX150Y150D080A_me 2 0.0 2.5)
+  )
+  (image Ê50-35-0,1ÌÊÔ-50Â_1
+   (outline (rect Top -2.665 -1.375 2.665 3.955))
+   (pin P:SX150Y150D080A_me 1 0.0 0.0)
+   (pin P:EX150Y150D080A_me 2 0.0 2.5)
+  )
+  (image ÊÐ142ÅÍ5À_1
+   (outline (rect Top -2.93469 -0.12435 8.01531 25.62))
+   (pin H:EX360Y360D360A_nm 17 0.0 0.0)
+   (pin H:EX360Y360D360A_nm 2 5.08 0.0)
+   (pin H:EX360Y360D360A_nm 8 2.54 -2.54)
+   (pin H:EX360Y360D360A_nm 4 2.55 22.07)
+  )
+  (image LM555CM_1
+   (outline (rect Top -1.26 -4.8 6.84 0.835))
+   (pin P:SX80Y26D0T 4 0.0 -3.81)
+   (pin P:SX80Y26D0T 2 0.0 -1.27)
+   (pin P:SX80Y26D0T 3 0.0 -2.54)
+   (pin P:SX80Y26D0T 5 5.588 -3.81)
+   (pin P:SX80Y26D0T 7 5.588 -1.27)
+   (pin P:SX80Y26D0T 6 5.588 -2.54)
+   (pin P:SX80Y26D0T 1 0.0 0.0)
+   (pin P:SX80Y26D0T 8 5.588 0.0)
+  )
+  (image ÈÏÄ156_1
+   (outline (rect Top -1.96 -1.76 4.09 1.84))
+   (pin PL:SX260Y150D000T 2 3.0 0.0 (rotate 90.0))
+   (pin PL:SX260Y150D000T 1 0.0 0.0 (rotate 90.0))
+  )
+  (image C2-33H-0.125W_OLD_UGO_1
+   (outline (rect Top -0.134 -1.3 11.3541 1.3))
+   (pin P:EX150Y150D080A_me 1 0.0 0.0)
+   (pin P:EX150Y150D080A_me 2 11.25 0.0)
+  )
+  (image C2-33H-0.25W_OLD_UGO_1
+   (outline (rect Top -0.125 -1.6547 11.875 1.5953))
+   (pin P:EX150Y150D080A_me 1 0.0 0.0)
+   (pin P:EX150Y150D080A_me 2 11.75 0.0)
+  )
+  (image TRANS_1_1
+   (outline (rect Top -14.18 -9.68 14.18 9.68))
+   (pin P:EX250Y250D150A_me 3 -5.0 6.0 (rotate 270.0))
+   (pin P:EX250Y250D150A_me 5 5.0 6.0 (rotate 270.0))
+   (pin P:EX250Y250D150A_me 12 -5.0 -6.0 (rotate 270.0))
+   (pin P:EX250Y250D150A_me 14 5.0 -6.0 (rotate 270.0))
+  )
+  (image TC122_1
+   (outline (rect Top -53.973 -19.175 1.395 12.571))
+   (pin P:EX150Y150D080A_me UE -8.75 6.25)
+   (pin P:EX150Y150D080A_me 1 0.0 0.0)
+   (pin P:EX150Y150D080A_me 2 -29.375 -16.875)
+   (pin H:EX360Y360D360A_nm 5 -48.75 -5.0)
+   (pin H:EX360Y360D360A_nm 4 -48.75 7.5)
+  )
+  (image 2Ä2136ÀÑ_1
+   (outline (rect Top -4.875 -3.125 20.375 13.125))
+   (pin PL:RRX740Y496D000T 1 0.0 0.0)
+   (pin PL:RRX740Y496D000T 2 7.75 0.0)
+   (pin PL:RRX740Y496D000T 3 15.5 0.0)
+   (pin PL:SX2400Y320D000T 4 7.75 5.0)
+   (pin PL:SX2400Y514D000T 5 7.75 10.0)
+  )
+  (image 1N34_1
+   (outline (rect Top -7.65 -1.95 7.65 1.95))
+   (pin P:EX200Y200D100A_me K -7.5 0.0)
+   (pin P:EX200Y200D100A_me A 7.5 0.0)
+  )
+  (image ÊÒ315Á_1
+   (outline (rect Top -1.3 -1.22 1.3 6.38))
+   (pin P:SX200Y200D100A_me 1 0.0 0.0)
+   (pin P:EX200Y200D100A_me 3 0.0 2.5)
+   (pin P:EX200Y200D100A_me 2 0.0 5.0)
+  )
+  (image 2XR_1
+   (outline (rect Top -0.125 -2.625 18.625 7.625))
+   (pin r25 1 0.0 0.0)
+   (pin r25 2 0.0 5.0)
+  )
+  (padstack 10_16rd
+   (shape
+    (circle Top 1.6)
+   )
+   (shape
+    (circle Bottom 1.6)
+   )
+  )
+  (padstack P:EX150Y150D080A_me
+   (shape
+    (circle Top 1.5)
+   )
+   (shape
+    (circle Bottom 1.5)
+   )
+  )
+  (padstack P:SX150Y150D080A_me
+   (shape
+    (rect Top -0.75 -0.75 0.75 0.75)
+   )
+   (shape
+    (rect Bottom -0.75 -0.75 0.75 0.75)
+   )
+  )
+  (padstack H:EX360Y360D360A_nm
+   (shape
+    (circle Top 3.6)
+   )
+   (shape
+    (circle Bottom 3.6)
+   )
+  )
+  (padstack P:SX80Y26D0T
+   (shape
+    (rect Top -1.0 -0.4 1.0 0.4)
+   )
+  )
+  (padstack PL:SX260Y150D000T
+   (shape
+    (rect Top -1.3 -0.75 1.3 0.75)
+   )
+  )
+  (padstack P:EX250Y250D150A_me
+   (shape
+    (circle Top 2.5)
+   )
+   (shape
+    (circle Bottom 2.5)
+   )
+  )
+  (padstack PL:RRX740Y496D000T
+   (shape
+    (path Top 2.48 -2.46 -1.24 2.46 -1.24 2.46 1.24 -2.46 1.24 -2.46 -1.24 -1.22 0.0 1.22 0.0)
+   )
+  )
+  (padstack PL:SX2400Y320D000T
+   (shape
+    (rect Top -12.05 -1.6 12.05 1.6)
+   )
+  )
+  (padstack PL:SX2400Y514D000T
+   (shape
+    (rect Top -12.05 -2.57 12.05 2.57)
+   )
+  )
+  (padstack P:EX200Y200D100A_me
+   (shape
+    (circle Top 2.0)
+   )
+   (shape
+    (circle Bottom 2.0)
+   )
+  )
+  (padstack P:SX200Y200D100A_me
+   (shape
+    (rect Top -1.0 -1.0 1.0 1.0)
+   )
+   (shape
+    (rect Bottom -1.0 -1.0 1.0 1.0)
+   )
+  )
+  (padstack 11_20sq
+   (shape
+    (rect Top -1.0 -1.0 1.0 1.0)
+   )
+   (shape
+    (rect Bottom -1.0 -1.0 1.0 1.0)
+   )
+  )
+  (padstack r25
+   (shape
+    (circle Top 2.5)
+   )
+   (shape
+    (circle Bottom 2.5)
+   )
+  )
+  (padstack 'CCTVIA_(Default)'
+   (shape
+    (circle Top 1.016)
+   )
+   (shape
+    (circle Bottom 1.016)
+   )
+  )
+ )
+ (network
+  (net NET00000
+   (pins VD1-1 T1-3)
+   (rule (tjunction on))
+  )
+  (net NET00001
+   (pins VD1-3 T1-5)
+   (rule (tjunction on))
+  )
+  (net NET00002
+   (pins V1-2 X1-2 T1-12)
+   (rule (tjunction on))
+  )
+  (net NET00017
+   (pins V1-1 X1-1 HL1-1 DA1-8 C1-2 C2-2 VD1-4 T1-14 DA2-1 C3-2)
+   (rule (tjunction on))
+  )
+  (net NET00004
+   (pins DA1-17 C1-1 VD1-5)
+   (rule (tjunction on))
+  )
+  (net NET00007
+   (pins VO1-A R2-2 R1-2 DA2-7)
+   (rule (tjunction on))
+  )
+  (net NET00008
+   (pins VO1-K R2-1 C2-1 DA2-6 DA2-2)
+   (rule (tjunction on))
+  )
+  (net NET00009
+   (pins DA2-5 C3-1)
+   (rule (tjunction on))
+  )
+  (net NET00010
+   (pins R3-2 DA2-3 R4-2)
+   (rule (tjunction on))
+  )
+  (net NET00011
+   (pins R3-1 HL1-2)
+   (rule (tjunction on))
+  )
+  (net NET00013
+   (pins V1-UE R5-1)
+   (rule (tjunction on))
+  )
+  (net NET00014
+   (pins VT1-1 R5-2)
+   (rule (tjunction on))
+  )
+  (net NET00015
+   (pins VT1-2 R4-1)
+   (rule (tjunction on))
+  )
+  (net NET00016
+   (pins DA1-2 R1-1 VT1-3 DA2-8 DA2-4)
+   (rule (tjunction on))
+  )
+ )
+ (wiring
+  (wire
+   (path Top 0.00254 49.27392 180.1076 51.29784 181.7243)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 60.04866 39.59986 60.75172 39.05758)
+   (net NET00002)
+  )
+  (wire
+   (path Top 0.00254 60.04866 49.59986 60.93206 49.33188)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 98.124 62.992 98.44024 62.11316)
+   (net NET00002)
+  )
+  (wire
+   (path Top 0.00254 135.23468 18.20736 135.2296 18.86458)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.23468 18.20736 135.55218 18.0594)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.20864 62.98438 135.08736 62.9793)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.20864 62.98438 135.23722 62.91072)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.08736 62.9793 134.874 62.91072)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.17626 128.45542 135.32104 128.8923)
+   (net NET00004)
+  )
+  (wire
+   (path Top 0.00254 135.17626 124.70542 135.32104 125.10262)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.32047 124.7879 135.32104 125.10262)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.17626 124.70542 135.32047 124.7879)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.32047 124.7879 135.61314 124.9553)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 137.70864 62.98438 137.6934 62.8269)
+   (net NET00008)
+  )
+  (wire
+   (path Top 0.00254 182.77078 125.02134 182.10784 125.476)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 180.7845 183.82234 180.70576 183.70042)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 185.77078 125.02134 185.65114 124.4473)
+   (net NET00011)
+  )
+  (wire
+   (path Top 0.00254 187.0345 192.57234 187.24372 192.57264)
+   (net NET00013)
+  )
+  (wire
+   (path Top 0.00254 196.90114 68.4403 197.1421 68.4403)
+   (net NET00010)
+  )
+  (wire
+   (path Top 0.00254 208.05394 78.62316 207.76184 78.77048)
+   (net NET00015)
+  )
+  (wire
+   (path Top 0.00254 231.8893 18.23466 231.40924 18.47596)
+   (net NET00016)
+  )
+  (wire
+   (path Top 0.00254 231.8893 15.69466 231.59974 15.64386)
+   (net NET00008)
+  )
+  (wire
+   (path Top 0.00254 231.8893 18.23466 231.41686 18.22704)
+   (net NET00016)
+  )
+  (wire
+   (path Top 0.0254 248.9778 52.0446 248.9708 52.0446)
+   (net NET00007)
+  )
+  (wire
+   (path Top 0.00254 268.986 81.066 268.9606 81.1403)
+   (net NET00016)
+  )
+  (wire
+   (path Top 0.00254 269.01648 180.8201 269.14094 180.48478)
+   (net NET00014)
+  )
+  (wire
+   (path Top 0.00254 303.022 7.038 303.2506 6.985)
+   (net NET00007)
+  )
+  (wire
+   (path Top 0.0254 303.2506 6.985 303.1236 6.985)
+   (net NET00007)
+  )
+  (wire
+   (path Top 0.00254 41.52392 175.1076 40.94988 176.04232)
+   (net NET00000)
+  )
+  (wire
+   (path Top 0.00254 57.02392 175.1076 58.58256 175.45812)
+   (net NET00001)
+  )
+  (wire
+   (path Top 0.00254 58.58256 175.45812 57.27192 168.46296)
+   (net NET00001)
+  )
+  (wire
+   (path Top 0.00254 98.44024 62.11316 98.4504 51.7652)
+   (net NET00002)
+  )
+  (wire
+   (path Top 0.00254 98.44278 46.88586 98.44278 39.06774)
+   (net NET00002)
+  )
+  (wire
+   (path Top 0.00254 103.124 62.992 103.10114 49.27092)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.23468 15.70736 134.84606 15.2146)
+   (net NET00009)
+  )
+  (wire
+   (path Top 0.00254 134.84606 15.2146 134.8359 4.19354)
+   (net NET00009)
+  )
+  (wire
+   (path Top 0.00254 196.80394 78.62316 197.1421 68.4403)
+   (net NET00010)
+  )
+  (wire
+   (path Top 0.00254 231.8893 14.42466 231.902 4.16814)
+   (net NET00009)
+  )
+  (wire
+   (path Top 0.00254 233.9778 52.0446 233.9594 60.2996)
+   (net NET00008)
+  )
+  (wire
+   (path Top 0.00254 237.72876 62.83452 237.744 60.2996)
+   (net NET00008)
+  )
+  (wire
+   (path Top 0.0254 248.97876 62.83452 248.9708 52.0446)
+   (net NET00007)
+  )
+  (wire
+   (path Top 0.0254 295.021 6.985 295.021 16.9164)
+   (net NET00007)
+  )
+  (wire
+   (path Top 0.00254 135.20864 62.98438 135.32047 124.7879)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 185.65114 68.4403 185.65114 124.4473)
+   (net NET00011)
+  )
+  (wire
+   (path Top 0.00254 135.23722 62.91072 135.2296 18.86458)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.01878 186.32932 135.32104 128.8923)
+   (net NET00004)
+  )
+  (wire
+   (path Top 0.00254 180.7845 183.82234 182.10784 125.476)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 268.986 83.566 269.14094 180.48478)
+   (net NET00014)
+  )
+  (wire
+   (path Top 0.00254 28.41752 172.10786 26.52268 38.61816)
+   (net NET00000)
+  )
+  (wire
+   (path Top 0.00254 32.05988 165.69436 32.93618 50.86096)
+   (net NET00001)
+  )
+  (wire
+   (path Top 0.00254 49.27392 185.1076 56.83504 186.38774)
+   (net NET00004)
+  )
+  (wire
+   (path Top 0.00254 226.3013 16.96466 231.59974 15.64386)
+   (net NET00008)
+  )
+  (wire
+   (path Top 0.00254 237.744 60.2996 233.9594 60.2996)
+   (net NET00008)
+  )
+  (wire
+   (path Top 0.0254 303.1236 6.985 295.021 6.985)
+   (net NET00007)
+  )
+  (wire
+   (path Top 0.00254 226.3013 14.42466 231.40924 18.47596)
+   (net NET00016)
+  )
+  (wire
+   (path Top 0.00254 48.04866 39.59986 26.52268 38.61816)
+   (net NET00000)
+  )
+  (wire
+   (path Top 0.00254 60.75172 39.05758 98.44278 39.06774)
+   (net NET00002)
+  )
+  (wire
+   (path Top 0.00254 48.04866 49.59986 32.93618 50.86096)
+   (net NET00001)
+  )
+  (wire
+   (path Top 0.00254 60.93206 49.33188 103.10114 49.27092)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 103.124 62.992 134.874 62.91072)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 135.01878 186.32932 56.83504 186.38774)
+   (net NET00004)
+  )
+  (wire
+   (path Top 0.00254 40.94988 176.04232 28.41752 172.10786)
+   (net NET00000)
+  )
+  (wire
+   (path Top 0.00254 57.27192 168.46296 32.05988 165.69436)
+   (net NET00001)
+  )
+  (wire
+   (path Top 0.00254 137.55878 183.78932 51.29784 181.7243)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 303.022 18.288 268.9606 81.1403)
+   (net NET00016)
+  )
+  (wire
+   (path Top 0.00254 134.8359 4.19354 231.902 4.16814)
+   (net NET00009)
+  )
+  (wire
+   (path Top 0.00254 303.022 18.288 231.41686 18.22704)
+   (net NET00016)
+  )
+  (wire
+   (path Top 0.00254 226.3013 18.23466 135.55218 18.0594)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.0254 231.8893 16.96466 295.021 16.9164)
+   (net NET00007)
+  )
+  (wire
+   (path Top 0.00254 237.72876 62.83452 137.6934 62.8269)
+   (net NET00008)
+  )
+  (wire
+   (path Top 0.00254 268.986 78.566 207.76184 78.77048)
+   (net NET00015)
+  )
+  (wire
+   (path Top 0.00254 182.77078 125.02134 135.61314 124.9553)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 137.55878 183.78932 180.70576 183.70042)
+   (net NET00017)
+  )
+  (wire
+   (path Top 0.00254 269.01648 192.5701 187.24372 192.57264)
+   (net NET00013)
+  )
+  (wire
+   (path Bottom 0.00254 98.4504 51.7652 98.44278 46.88586)
+   (net NET00002)
+  )
+  (via 'CCTVIA_(Default)' 98.4504 51.7652
+   (net NET00002)
+  )
+  (via 'CCTVIA_(Default)' 98.44278 46.88586
+   (net NET00002)
+  )
+ )
+)

@@ -1,0 +1,396 @@
+P-CAD Design Rule Check Report
+
+======================================================================
+
+D:\TKPS-Krynko\lab4_Krynko.drc:
+
+
+Design Clearances (in mils):
+-------------------------------
+Silk Screen Clearance:  5.0mil
+Hole-Hole Clearance:    5.0mil
+Board Edge Clearance:   Not Defined
+
+
+Layer Clearances (in mils):
+-------------------------------
+
+Layer Name          Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+Top                    12.0      12.0      12.0      12.0      12.0      12.0
+Bottom                 12.0      12.0      12.0      12.0      12.0      12.0
+
+
+Net Class Clearances (in mils):
+-------------------------------
+Net Class Name      Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Net Clearances (In mils):
+-------------------------
+Net Name            Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+Net Class To Net Class Clearances (in mils):
+--------------------------------------------
+Net Class Names     Pad-Pad  Pad-Line Line-Line   Pad-Via  Via-Line   Via-Via
+
+
+
+Area Checked:
+-------------
+
+DRC Extents:            Entire Workspace
+
+
+DRC Report Options:
+-------------------
+
+Net List Compare:                       Off
+Clearance Violations:                   On
+Text Violations:                        On
+Same-Parent-Component Pad Violations:   On
+Net List Violations:                    On
+Unrouted Nets:                          On
+Unconnected Pins:                       On
+Net Length Violations:                  On
+Silk Violations:                        On
+Copper Pour Violations:                 On
+Plane Violations:                       On
+Component Violations:                   On
+Drill Violations:                       On
+
+----------------------------------------------------------------------
+
+18-Nov-23  16:42                                            Page    1
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+Test Point Violations:                  Off
+
+DRC Errors:
+-----------
+
+
+NETLIST VIOLATIONS:
+
+Error 1 -- Net NET00000 connected to uncommitted pin at:
+   * Pad VD1-2 at (11276.5,13103.2) mils
+
+0 warning(s) detected.
+1 error(s) detected.
+
+CLEARANCE VIOLATIONS:
+
+Error 2 -- Net NET00017 shorted to Net NET00016:
+   * Pad DA1-2 at (14813.6,13510.0) mils [Top layer]
+   * Pad DA1-8 at (14713.6,13410.0) mils [Top layer]
+Error 3 -- Net NET00017 shorted to Net NET00004:
+   * Pad DA1-17 at (14613.6,13510.0) mils [Top layer]
+   * Pad DA1-8 at (14713.6,13410.0) mils [Top layer]
+Error 4 -- Net NET00017 shorted to Net NET00016:
+   * Pad DA1-2 at (14813.6,13510.0) mils [Bottom layer]
+   * Pad DA1-8 at (14713.6,13410.0) mils [Bottom layer]
+Error 5 -- Net NET00017 shorted to Net NET00004:
+   * Pad DA1-17 at (14613.6,13510.0) mils [Bottom layer]
+   * Pad DA1-8 at (14713.6,13410.0) mils [Bottom layer]
+
+0 warning(s) detected.
+4 error(s) detected.
+
+UNROUTED NETS:
+
+Error 6 -- Net NET00004 is not connected due to unplated through hole Pad at 14
+613.6mil 13510.0mil.
+Error 7 -- Net NET00017 is not connected due to unplated through hole Pad at 14
+713.6mil 13410.0mil.
+Warning 1 -- Net NET00004 is not connected due to through hole Pad of pattern D
+A1 at 14613.6mil 13510.0mil is unplated.
+Warning 2 -- Net NET00016 is not connected due to through hole Pad of pattern D
+A1 at 14813.6mil 13510.0mil is unplated.
+Warning 3 -- Net NET00017 is not connected due to through hole Pad of pattern D
+A1 at 14713.6mil 13410.0mil is unplated.
+
+3 warning(s) detected.
+2 error(s) detected.
+
+UNCONNECTED PINS:
+
+Error 8 -- Unconnected pin:
+   * Pad DA1-4 at (14714.0,14378.9) mils
+Error 9 -- Unconnected pin:
+   * Pad V1-5 at (16329.7,15318.5) mils
+Error 10 -- Unconnected pin:
+   * Pad V1-4 at (16821.9,15318.5) mils
+
+
+----------------------------------------------------------------------
+
+18-Nov-23  16:42                                            Page    2
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+0 warning(s) detected.
+3 error(s) detected.
+Warning: Net length violation tests were not performed because
+         of missing MinNetLength, MaxNetLength, or MatchedLength rules.
+
+NETLIST LENGTH VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+SILK SCREEN CLEARANCE VIOLATIONS:
+
+Error 11 -- Clearance Violation between:
+   * Line at (14580.1,6835.1):(14630.1,6835.1) mils [Top Silk layer]
+   * Pad C3-1 at (14656.3,6832.0) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 12 -- Clearance Violation between:
+   * Line at (14753.5,8613.0):(14753.5,8663.0) mils [Top Silk layer]
+   * Pad C2-1 at (14756.6,8689.2) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 13 -- Clearance Violation between:
+   * Line at (18513.4,6956.6):(18513.4,6740.1) mils [Top Silk layer]
+   * Via at (18532.0,6925.0) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 14 -- Clearance Violation between:
+   * Line at (20014.4,11220.0):(20014.4,11121.6) mils [Top Silk layer]
+   * Pad VT1-1 at (19968.3,11170.8) mils [Top layer]
+   * Calculated Clearance: 4.7mil.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 15 -- Clearance Violation between:
+   * Attribute at (19668.3,11170.8) mils [Top Silk layer]
+   * Text=VT1
+   * Pad VT1-2 at (19771.4,11170.8) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 16 -- Clearance Violation between:
+   * Text at (11305.8,7814.3) mils [Top Silk layer]
+   * Text=3
+   * Pad T1-3 at (11228.3,7768.2) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 17 -- Clearance Violation between:
+   * Text at (11307.0,8203.7) mils [Top Silk layer]
+   * Text=5
+   * Pad T1-5 at (11228.3,8162.0) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 18 -- Clearance Violation between:
+   * Text at (11710.2,7814.3) mils [Top Silk layer]
+   * Text=12
+   * Pad T1-12 at (11700.7,7768.2) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+
+----------------------------------------------------------------------
+
+18-Nov-23  16:42                                            Page    3
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+Error 19 -- Clearance Violation between:
+   * Text at (11712.5,8208.4) mils [Top Silk layer]
+   * Text=14
+   * Pad T1-14 at (11700.7,8162.0) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 20 -- Clearance Violation between:
+   * Line at (11768.6,12985.1):(11768.6,13615.0) mils [Top Silk layer]
+   * Via at (11795.1,13510.0) mils [Top layer]
+   * Calculated Clearance: 4.5mil.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 21 -- Clearance Violation between:
+   * Attribute at (14659.7,11041.5) mils [Top Silk layer]
+   * Text=C1
+   * Pad C1-1 at (14659.7,10971.0) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 22 -- Clearance Violation between:
+   * Attribute at (14659.7,11041.5) mils [Top Silk layer]
+   * Text=C1
+   * Pad C1-2 at (14659.7,11118.6) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 23 -- Clearance Violation between:
+   * Arc at (16525.4,13380.9):(16525.4,13380.9) mils [Top Silk layer]
+   * Pad V1-1 at (16526.6,13399.2) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 24 -- Clearance Violation between:
+   * Line at (16661.6,13709.2):(16831.6,13709.2) mils [Top Silk layer]
+   * Pad V1-UE at (16772.7,13743.7) mils [Top layer]
+   * Calculated Clearance: 3.0mil.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 25 -- Clearance Violation between:
+   * Line at (16556.6,13554.2):(16556.6,13354.2) mils [Top Silk layer]
+   * Pad V1-1 at (16526.6,13399.2) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+Error 26 -- Clearance Violation between:
+   * Line at (16496.6,13354.2):(16496.6,13554.2) mils [Top Silk layer]
+   * Pad V1-1 at (16526.6,13399.2) mils [Top layer]
+   * Calculated Clearance: Touching.
+   * Rule: Design.SilkscreenClearance=5.0mil
+
+0 warning(s) detected.
+16 error(s) detected.
+
+TEXT VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+WIDTH VIOLATIONS:
+
+Warning: Width violation tests were not performed because
+         of missing Width rule.
+
+----------------------------------------------------------------------
+
+18-Nov-23  16:42                                            Page    4
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COPPER POUR VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+PLANE VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COMPONENT VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+DRILL VIOLATIONS:
+
+Error 27 -- Hole Clearance Violation between:
+   * Pad H:EX360Y360D360A_nm at 14613.6mil 13510.0mil and
+   * Pad H:EX360Y360D360A_nm at 14713.6mil 13410.0mil.
+   * Calculated clearance: 0.0mil.
+   * Rule: Design.HoleToHoleClearance=5.0mil
+
+Error 28 -- Hole Clearance Violation between:
+   * Pad H:EX360Y360D360A_nm at 14813.6mil 13510.0mil and
+   * Pad H:EX360Y360D360A_nm at 14713.6mil 13410.0mil.
+   * Calculated clearance: 0.0mil.
+   * Rule: Design.HoleToHoleClearance=5.0mil
+
+
+0 warning(s) detected.
+2 error(s) detected.
+
+DRC Summary:
+------------
+
+Netlist:
+	Errors:         1
+	Warnings:       0
+	Ignored Errors: 0
+Clearance:
+	Errors:         4
+	Warnings:       0
+	Ignored Errors: 0
+Unrouted Nets:
+	Errors:         2
+	Warnings:       3
+	Ignored Errors: 0
+Unconnected Pins:
+	Errors:         3
+
+----------------------------------------------------------------------
+
+18-Nov-23  16:42                                            Page    5
+
+P-CAD Design Rule Check Report
+
+======================================================================
+
+	Warnings:       0
+	Ignored Errors: 0
+Net Length:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Silk Screen:
+	Errors:         16
+	Warnings:       0
+	Ignored Errors: 0
+Text:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Width:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Copper Pour:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Plane:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Drilling:
+	Errors:         2
+	Warnings:       0
+	Ignored Errors: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+18-Nov-23  16:42                                            Page    6
+
