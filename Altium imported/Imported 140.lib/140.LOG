@@ -1,0 +1,92 @@
+PCAD Importer Log
+Project : 140.LibPkg
+
+Section : D:\PCAD-Libs\140.lib
+    Section : PCB Library - 140.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 104
+            Warning - 1 : Skipping Token defaultPinDes On Line 105
+            Warning - 1 : Skipping Token defaultPinDes On Line 106
+            Warning - 1 : Skipping Token defaultPinDes On Line 107
+            Warning - 1 : Skipping Token defaultPinDes On Line 108
+            Warning - 1 : Skipping Token defaultPinDes On Line 109
+            Warning - 1 : Skipping Token defaultPinDes On Line 110
+            Warning - 1 : Skipping Token defaultPinDes On Line 111
+            Warning - 1 : Skipping Token defaultPinDes On Line 376
+            Warning - 1 : Skipping Token defaultPinDes On Line 377
+            Warning - 1 : Skipping Token defaultPinDes On Line 378
+            Warning - 1 : Skipping Token defaultPinDes On Line 379
+            Warning - 1 : Skipping Token defaultPinDes On Line 380
+            Warning - 1 : Skipping Token defaultPinDes On Line 381
+            Warning - 1 : Skipping Token defaultPinDes On Line 382
+            Warning - 1 : Skipping Token defaultPinDes On Line 383
+            Warning - 1 : Skipping Token OPER-AMP On Line 474
+            Warning - 1 : Skipping Token OPER-AMP-5PIN_KP140YD20 On Line 529
+            Warning - 1 : Skipping Token OPER-AMP-8PIN On Line 606
+            Warning - 1 : Skipping Token OPER-AMP-8PIN_2 On Line 709
+            Warning - 1 : Skipping Token ÊÐ140ÓÄ608 On Line 812
+            Warning - 1 : Skipping Token attachedSymbol On Line 942
+            Warning - 1 : Skipping Token attachedSymbol On Line 943
+            Warning - 1 : Skipping Token attachedSymbol On Line 981
+            Warning - 1 : Skipping Token attachedSymbol On Line 1013
+            Warning - 1 : Skipping Token attachedSymbol On Line 1045
+            Warning - 1 : Skipping Token attachedSymbol On Line 1077
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 140.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token viaStyleDef On Line 43
+            Warning - 1 : Skipping Token multiLayer On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 113
+            Warning - 1 : Skipping Token layerContents On Line 129
+            Warning - 1 : Skipping Token multiLayer On Line 215
+            Warning - 1 : Skipping Token layerContents On Line 231
+            Warning - 1 : Skipping Token layerContents On Line 247
+            Warning - 1 : Skipping Token multiLayer On Line 375
+            Warning - 1 : Skipping Token layerContents On Line 385
+            Warning - 1 : Skipping Token layerContents On Line 396
+            Warning - 1 : Skipping Token defaultPinDes On Line 482
+            Warning - 1 : Skipping Token defaultPinDes On Line 491
+            Warning - 1 : Skipping Token defaultPinDes On Line 499
+            Warning - 1 : Skipping Token defaultPinDes On Line 537
+            Warning - 1 : Skipping Token defaultPinDes On Line 545
+            Warning - 1 : Skipping Token defaultPinDes On Line 554
+            Warning - 1 : Skipping Token defaultPinDes On Line 562
+            Warning - 1 : Skipping Token defaultPinDes On Line 570
+            Warning - 1 : Skipping Token defaultPinDes On Line 615
+            Warning - 1 : Skipping Token defaultPinDes On Line 623
+            Warning - 1 : Skipping Token defaultPinDes On Line 631
+            Warning - 1 : Skipping Token defaultPinDes On Line 639
+            Warning - 1 : Skipping Token defaultPinDes On Line 647
+            Warning - 1 : Skipping Token defaultPinDes On Line 655
+            Warning - 1 : Skipping Token defaultPinDes On Line 663
+            Warning - 1 : Skipping Token defaultPinDes On Line 671
+            Warning - 1 : Skipping Token defaultPinDes On Line 717
+            Warning - 1 : Skipping Token defaultPinDes On Line 726
+            Warning - 1 : Skipping Token defaultPinDes On Line 734
+            Warning - 1 : Skipping Token defaultPinDes On Line 742
+            Warning - 1 : Skipping Token defaultPinDes On Line 750
+            Warning - 1 : Skipping Token defaultPinDes On Line 758
+            Warning - 1 : Skipping Token defaultPinDes On Line 766
+            Warning - 1 : Skipping Token defaultPinDes On Line 774
+            Warning - 1 : Skipping Token defaultPinDes On Line 820
+            Warning - 1 : Skipping Token defaultPinDes On Line 828
+            Warning - 1 : Skipping Token defaultPinDes On Line 836
+            Warning - 1 : Skipping Token defaultPinDes On Line 844
+            Warning - 1 : Skipping Token defaultPinDes On Line 853
+            Warning - 1 : Skipping Token defaultPinDes On Line 861
+            Warning - 1 : Skipping Token defaultPinDes On Line 869
+            Warning - 1 : Skipping Token defaultPinDes On Line 877
+        EndSection
+
+        Section : Generating SCH Library - 140.SchLib
+        EndSection
+    EndSection
+EndSection

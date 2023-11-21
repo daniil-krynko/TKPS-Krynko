@@ -1,0 +1,49 @@
+PCAD Importer Log
+Project : 142.LibPkg
+
+Section : D:\PCAD-Libs\142.lib
+    Section : PCB Library - 142.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 129
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token STU-3PIN-KP142EH5 On Line 195
+            Warning - 1 : Skipping Token attachedSymbol On Line 252
+            Warning - 1 : Skipping Token attachedSymbol On Line 275
+            Warning - 1 : Skipping Token attachedSymbol On Line 297
+            Warning - 1 : Skipping Token attachedSymbol On Line 320
+            Warning - 1 : Skipping Token attachedSymbol On Line 344
+            Warning - 1 : Skipping Token attachedSymbol On Line 368
+            Warning - 1 : Skipping Token attachedSymbol On Line 392
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [ –142≈Õ5¿] has been renamed to PCB FootPrint [TO-220-KT-28-2_ –142≈Õ5¿(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [ –142≈Õ5¡] has been renamed to PCB FootPrint [TO-220-KT-28-2_ –142≈Õ5¡(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [ –142≈Õ5¬] has been renamed to PCB FootPrint [TO-220-KT-28-2_ –142≈Õ5¬(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [ –142≈Õ5√] has been renamed to PCB FootPrint [TO-220-KT-28-2_ –142≈Õ5√(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 142.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 34
+            Warning - 1 : Skipping Token viaStyleDef On Line 44
+            Warning - 1 : Skipping Token multiLayer On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 146
+            Warning - 1 : Skipping Token defaultPinDes On Line 203
+            Warning - 1 : Skipping Token defaultPinDes On Line 211
+            Warning - 1 : Skipping Token defaultPinDes On Line 219
+        EndSection
+
+        Section : Generating SCH Library - 142.SchLib
+            Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [ –142≈Õ5¿] has been renamed to PCB FootPrint [TO-220-KT-28-2_ –142≈Õ5¿(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [ –142≈Õ5¡] has been renamed to PCB FootPrint [TO-220-KT-28-2_ –142≈Õ5¡(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [ –142≈Õ5¬] has been renamed to PCB FootPrint [TO-220-KT-28-2_ –142≈Õ5¬(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [ –142≈Õ5√] has been renamed to PCB FootPrint [TO-220-KT-28-2_ –142≈Õ5√(Primary)].
+        EndSection
+    EndSection
+EndSection

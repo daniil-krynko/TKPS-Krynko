@@ -1,0 +1,85 @@
+PCAD Importer Log
+Project : 157.LibPkg
+
+Section : D:\PCAD-Libs\157.lib
+    Section : PCB Library - 157.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 118
+            Warning - 1 : Skipping Token defaultPinDes On Line 119
+            Warning - 1 : Skipping Token defaultPinDes On Line 120
+            Warning - 1 : Skipping Token defaultPinDes On Line 121
+            Warning - 1 : Skipping Token defaultPinDes On Line 122
+            Warning - 1 : Skipping Token defaultPinDes On Line 123
+            Warning - 1 : Skipping Token defaultPinDes On Line 124
+            Warning - 1 : Skipping Token defaultPinDes On Line 125
+            Warning - 1 : Skipping Token defaultPinDes On Line 126
+            Warning - 1 : Skipping Token defaultPinDes On Line 127
+            Warning - 1 : Skipping Token defaultPinDes On Line 128
+            Warning - 1 : Skipping Token defaultPinDes On Line 129
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token defaultPinDes On Line 278
+            Warning - 1 : Skipping Token defaultPinDes On Line 279
+            Warning - 1 : Skipping Token defaultPinDes On Line 280
+            Warning - 1 : Skipping Token defaultPinDes On Line 281
+            Warning - 1 : Skipping Token defaultPinDes On Line 282
+            Warning - 1 : Skipping Token defaultPinDes On Line 283
+            Warning - 1 : Skipping Token defaultPinDes On Line 284
+            Warning - 1 : Skipping Token defaultPinDes On Line 285
+            Warning - 1 : Skipping Token defaultPinDes On Line 286
+            Warning - 1 : Skipping Token defaultPinDes On Line 287
+            Warning - 1 : Skipping Token defaultPinDes On Line 288
+            Warning - 1 : Skipping Token defaultPinDes On Line 289
+            Warning - 1 : Skipping Token defaultPinDes On Line 290
+            Warning - 1 : Skipping Token defaultPinDes On Line 291
+            Warning - 1 : Skipping Token D-TRIGGER On Line 591
+            Warning - 1 : Skipping Token K157UD2_A On Line 667
+            Warning - 1 : Skipping Token K157UD2_B On Line 763
+            Warning - 1 : Skipping Token attachedSymbol On Line 865
+            Warning - 1 : Skipping Token attachedSymbol On Line 866
+            Warning - 1 : Skipping Token attachedSymbol On Line 911
+            Warning - 1 : Skipping Token attachedSymbol On Line 912
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 157.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token layerContents On Line 149
+            Warning - 1 : Skipping Token multiLayer On Line 277
+            Warning - 1 : Skipping Token layerContents On Line 293
+            Warning - 1 : Skipping Token layerContents On Line 309
+            Warning - 1 : Skipping Token multiLayer On Line 437
+            Warning - 1 : Skipping Token layerContents On Line 453
+            Warning - 1 : Skipping Token layerContents On Line 469
+            Warning - 1 : Skipping Token defaultPinDes On Line 599
+            Warning - 1 : Skipping Token defaultPinDes On Line 607
+            Warning - 1 : Skipping Token defaultPinDes On Line 615
+            Warning - 1 : Skipping Token defaultPinDes On Line 623
+            Warning - 1 : Skipping Token defaultPinDes On Line 631
+            Warning - 1 : Skipping Token defaultPinDes On Line 640
+            Warning - 1 : Skipping Token defaultPinDes On Line 676
+            Warning - 1 : Skipping Token defaultPinDes On Line 684
+            Warning - 1 : Skipping Token defaultPinDes On Line 692
+            Warning - 1 : Skipping Token defaultPinDes On Line 700
+            Warning - 1 : Skipping Token defaultPinDes On Line 708
+            Warning - 1 : Skipping Token defaultPinDes On Line 716
+            Warning - 1 : Skipping Token defaultPinDes On Line 724
+            Warning - 1 : Skipping Token defaultPinDes On Line 772
+            Warning - 1 : Skipping Token defaultPinDes On Line 780
+            Warning - 1 : Skipping Token defaultPinDes On Line 788
+            Warning - 1 : Skipping Token defaultPinDes On Line 796
+            Warning - 1 : Skipping Token defaultPinDes On Line 804
+        EndSection
+
+        Section : Generating SCH Library - 157.SchLib
+        EndSection
+    EndSection
+EndSection

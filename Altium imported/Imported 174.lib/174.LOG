@@ -1,0 +1,77 @@
+PCAD Importer Log
+Project : 174.LibPkg
+
+Section : D:\PCAD-Libs\174.lib
+    Section : PCB Library - 174.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 118
+            Warning - 1 : Skipping Token defaultPinDes On Line 119
+            Warning - 1 : Skipping Token defaultPinDes On Line 120
+            Warning - 1 : Skipping Token defaultPinDes On Line 121
+            Warning - 1 : Skipping Token defaultPinDes On Line 122
+            Warning - 1 : Skipping Token defaultPinDes On Line 123
+            Warning - 1 : Skipping Token defaultPinDes On Line 124
+            Warning - 1 : Skipping Token defaultPinDes On Line 125
+            Warning - 1 : Skipping Token defaultPinDes On Line 126
+            Warning - 1 : Skipping Token defaultPinDes On Line 127
+            Warning - 1 : Skipping Token defaultPinDes On Line 128
+            Warning - 1 : Skipping Token defaultPinDes On Line 129
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token й174оя1 On Line 447
+            Warning - 1 : Skipping Token й174ую2 On Line 584
+            Warning - 1 : Skipping Token attachedSymbol On Line 774
+            Warning - 1 : Skipping Token attachedSymbol On Line 821
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 174.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token layerContents On Line 149
+            Warning - 1 : Skipping Token multiLayer On Line 277
+            Warning - 1 : Skipping Token layerContents On Line 295
+            Warning - 1 : Skipping Token layerContents On Line 311
+            Warning - 1 : Skipping Token defaultPinDes On Line 455
+            Warning - 1 : Skipping Token defaultPinDes On Line 463
+            Warning - 1 : Skipping Token defaultPinDes On Line 471
+            Warning - 1 : Skipping Token defaultPinDes On Line 479
+            Warning - 1 : Skipping Token defaultPinDes On Line 487
+            Warning - 1 : Skipping Token defaultPinDes On Line 495
+            Warning - 1 : Skipping Token defaultPinDes On Line 503
+            Warning - 1 : Skipping Token defaultPinDes On Line 511
+            Warning - 1 : Skipping Token defaultPinDes On Line 519
+            Warning - 1 : Skipping Token defaultPinDes On Line 527
+            Warning - 1 : Skipping Token defaultPinDes On Line 535
+            Warning - 1 : Skipping Token defaultPinDes On Line 543
+            Warning - 1 : Skipping Token defaultPinDes On Line 551
+            Warning - 1 : Skipping Token defaultPinDes On Line 559
+            Warning - 1 : Skipping Token defaultPinDes On Line 592
+            Warning - 1 : Skipping Token defaultPinDes On Line 600
+            Warning - 1 : Skipping Token defaultPinDes On Line 608
+            Warning - 1 : Skipping Token defaultPinDes On Line 616
+            Warning - 1 : Skipping Token defaultPinDes On Line 624
+            Warning - 1 : Skipping Token defaultPinDes On Line 632
+            Warning - 1 : Skipping Token defaultPinDes On Line 640
+            Warning - 1 : Skipping Token defaultPinDes On Line 648
+            Warning - 1 : Skipping Token defaultPinDes On Line 656
+            Warning - 1 : Skipping Token defaultPinDes On Line 664
+            Warning - 1 : Skipping Token defaultPinDes On Line 672
+            Warning - 1 : Skipping Token defaultPinDes On Line 680
+            Warning - 1 : Skipping Token defaultPinDes On Line 688
+            Warning - 1 : Skipping Token defaultPinDes On Line 696
+            Warning - 1 : Skipping Token defaultPinDes On Line 704
+            Warning - 1 : Skipping Token defaultPinDes On Line 712
+        EndSection
+
+        Section : Generating SCH Library - 174.SchLib
+        EndSection
+    EndSection
+EndSection

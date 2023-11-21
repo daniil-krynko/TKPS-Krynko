@@ -1,0 +1,53 @@
+PCAD Importer Log
+Project : diods.LibPkg
+
+Section : D:\PCAD-Libs\Lib_mm\diods.lib
+    Section : PCB Library - diods.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token defaultPinDes On Line 154
+            Warning - 1 : Skipping Token defaultPinDes On Line 155
+            Warning - 1 : Skipping Token defaultPinDes On Line 156
+            Warning - 1 : Skipping Token defaultPinDes On Line 157
+            Warning - 1 : Skipping Token defaultPinDes On Line 158
+            Warning - 1 : Skipping Token defaultPinDes On Line 159
+            Warning - 1 : Skipping Token defaultPinDes On Line 160
+            Warning - 1 : Skipping Token defaultPinDes On Line 161
+            Warning - 1 : Skipping Token KUN308 On Line 173
+            Warning - 1 : Skipping Token VD On Line 240
+            Warning - 1 : Skipping Token attachedSymbol On Line 276
+            Warning - 1 : Skipping Token attachedSymbol On Line 296
+            Warning - 1 : Skipping Token attachedSymbol On Line 322
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - diods.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token viaStyleDef On Line 43
+            Warning - 1 : Skipping Token multiLayer On Line 129
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token multiLayer On Line 153
+            Warning - 1 : Skipping Token layerContents On Line 163
+            Warning - 1 : Skipping Token defaultPinDes On Line 180
+            Warning - 1 : Skipping Token defaultPinDes On Line 187
+            Warning - 1 : Skipping Token defaultPinDes On Line 194
+            Warning - 1 : Skipping Token defaultPinDes On Line 201
+            Warning - 1 : Skipping Token defaultPinDes On Line 209
+            Warning - 1 : Skipping Token defaultPinDes On Line 217
+            Warning - 1 : Skipping Token defaultPinDes On Line 224
+            Warning - 1 : Skipping Token defaultPinDes On Line 231
+            Warning - 1 : Skipping Token defaultPinDes On Line 247
+            Warning - 1 : Skipping Token defaultPinDes On Line 254
+        EndSection
+
+        Section : Generating SCH Library - diods.SchLib
+        EndSection
+    EndSection
+EndSection

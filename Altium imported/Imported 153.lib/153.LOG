@@ -1,0 +1,44 @@
+PCAD Importer Log
+Project : 153.LibPkg
+
+Section : D:\PCAD-Libs\153.lib
+    Section : PCB Library - 153.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 94
+            Warning - 1 : Skipping Token defaultPinDes On Line 95
+            Warning - 1 : Skipping Token defaultPinDes On Line 96
+            Warning - 1 : Skipping Token defaultPinDes On Line 97
+            Warning - 1 : Skipping Token defaultPinDes On Line 98
+            Warning - 1 : Skipping Token defaultPinDes On Line 99
+            Warning - 1 : Skipping Token defaultPinDes On Line 100
+            Warning - 1 : Skipping Token defaultPinDes On Line 101
+            Warning - 1 : Skipping Token й153сд1ю On Line 136
+            Warning - 1 : Skipping Token attachedSymbol On Line 256
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 153.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 93
+            Warning - 1 : Skipping Token layerContents On Line 103
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token defaultPinDes On Line 145
+            Warning - 1 : Skipping Token defaultPinDes On Line 153
+            Warning - 1 : Skipping Token defaultPinDes On Line 161
+            Warning - 1 : Skipping Token defaultPinDes On Line 169
+            Warning - 1 : Skipping Token defaultPinDes On Line 177
+            Warning - 1 : Skipping Token defaultPinDes On Line 185
+            Warning - 1 : Skipping Token defaultPinDes On Line 193
+            Warning - 1 : Skipping Token defaultPinDes On Line 201
+        EndSection
+
+        Section : Generating SCH Library - 153.SchLib
+        EndSection
+    EndSection
+EndSection

@@ -1,0 +1,1816 @@
+PCAD Importer Log
+Project : Diod.LibPkg
+
+Section : D:\PCAD-Libs\Diod.lib
+    Section : PCB Library - Diod.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 915
+            Warning - 1 : Skipping Token defaultPinDes On Line 916
+            Warning - 1 : Skipping Token defaultPinDes On Line 957
+            Warning - 1 : Skipping Token defaultPinDes On Line 958
+            Warning - 1 : Skipping Token defaultPinDes On Line 959
+            Warning - 1 : Skipping Token defaultPinDes On Line 960
+            Warning - 1 : Skipping Token defaultPinDes On Line 961
+            Warning - 1 : Skipping Token defaultPinDes On Line 987
+            Warning - 1 : Skipping Token defaultPinDes On Line 988
+            Warning - 1 : Skipping Token defaultPinDes On Line 1035
+            Warning - 1 : Skipping Token defaultPinDes On Line 1036
+            Warning - 1 : Skipping Token defaultPinDes On Line 1037
+            Warning - 1 : Skipping Token defaultPinDes On Line 1094
+            Warning - 1 : Skipping Token defaultPinDes On Line 1095
+            Warning - 1 : Skipping Token defaultPinDes On Line 1096
+            Warning - 1 : Skipping Token defaultPinDes On Line 1097
+            Warning - 1 : Skipping Token defaultPinDes On Line 1098
+            Warning - 1 : Skipping Token defaultPinDes On Line 1167
+            Warning - 1 : Skipping Token defaultPinDes On Line 1168
+            Warning - 1 : Skipping Token defaultPinDes On Line 1169
+            Warning - 1 : Skipping Token defaultPinDes On Line 1232
+            Warning - 1 : Skipping Token defaultPinDes On Line 1233
+            Warning - 1 : Skipping Token defaultPinDes On Line 1280
+            Warning - 1 : Skipping Token defaultPinDes On Line 1281
+            Warning - 1 : Skipping Token defaultPinDes On Line 1282
+            Warning - 1 : Skipping Token defaultPinDes On Line 1283
+            Warning - 1 : Skipping Token defaultPinDes On Line 1327
+            Warning - 1 : Skipping Token defaultPinDes On Line 1328
+            Warning - 1 : Skipping Token defaultPinDes On Line 1373
+            Warning - 1 : Skipping Token defaultPinDes On Line 1374
+            Warning - 1 : Skipping Token defaultPinDes On Line 1419
+            Warning - 1 : Skipping Token defaultPinDes On Line 1420
+            Warning - 1 : Skipping Token defaultPinDes On Line 1465
+            Warning - 1 : Skipping Token defaultPinDes On Line 1466
+            Warning - 1 : Skipping Token defaultPinDes On Line 1506
+            Warning - 1 : Skipping Token defaultPinDes On Line 1507
+            Warning - 1 : Skipping Token defaultPinDes On Line 1545
+            Warning - 1 : Skipping Token defaultPinDes On Line 1546
+            Warning - 1 : Skipping Token defaultPinDes On Line 1584
+            Warning - 1 : Skipping Token defaultPinDes On Line 1585
+            Warning - 1 : Skipping Token defaultPinDes On Line 1623
+            Warning - 1 : Skipping Token defaultPinDes On Line 1624
+            Warning - 1 : Skipping Token defaultPinDes On Line 1672
+            Warning - 1 : Skipping Token defaultPinDes On Line 1673
+            Warning - 1 : Skipping Token defaultPinDes On Line 1713
+            Warning - 1 : Skipping Token defaultPinDes On Line 1714
+            Warning - 1 : Skipping Token defaultPinDes On Line 1754
+            Warning - 1 : Skipping Token defaultPinDes On Line 1755
+            Warning - 1 : Skipping Token defaultPinDes On Line 1822
+            Warning - 1 : Skipping Token defaultPinDes On Line 1823
+            Warning - 1 : Skipping Token defaultPinDes On Line 1849
+            Warning - 1 : Skipping Token defaultPinDes On Line 1850
+            Warning - 1 : Skipping Token defaultPinDes On Line 1895
+            Warning - 1 : Skipping Token defaultPinDes On Line 1896
+            Warning - 1 : Skipping Token defaultPinDes On Line 1942
+            Warning - 1 : Skipping Token defaultPinDes On Line 1943
+            Warning - 1 : Skipping Token defaultPinDes On Line 1989
+            Warning - 1 : Skipping Token defaultPinDes On Line 1990
+            Warning - 1 : Skipping Token defaultPinDes On Line 2036
+            Warning - 1 : Skipping Token defaultPinDes On Line 2037
+            Warning - 1 : Skipping Token defaultPinDes On Line 2062
+            Warning - 1 : Skipping Token defaultPinDes On Line 2063
+            Warning - 1 : Skipping Token defaultPinDes On Line 2108
+            Warning - 1 : Skipping Token defaultPinDes On Line 2109
+            Warning - 1 : Skipping Token defaultPinDes On Line 2110
+            Warning - 1 : Skipping Token defaultPinDes On Line 2225
+            Warning - 1 : Skipping Token defaultPinDes On Line 2226
+            Warning - 1 : Skipping Token defaultPinDes On Line 2227
+            Warning - 1 : Skipping Token defaultPinDes On Line 2228
+            Warning - 1 : Skipping Token defaultPinDes On Line 2285
+            Warning - 1 : Skipping Token defaultPinDes On Line 2286
+            Warning - 1 : Skipping Token defaultPinDes On Line 2287
+            Warning - 1 : Skipping Token defaultPinDes On Line 2288
+            Warning - 1 : Skipping Token defaultPinDes On Line 2330
+            Warning - 1 : Skipping Token defaultPinDes On Line 2331
+            Warning - 1 : Skipping Token defaultPinDes On Line 2375
+            Warning - 1 : Skipping Token defaultPinDes On Line 2376
+            Warning - 1 : Skipping Token defaultPinDes On Line 2418
+            Warning - 1 : Skipping Token defaultPinDes On Line 2419
+            Warning - 1 : Skipping Token defaultPinDes On Line 2458
+            Warning - 1 : Skipping Token defaultPinDes On Line 2459
+            Warning - 1 : Skipping Token defaultPinDes On Line 2664
+            Warning - 1 : Skipping Token defaultPinDes On Line 2665
+            Warning - 1 : Skipping Token defaultPinDes On Line 2666
+            Warning - 1 : Skipping Token defaultPinDes On Line 2717
+            Warning - 1 : Skipping Token defaultPinDes On Line 2718
+            Warning - 1 : Skipping Token defaultPinDes On Line 2719
+            Warning - 1 : Skipping Token defaultPinDes On Line 2720
+            Warning - 1 : Skipping Token defaultPinDes On Line 2754
+            Warning - 1 : Skipping Token defaultPinDes On Line 2755
+            Warning - 1 : Skipping Token defaultPinDes On Line 2756
+            Warning - 1 : Skipping Token defaultPinDes On Line 2757
+            Warning - 1 : Skipping Token defaultPinDes On Line 2801
+            Warning - 1 : Skipping Token defaultPinDes On Line 2802
+            Warning - 1 : Skipping Token defaultPinDes On Line 2844
+            Warning - 1 : Skipping Token defaultPinDes On Line 2845
+            Warning - 1 : Skipping Token defaultPinDes On Line 2887
+            Warning - 1 : Skipping Token defaultPinDes On Line 2888
+            Warning - 1 : Skipping Token defaultPinDes On Line 2889
+            Warning - 1 : Skipping Token defaultPinDes On Line 2890
+            Warning - 1 : Skipping Token defaultPinDes On Line 2926
+            Warning - 1 : Skipping Token defaultPinDes On Line 2927
+            Warning - 1 : Skipping Token defaultPinDes On Line 2928
+            Warning - 1 : Skipping Token defaultPinDes On Line 2929
+            Warning - 1 : Skipping Token defaultPinDes On Line 3030
+            Warning - 1 : Skipping Token defaultPinDes On Line 3031
+            Warning - 1 : Skipping Token defaultPinDes On Line 3057
+            Warning - 1 : Skipping Token defaultPinDes On Line 3058
+            Warning - 1 : Skipping Token defaultPinDes On Line 3098
+            Warning - 1 : Skipping Token defaultPinDes On Line 3099
+            Warning - 1 : Skipping Token defaultPinDes On Line 3147
+            Warning - 1 : Skipping Token defaultPinDes On Line 3148
+            Warning - 1 : Skipping Token defaultPinDes On Line 3189
+            Warning - 1 : Skipping Token defaultPinDes On Line 3190
+            Warning - 1 : Skipping Token defaultPinDes On Line 3230
+            Warning - 1 : Skipping Token defaultPinDes On Line 3231
+            Warning - 1 : Skipping Token defaultPinDes On Line 3273
+            Warning - 1 : Skipping Token defaultPinDes On Line 3274
+            Warning - 1 : Skipping Token defaultPinDes On Line 3326
+            Warning - 1 : Skipping Token defaultPinDes On Line 3327
+            Warning - 1 : Skipping Token defaultPinDes On Line 3358
+            Warning - 1 : Skipping Token defaultPinDes On Line 3359
+            Warning - 1 : Skipping Token defaultPinDes On Line 3414
+            Warning - 1 : Skipping Token defaultPinDes On Line 3415
+            Warning - 1 : Skipping Token defaultPinDes On Line 3470
+            Warning - 1 : Skipping Token defaultPinDes On Line 3471
+            Warning - 1 : Skipping Token defaultPinDes On Line 3514
+            Warning - 1 : Skipping Token defaultPinDes On Line 3515
+            Warning - 1 : Skipping Token defaultPinDes On Line 3566
+            Warning - 1 : Skipping Token defaultPinDes On Line 3567
+            Warning - 1 : Skipping Token defaultPinDes On Line 3602
+            Warning - 1 : Skipping Token defaultPinDes On Line 3603
+            Warning - 1 : Skipping Token defaultPinDes On Line 3604
+            Warning - 1 : Skipping Token defaultPinDes On Line 3605
+            Warning - 1 : Skipping Token defaultPinDes On Line 3645
+            Warning - 1 : Skipping Token defaultPinDes On Line 3646
+            Warning - 1 : Skipping Token defaultPinDes On Line 3647
+            Warning - 1 : Skipping Token defaultPinDes On Line 3684
+            Warning - 1 : Skipping Token defaultPinDes On Line 3685
+            Warning - 1 : Skipping Token defaultPinDes On Line 3686
+            Warning - 1 : Skipping Token defaultPinDes On Line 3830
+            Warning - 1 : Skipping Token defaultPinDes On Line 3831
+            Warning - 1 : Skipping Token defaultPinDes On Line 3832
+            Warning - 1 : Skipping Token defaultPinDes On Line 3907
+            Warning - 1 : Skipping Token defaultPinDes On Line 3908
+            Warning - 1 : Skipping Token defaultPinDes On Line 3909
+            Warning - 1 : Skipping Token defaultPinDes On Line 3910
+            Warning - 1 : Skipping Token defaultPinDes On Line 4001
+            Warning - 1 : Skipping Token defaultPinDes On Line 4002
+            Warning - 1 : Skipping Token defaultPinDes On Line 4049
+            Warning - 1 : Skipping Token defaultPinDes On Line 4050
+            Warning - 1 : Skipping Token defaultPinDes On Line 4189
+            Warning - 1 : Skipping Token defaultPinDes On Line 4190
+            Warning - 1 : Skipping Token defaultPinDes On Line 4250
+            Warning - 1 : Skipping Token defaultPinDes On Line 4251
+            Warning - 1 : Skipping Token defaultPinDes On Line 4312
+            Warning - 1 : Skipping Token defaultPinDes On Line 4313
+            Warning - 1 : Skipping Token defaultPinDes On Line 4354
+            Warning - 1 : Skipping Token defaultPinDes On Line 4355
+            Warning - 1 : Skipping Token defaultPinDes On Line 4381
+            Warning - 1 : Skipping Token defaultPinDes On Line 4382
+            Warning - 1 : Skipping Token defaultPinDes On Line 4425
+            Warning - 1 : Skipping Token defaultPinDes On Line 4426
+            Warning - 1 : Skipping Token defaultPinDes On Line 4468
+            Warning - 1 : Skipping Token defaultPinDes On Line 4469
+            Warning - 1 : Skipping Token defaultPinDes On Line 4529
+            Warning - 1 : Skipping Token defaultPinDes On Line 4530
+            Warning - 1 : Skipping Token defaultPinDes On Line 4604
+            Warning - 1 : Skipping Token defaultPinDes On Line 4605
+            Warning - 1 : Skipping Token defaultPinDes On Line 4650
+            Warning - 1 : Skipping Token defaultPinDes On Line 4651
+            Warning - 1 : Skipping Token defaultPinDes On Line 4694
+            Warning - 1 : Skipping Token defaultPinDes On Line 4695
+            Warning - 1 : Skipping Token defaultPinDes On Line 4738
+            Warning - 1 : Skipping Token defaultPinDes On Line 4739
+            Warning - 1 : Skipping Token defaultPinDes On Line 4818
+            Warning - 1 : Skipping Token defaultPinDes On Line 4819
+            Warning - 1 : Skipping Token defaultPinDes On Line 5047
+            Warning - 1 : Skipping Token defaultPinDes On Line 5048
+            Warning - 1 : Skipping Token defaultPinDes On Line 5092
+            Warning - 1 : Skipping Token defaultPinDes On Line 5093
+            Warning - 1 : Skipping Token defaultPinDes On Line 5130
+            Warning - 1 : Skipping Token defaultPinDes On Line 5131
+            Warning - 1 : Skipping Token defaultPinDes On Line 5176
+            Warning - 1 : Skipping Token defaultPinDes On Line 5177
+            Warning - 1 : Skipping Token defaultPinDes On Line 5178
+            Warning - 1 : Skipping Token 2X_DIODE On Line 5315
+            Warning - 1 : Skipping Token 2X_DIODE_REVERSE On Line 5388
+            Warning - 1 : Skipping Token DIODE On Line 5461
+            Warning - 1 : Skipping Token DIODE_2X_COM_A On Line 5490
+            Warning - 1 : Skipping Token DIODE_SHOTTKI On Line 5537
+            Warning - 1 : Skipping Token DIODE_SHOTTKI_2X On Line 5568
+            Warning - 1 : Skipping Token DIODE_SHOTTKI_COM_A On Line 5619
+            Warning - 1 : Skipping Token DIODE_SHOTTKI_COM_C On Line 5670
+            Warning - 1 : Skipping Token DIOD_TUNNELNIY On Line 5721
+            Warning - 1 : Skipping Token DUAL_BD_V_SUP On Line 5752
+            Warning - 1 : Skipping Token D_BRIDGE On Line 5819
+            Warning - 1 : Skipping Token SMF05C On Line 5876
+            Warning - 1 : Skipping Token STABILITRON On Line 5942
+            Warning - 1 : Skipping Token STABILITRON_2ANODNIY On Line 5972
+            Warning - 1 : Skipping Token STABILITRON_COM_A On Line 6010
+            Warning - 1 : Skipping Token SYMYSTOR On Line 6059
+            Warning - 1 : Skipping Token THREE PHASE BRIDGE On Line 6096
+            Warning - 1 : Skipping Token TRIAC On Line 6223
+            Warning - 1 : Skipping Token TYRYSTOR On Line 6269
+            Warning - 1 : Skipping Token VARICAP On Line 6309
+            Warning - 1 : Skipping Token attachedSymbol On Line 6352
+            Warning - 1 : Skipping Token attachedSymbol On Line 6373
+            Warning - 1 : Skipping Token attachedSymbol On Line 6394
+            Warning - 1 : Skipping Token attachedSymbol On Line 6415
+            Warning - 1 : Skipping Token attachedSymbol On Line 6435
+            Warning - 1 : Skipping Token attachedSymbol On Line 6458
+            Warning - 1 : Skipping Token attachedSymbol On Line 6481
+            Warning - 1 : Skipping Token attachedSymbol On Line 6502
+            Warning - 1 : Skipping Token attachedSymbol On Line 6522
+            Warning - 1 : Skipping Token attachedSymbol On Line 6542
+            Warning - 1 : Skipping Token attachedSymbol On Line 6562
+            Warning - 1 : Skipping Token attachedSymbol On Line 6582
+            Warning - 1 : Skipping Token attachedSymbol On Line 6602
+            Warning - 1 : Skipping Token attachedSymbol On Line 6622
+            Warning - 1 : Skipping Token attachedSymbol On Line 6642
+            Warning - 1 : Skipping Token attachedSymbol On Line 6662
+            Warning - 1 : Skipping Token attachedSymbol On Line 6682
+            Warning - 1 : Skipping Token attachedSymbol On Line 6702
+            Warning - 1 : Skipping Token attachedSymbol On Line 6722
+            Warning - 1 : Skipping Token attachedSymbol On Line 6742
+            Warning - 1 : Skipping Token attachedSymbol On Line 6762
+            Warning - 1 : Skipping Token attachedSymbol On Line 6783
+            Warning - 1 : Skipping Token attachedSymbol On Line 6804
+            Warning - 1 : Skipping Token attachedSymbol On Line 6825
+            Warning - 1 : Skipping Token attachedSymbol On Line 6846
+            Warning - 1 : Skipping Token attachedSymbol On Line 6867
+            Warning - 1 : Skipping Token attachedSymbol On Line 6888
+            Warning - 1 : Skipping Token attachedSymbol On Line 6909
+            Warning - 1 : Skipping Token attachedSymbol On Line 6930
+            Warning - 1 : Skipping Token attachedSymbol On Line 6951
+            Warning - 1 : Skipping Token attachedSymbol On Line 6972
+            Warning - 1 : Skipping Token attachedSymbol On Line 6993
+            Warning - 1 : Skipping Token attachedSymbol On Line 7014
+            Warning - 1 : Skipping Token attachedSymbol On Line 7035
+            Warning - 1 : Skipping Token attachedSymbol On Line 7056
+            Warning - 1 : Skipping Token attachedSymbol On Line 7077
+            Warning - 1 : Skipping Token attachedSymbol On Line 7098
+            Warning - 1 : Skipping Token attachedSymbol On Line 7119
+            Warning - 1 : Skipping Token attachedSymbol On Line 7140
+            Warning - 1 : Skipping Token attachedSymbol On Line 7161
+            Warning - 1 : Skipping Token attachedSymbol On Line 7182
+            Warning - 1 : Skipping Token attachedSymbol On Line 7203
+            Warning - 1 : Skipping Token attachedSymbol On Line 7224
+            Warning - 1 : Skipping Token attachedSymbol On Line 7244
+            Warning - 1 : Skipping Token attachedSymbol On Line 7264
+            Warning - 1 : Skipping Token attachedSymbol On Line 7284
+            Warning - 1 : Skipping Token attachedSymbol On Line 7304
+            Warning - 1 : Skipping Token attachedSymbol On Line 7324
+            Warning - 1 : Skipping Token attachedSymbol On Line 7345
+            Warning - 1 : Skipping Token attachedSymbol On Line 7366
+            Warning - 1 : Skipping Token attachedSymbol On Line 7387
+            Warning - 1 : Skipping Token attachedSymbol On Line 7407
+            Warning - 1 : Skipping Token attachedSymbol On Line 7428
+            Warning - 1 : Skipping Token attachedSymbol On Line 7449
+            Warning - 1 : Skipping Token attachedSymbol On Line 7470
+            Warning - 1 : Skipping Token attachedSymbol On Line 7490
+            Warning - 1 : Skipping Token attachedSymbol On Line 7511
+            Warning - 1 : Skipping Token attachedSymbol On Line 7532
+            Warning - 1 : Skipping Token attachedSymbol On Line 7553
+            Warning - 1 : Skipping Token attachedSymbol On Line 7574
+            Warning - 1 : Skipping Token attachedSymbol On Line 7595
+            Warning - 1 : Skipping Token attachedSymbol On Line 7616
+            Warning - 1 : Skipping Token attachedSymbol On Line 7637
+            Warning - 1 : Skipping Token attachedSymbol On Line 7658
+            Warning - 1 : Skipping Token attachedSymbol On Line 7679
+            Warning - 1 : Skipping Token attachedSymbol On Line 7700
+            Warning - 1 : Skipping Token attachedSymbol On Line 7721
+            Warning - 1 : Skipping Token attachedSymbol On Line 7742
+            Warning - 1 : Skipping Token attachedSymbol On Line 7763
+            Warning - 1 : Skipping Token attachedSymbol On Line 7784
+            Warning - 1 : Skipping Token attachedSymbol On Line 7805
+            Warning - 1 : Skipping Token attachedSymbol On Line 7826
+            Warning - 1 : Skipping Token attachedSymbol On Line 7847
+            Warning - 1 : Skipping Token attachedSymbol On Line 7868
+            Warning - 1 : Skipping Token attachedSymbol On Line 7889
+            Warning - 1 : Skipping Token attachedSymbol On Line 7909
+            Warning - 1 : Skipping Token attachedSymbol On Line 7929
+            Warning - 1 : Skipping Token attachedSymbol On Line 7949
+            Warning - 1 : Skipping Token attachedSymbol On Line 7969
+            Warning - 1 : Skipping Token attachedSymbol On Line 7990
+            Warning - 1 : Skipping Token attachedSymbol On Line 8011
+            Warning - 1 : Skipping Token attachedSymbol On Line 8032
+            Warning - 1 : Skipping Token attachedSymbol On Line 8052
+            Warning - 1 : Skipping Token attachedSymbol On Line 8077
+            Warning - 1 : Skipping Token attachedSymbol On Line 8106
+            Warning - 1 : Skipping Token attachedSymbol On Line 8135
+            Warning - 1 : Skipping Token attachedSymbol On Line 8164
+            Warning - 1 : Skipping Token attachedSymbol On Line 8193
+            Warning - 1 : Skipping Token attachedSymbol On Line 8222
+            Warning - 1 : Skipping Token attachedSymbol On Line 8251
+            Warning - 1 : Skipping Token attachedSymbol On Line 8280
+            Warning - 1 : Skipping Token attachedSymbol On Line 8309
+            Warning - 1 : Skipping Token attachedSymbol On Line 8338
+            Warning - 1 : Skipping Token attachedSymbol On Line 8362
+            Warning - 1 : Skipping Token attachedSymbol On Line 8382
+            Warning - 1 : Skipping Token attachedSymbol On Line 8405
+            Warning - 1 : Skipping Token attachedSymbol On Line 8428
+            Warning - 1 : Skipping Token attachedSymbol On Line 8450
+            Warning - 1 : Skipping Token attachedSymbol On Line 8473
+            Warning - 1 : Skipping Token attachedSymbol On Line 8474
+            Warning - 1 : Skipping Token attachedSymbol On Line 8496
+            Warning - 1 : Skipping Token attachedSymbol On Line 8517
+            Warning - 1 : Skipping Token attachedSymbol On Line 8538
+            Warning - 1 : Skipping Token attachedSymbol On Line 8559
+            Warning - 1 : Skipping Token attachedSymbol On Line 8580
+            Warning - 1 : Skipping Token attachedSymbol On Line 8601
+            Warning - 1 : Skipping Token attachedSymbol On Line 8622
+            Warning - 1 : Skipping Token attachedSymbol On Line 8643
+            Warning - 1 : Skipping Token attachedSymbol On Line 8664
+            Warning - 1 : Skipping Token attachedSymbol On Line 8685
+            Warning - 1 : Skipping Token attachedSymbol On Line 8706
+            Warning - 1 : Skipping Token attachedSymbol On Line 8727
+            Warning - 1 : Skipping Token attachedSymbol On Line 8748
+            Warning - 1 : Skipping Token attachedSymbol On Line 8769
+            Warning - 1 : Skipping Token attachedSymbol On Line 8791
+            Warning - 1 : Skipping Token attachedSymbol On Line 8812
+            Warning - 1 : Skipping Token attachedSymbol On Line 8832
+            Warning - 1 : Skipping Token attachedSymbol On Line 8857
+            Warning - 1 : Skipping Token attachedSymbol On Line 8886
+            Warning - 1 : Skipping Token attachedSymbol On Line 8915
+            Warning - 1 : Skipping Token attachedSymbol On Line 8944
+            Warning - 1 : Skipping Token attachedSymbol On Line 8973
+            Warning - 1 : Skipping Token attachedSymbol On Line 9002
+            Warning - 1 : Skipping Token attachedSymbol On Line 9031
+            Warning - 1 : Skipping Token attachedSymbol On Line 9060
+            Warning - 1 : Skipping Token attachedSymbol On Line 9089
+            Warning - 1 : Skipping Token attachedSymbol On Line 9118
+            Warning - 1 : Skipping Token attachedSymbol On Line 9143
+            Warning - 1 : Skipping Token attachedSymbol On Line 9164
+            Warning - 1 : Skipping Token attachedSymbol On Line 9185
+            Warning - 1 : Skipping Token attachedSymbol On Line 9206
+            Warning - 1 : Skipping Token attachedSymbol On Line 9227
+            Warning - 1 : Skipping Token attachedSymbol On Line 9248
+            Warning - 1 : Skipping Token attachedSymbol On Line 9269
+            Warning - 1 : Skipping Token attachedSymbol On Line 9291
+            Warning - 1 : Skipping Token attachedSymbol On Line 9292
+            Warning - 1 : Skipping Token attachedSymbol On Line 9315
+            Warning - 1 : Skipping Token attachedSymbol On Line 9316
+            Warning - 1 : Skipping Token attachedSymbol On Line 9339
+            Warning - 1 : Skipping Token attachedSymbol On Line 9362
+            Warning - 1 : Skipping Token attachedSymbol On Line 9384
+            Warning - 1 : Skipping Token attachedSymbol On Line 9406
+            Warning - 1 : Skipping Token attachedSymbol On Line 9428
+            Warning - 1 : Skipping Token attachedSymbol On Line 9450
+            Warning - 1 : Skipping Token attachedSymbol On Line 9470
+            Warning - 1 : Skipping Token attachedSymbol On Line 9492
+            Warning - 1 : Skipping Token attachedSymbol On Line 9516
+            Warning - 1 : Skipping Token attachedSymbol On Line 9540
+            Warning - 1 : Skipping Token attachedSymbol On Line 9564
+            Warning - 1 : Skipping Token attachedSymbol On Line 9587
+            Warning - 1 : Skipping Token attachedSymbol On Line 9609
+            Warning - 1 : Skipping Token attachedSymbol On Line 9632
+            Warning - 1 : Skipping Token attachedSymbol On Line 9655
+            Warning - 1 : Skipping Token attachedSymbol On Line 9678
+            Warning - 1 : Skipping Token attachedSymbol On Line 9701
+            Warning - 1 : Skipping Token attachedSymbol On Line 9724
+            Warning - 1 : Skipping Token attachedSymbol On Line 9747
+            Warning - 1 : Skipping Token attachedSymbol On Line 9770
+            Warning - 1 : Skipping Token attachedSymbol On Line 9792
+            Warning - 1 : Skipping Token attachedSymbol On Line 9815
+            Warning - 1 : Skipping Token attachedSymbol On Line 9838
+            Warning - 1 : Skipping Token attachedSymbol On Line 9861
+            Warning - 1 : Skipping Token attachedSymbol On Line 9884
+            Warning - 1 : Skipping Token attachedSymbol On Line 9907
+            Warning - 1 : Skipping Token attachedSymbol On Line 9929
+            Warning - 1 : Skipping Token attachedSymbol On Line 9951
+            Warning - 1 : Skipping Token attachedSymbol On Line 9973
+            Warning - 1 : Skipping Token attachedSymbol On Line 9995
+            Warning - 1 : Skipping Token attachedSymbol On Line 10017
+            Warning - 1 : Skipping Token attachedSymbol On Line 10039
+            Warning - 1 : Skipping Token attachedSymbol On Line 10060
+            Warning - 1 : Skipping Token attachedSymbol On Line 10081
+            Warning - 1 : Skipping Token attachedSymbol On Line 10102
+            Warning - 1 : Skipping Token attachedSymbol On Line 10123
+            Warning - 1 : Skipping Token attachedSymbol On Line 10144
+            Warning - 1 : Skipping Token attachedSymbol On Line 10165
+            Warning - 1 : Skipping Token attachedSymbol On Line 10186
+            Warning - 1 : Skipping Token attachedSymbol On Line 10207
+            Warning - 1 : Skipping Token attachedSymbol On Line 10228
+            Warning - 1 : Skipping Token attachedSymbol On Line 10249
+            Warning - 1 : Skipping Token attachedSymbol On Line 10270
+            Warning - 1 : Skipping Token attachedSymbol On Line 10291
+            Warning - 1 : Skipping Token attachedSymbol On Line 10312
+            Warning - 1 : Skipping Token attachedSymbol On Line 10333
+            Warning - 1 : Skipping Token attachedSymbol On Line 10355
+            Warning - 1 : Skipping Token attachedSymbol On Line 10378
+            Warning - 1 : Skipping Token attachedSymbol On Line 10402
+            Warning - 1 : Skipping Token attachedSymbol On Line 10426
+            Warning - 1 : Skipping Token attachedSymbol On Line 10450
+            Warning - 1 : Skipping Token attachedSymbol On Line 10474
+            Warning - 1 : Skipping Token attachedSymbol On Line 10498
+            Warning - 1 : Skipping Token attachedSymbol On Line 10522
+            Warning - 1 : Skipping Token attachedSymbol On Line 10546
+            Warning - 1 : Skipping Token attachedSymbol On Line 10570
+            Warning - 1 : Skipping Token attachedSymbol On Line 10593
+            Warning - 1 : Skipping Token attachedSymbol On Line 10613
+            Warning - 1 : Skipping Token attachedSymbol On Line 10634
+            Warning - 1 : Skipping Token attachedSymbol On Line 10655
+            Warning - 1 : Skipping Token attachedSymbol On Line 10676
+            Warning - 1 : Skipping Token attachedSymbol On Line 10697
+            Warning - 1 : Skipping Token attachedSymbol On Line 10718
+            Warning - 1 : Skipping Token attachedSymbol On Line 10739
+            Warning - 1 : Skipping Token attachedSymbol On Line 10760
+            Warning - 1 : Skipping Token attachedSymbol On Line 10781
+            Warning - 1 : Skipping Token attachedSymbol On Line 10802
+            Warning - 1 : Skipping Token attachedSymbol On Line 10823
+            Warning - 1 : Skipping Token attachedSymbol On Line 10844
+            Warning - 1 : Skipping Token attachedSymbol On Line 10865
+            Warning - 1 : Skipping Token attachedSymbol On Line 10886
+            Warning - 1 : Skipping Token attachedSymbol On Line 10907
+            Warning - 1 : Skipping Token attachedSymbol On Line 10927
+            Warning - 1 : Skipping Token attachedSymbol On Line 10947
+            Warning - 1 : Skipping Token attachedSymbol On Line 10967
+            Warning - 1 : Skipping Token attachedSymbol On Line 10987
+            Warning - 1 : Skipping Token attachedSymbol On Line 11007
+            Warning - 1 : Skipping Token attachedSymbol On Line 11027
+            Warning - 1 : Skipping Token attachedSymbol On Line 11047
+            Warning - 1 : Skipping Token attachedSymbol On Line 11067
+            Warning - 1 : Skipping Token attachedSymbol On Line 11088
+            Warning - 1 : Skipping Token attachedSymbol On Line 11109
+            Warning - 1 : Skipping Token attachedSymbol On Line 11130
+            Warning - 1 : Skipping Token attachedSymbol On Line 11151
+            Warning - 1 : Skipping Token attachedSymbol On Line 11172
+            Warning - 1 : Skipping Token attachedSymbol On Line 11193
+            Warning - 1 : Skipping Token attachedSymbol On Line 11214
+            Warning - 1 : Skipping Token attachedSymbol On Line 11235
+            Warning - 1 : Skipping Token attachedSymbol On Line 11256
+            Warning - 1 : Skipping Token attachedSymbol On Line 11277
+            Warning - 1 : Skipping Token attachedSymbol On Line 11298
+            Warning - 1 : Skipping Token attachedSymbol On Line 11319
+            Warning - 1 : Skipping Token attachedSymbol On Line 11340
+            Warning - 1 : Skipping Token attachedSymbol On Line 11361
+            Warning - 1 : Skipping Token attachedSymbol On Line 11382
+            Warning - 1 : Skipping Token attachedSymbol On Line 11403
+            Warning - 1 : Skipping Token attachedSymbol On Line 11424
+            Warning - 1 : Skipping Token attachedSymbol On Line 11445
+            Warning - 1 : Skipping Token attachedSymbol On Line 11466
+            Warning - 1 : Skipping Token attachedSymbol On Line 11487
+            Warning - 1 : Skipping Token attachedSymbol On Line 11508
+            Warning - 1 : Skipping Token attachedSymbol On Line 11529
+            Warning - 1 : Skipping Token attachedSymbol On Line 11550
+            Warning - 1 : Skipping Token attachedSymbol On Line 11571
+            Warning - 1 : Skipping Token attachedSymbol On Line 11592
+            Warning - 1 : Skipping Token attachedSymbol On Line 11613
+            Warning - 1 : Skipping Token attachedSymbol On Line 11634
+            Warning - 1 : Skipping Token attachedSymbol On Line 11655
+            Warning - 1 : Skipping Token attachedSymbol On Line 11676
+            Warning - 1 : Skipping Token attachedSymbol On Line 11697
+            Warning - 1 : Skipping Token attachedSymbol On Line 11718
+            Warning - 1 : Skipping Token attachedSymbol On Line 11739
+            Warning - 1 : Skipping Token attachedSymbol On Line 11761
+            Warning - 1 : Skipping Token attachedSymbol On Line 11785
+            Warning - 1 : Skipping Token attachedSymbol On Line 11809
+            Warning - 1 : Skipping Token attachedSymbol On Line 11833
+            Warning - 1 : Skipping Token attachedSymbol On Line 11857
+            Warning - 1 : Skipping Token attachedSymbol On Line 11881
+            Warning - 1 : Skipping Token attachedSymbol On Line 11905
+            Warning - 1 : Skipping Token attachedSymbol On Line 11929
+            Warning - 1 : Skipping Token attachedSymbol On Line 11954
+            Warning - 1 : Skipping Token attachedSymbol On Line 11979
+            Warning - 1 : Skipping Token attachedSymbol On Line 12002
+            Warning - 1 : Skipping Token attachedSymbol On Line 12024
+            Warning - 1 : Skipping Token attachedSymbol On Line 12045
+            Warning - 1 : Skipping Token attachedSymbol On Line 12069
+            Warning - 1 : Skipping Token attachedSymbol On Line 12094
+            Warning - 1 : Skipping Token attachedSymbol On Line 12119
+            Warning - 1 : Skipping Token attachedSymbol On Line 12143
+            Warning - 1 : Skipping Token attachedSymbol On Line 12165
+            Warning - 1 : Skipping Token attachedSymbol On Line 12186
+            Warning - 1 : Skipping Token attachedSymbol On Line 12207
+            Warning - 1 : Skipping Token attachedSymbol On Line 12229
+            Warning - 1 : Skipping Token attachedSymbol On Line 12251
+            Warning - 1 : Skipping Token attachedSymbol On Line 12272
+            Warning - 1 : Skipping Token attachedSymbol On Line 12293
+            Warning - 1 : Skipping Token attachedSymbol On Line 12314
+            Warning - 1 : Skipping Token attachedSymbol On Line 12335
+            Warning - 1 : Skipping Token attachedSymbol On Line 12356
+            Warning - 1 : Skipping Token attachedSymbol On Line 12377
+            Warning - 1 : Skipping Token attachedSymbol On Line 12398
+            Warning - 1 : Skipping Token attachedSymbol On Line 12419
+            Warning - 1 : Skipping Token attachedSymbol On Line 12440
+            Warning - 1 : Skipping Token attachedSymbol On Line 12462
+            Warning - 1 : Skipping Token attachedSymbol On Line 12485
+            Warning - 1 : Skipping Token attachedSymbol On Line 12508
+            Warning - 1 : Skipping Token attachedSymbol On Line 12529
+            Warning - 1 : Skipping Token attachedSymbol On Line 12552
+            Warning - 1 : Skipping Token attachedSymbol On Line 12575
+            Warning - 1 : Skipping Token attachedSymbol On Line 12596
+            Warning - 1 : Skipping Token attachedSymbol On Line 12617
+            Warning - 1 : Skipping Token attachedSymbol On Line 12638
+            Warning - 1 : Skipping Token attachedSymbol On Line 12659
+            Warning - 1 : Skipping Token attachedSymbol On Line 12680
+            Warning - 1 : Skipping Token attachedSymbol On Line 12701
+            Warning - 1 : Skipping Token attachedSymbol On Line 12723
+            Warning - 1 : Skipping Token attachedSymbol On Line 12747
+            Warning - 1 : Skipping Token attachedSymbol On Line 12771
+            Warning - 1 : Skipping Token attachedSymbol On Line 12795
+            Warning - 1 : Skipping Token attachedSymbol On Line 12819
+            Warning - 1 : Skipping Token attachedSymbol On Line 12843
+            Warning - 1 : Skipping Token attachedSymbol On Line 12867
+            Warning - 1 : Skipping Token attachedSymbol On Line 12892
+            Warning - 1 : Skipping Token attachedSymbol On Line 12917
+            Warning - 1 : Skipping Token attachedSymbol On Line 12942
+            Warning - 1 : Skipping Token attachedSymbol On Line 12964
+            Warning - 1 : Skipping Token attachedSymbol On Line 12987
+            Warning - 1 : Skipping Token attachedSymbol On Line 13012
+            Warning - 1 : Skipping Token attachedSymbol On Line 13037
+            Warning - 1 : Skipping Token attachedSymbol On Line 13062
+            Warning - 1 : Skipping Token attachedSymbol On Line 13086
+            Warning - 1 : Skipping Token attachedSymbol On Line 13108
+            Warning - 1 : Skipping Token attachedSymbol On Line 13129
+            Warning - 1 : Skipping Token attachedSymbol On Line 13151
+            Warning - 1 : Skipping Token attachedSymbol On Line 13173
+            Warning - 1 : Skipping Token attachedSymbol On Line 13194
+            Warning - 1 : Skipping Token attachedSymbol On Line 13215
+            Warning - 1 : Skipping Token attachedSymbol On Line 13236
+            Warning - 1 : Skipping Token attachedSymbol On Line 13257
+            Warning - 1 : Skipping Token attachedSymbol On Line 13278
+            Warning - 1 : Skipping Token attachedSymbol On Line 13299
+            Warning - 1 : Skipping Token attachedSymbol On Line 13319
+            Warning - 1 : Skipping Token attachedSymbol On Line 13340
+            Warning - 1 : Skipping Token attachedSymbol On Line 13362
+            Warning - 1 : Skipping Token attachedSymbol On Line 13384
+            Warning - 1 : Skipping Token attachedSymbol On Line 13404
+            Warning - 1 : Skipping Token attachedSymbol On Line 13424
+            Warning - 1 : Skipping Token attachedSymbol On Line 13444
+            Warning - 1 : Skipping Token attachedSymbol On Line 13465
+            Warning - 1 : Skipping Token attachedSymbol On Line 13486
+            Warning - 1 : Skipping Token attachedSymbol On Line 13507
+            Warning - 1 : Skipping Token attachedSymbol On Line 13528
+            Warning - 1 : Skipping Token attachedSymbol On Line 13549
+            Warning - 1 : Skipping Token attachedSymbol On Line 13570
+            Warning - 1 : Skipping Token attachedSymbol On Line 13591
+            Warning - 1 : Skipping Token attachedSymbol On Line 13612
+            Warning - 1 : Skipping Token attachedSymbol On Line 13633
+            Warning - 1 : Skipping Token attachedSymbol On Line 13654
+            Warning - 1 : Skipping Token attachedSymbol On Line 13675
+            Warning - 1 : Skipping Token attachedSymbol On Line 13696
+            Warning - 1 : Skipping Token attachedSymbol On Line 13717
+            Warning - 1 : Skipping Token attachedSymbol On Line 13738
+            Warning - 1 : Skipping Token attachedSymbol On Line 13759
+            Warning - 1 : Skipping Token attachedSymbol On Line 13780
+            Warning - 1 : Skipping Token attachedSymbol On Line 13801
+            Warning - 1 : Skipping Token attachedSymbol On Line 13822
+            Warning - 1 : Skipping Token attachedSymbol On Line 13843
+            Warning - 1 : Skipping Token attachedSymbol On Line 13864
+            Warning - 1 : Skipping Token attachedSymbol On Line 13885
+            Warning - 1 : Skipping Token attachedSymbol On Line 13906
+            Warning - 1 : Skipping Token attachedSymbol On Line 13927
+            Warning - 1 : Skipping Token attachedSymbol On Line 13948
+            Warning - 1 : Skipping Token attachedSymbol On Line 13969
+            Warning - 1 : Skipping Token attachedSymbol On Line 13990
+            Warning - 1 : Skipping Token attachedSymbol On Line 14011
+            Warning - 1 : Skipping Token attachedSymbol On Line 14032
+            Warning - 1 : Skipping Token attachedSymbol On Line 14054
+            Warning - 1 : Skipping Token attachedSymbol On Line 14076
+            Warning - 1 : Skipping Token attachedSymbol On Line 14097
+            Warning - 1 : Skipping Token attachedSymbol On Line 14117
+            Warning - 1 : Skipping Token attachedSymbol On Line 14137
+            Warning - 1 : Skipping Token attachedSymbol On Line 14158
+            Warning - 1 : Skipping Token attachedSymbol On Line 14182
+            Warning - 1 : Skipping Token attachedSymbol On Line 14207
+            Warning - 1 : Skipping Token attachedSymbol On Line 14228
+            Warning - 1 : Skipping Token attachedSymbol On Line 14249
+            Warning - 1 : Skipping Token attachedSymbol On Line 14270
+            Warning - 1 : Skipping Token attachedSymbol On Line 14291
+            Warning - 1 : Skipping Token attachedSymbol On Line 14312
+            Warning - 1 : Skipping Token attachedSymbol On Line 14333
+            Warning - 1 : Skipping Token attachedSymbol On Line 14354
+            Warning - 1 : Skipping Token attachedSymbol On Line 14375
+            Warning - 1 : Skipping Token attachedSymbol On Line 14395
+            Warning - 1 : Skipping Token attachedSymbol On Line 14415
+            Warning - 1 : Skipping Token attachedSymbol On Line 14435
+            Warning - 1 : Skipping Token attachedSymbol On Line 14455
+            Warning - 1 : Skipping Token attachedSymbol On Line 14475
+            Warning - 1 : Skipping Token attachedSymbol On Line 14495
+            Warning - 1 : Skipping Token attachedSymbol On Line 14515
+            Warning - 1 : Skipping Token attachedSymbol On Line 14535
+            Warning - 1 : Skipping Token attachedSymbol On Line 14555
+            Warning - 1 : Skipping Token attachedSymbol On Line 14575
+            Warning - 1 : Skipping Token attachedSymbol On Line 14595
+            Warning - 1 : Skipping Token attachedSymbol On Line 14615
+            Warning - 1 : Skipping Token attachedSymbol On Line 14635
+            Warning - 1 : Skipping Token attachedSymbol On Line 14655
+            Warning - 1 : Skipping Token attachedSymbol On Line 14676
+            Warning - 1 : Skipping Token attachedSymbol On Line 14700
+            Warning - 1 : Skipping Token attachedSymbol On Line 14724
+            Warning - 1 : Skipping Token attachedSymbol On Line 14745
+            Warning - 1 : Skipping Token attachedSymbol On Line 14766
+            Warning - 1 : Skipping Token attachedSymbol On Line 14788
+            Warning - 1 : Skipping Token attachedSymbol On Line 14812
+            Warning - 1 : Skipping Token attachedSymbol On Line 14836
+            Warning - 1 : Skipping Token attachedSymbol On Line 14860
+            Warning - 1 : Skipping Token attachedSymbol On Line 14884
+            Warning - 1 : Skipping Token attachedSymbol On Line 14908
+            Warning - 1 : Skipping Token attachedSymbol On Line 14932
+            Warning - 1 : Skipping Token attachedSymbol On Line 14954
+            Warning - 1 : Skipping Token attachedSymbol On Line 14974
+            Warning - 1 : Skipping Token attachedSymbol On Line 14994
+            Warning - 1 : Skipping Token attachedSymbol On Line 15014
+            Warning - 1 : Skipping Token attachedSymbol On Line 15034
+            Warning - 1 : Skipping Token attachedSymbol On Line 15054
+            Warning - 1 : Skipping Token attachedSymbol On Line 15074
+            Warning - 1 : Skipping Token attachedSymbol On Line 15094
+            Warning - 1 : Skipping Token attachedSymbol On Line 15114
+            Warning - 1 : Skipping Token attachedSymbol On Line 15134
+            Warning - 1 : Skipping Token attachedSymbol On Line 15157
+            Warning - 1 : Skipping Token attachedSymbol On Line 15182
+            Warning - 1 : Skipping Token attachedSymbol On Line 15207
+            Warning - 1 : Skipping Token attachedSymbol On Line 15232
+            Warning - 1 : Skipping Token attachedSymbol On Line 15257
+            Warning - 1 : Skipping Token attachedSymbol On Line 15282
+            Warning - 1 : Skipping Token attachedSymbol On Line 15307
+            Warning - 1 : Skipping Token attachedSymbol On Line 15329
+            Warning - 1 : Skipping Token attachedSymbol On Line 15349
+            Warning - 1 : Skipping Token attachedSymbol On Line 15369
+            Warning - 1 : Skipping Token attachedSymbol On Line 15389
+            Warning - 1 : Skipping Token attachedSymbol On Line 15409
+            Warning - 1 : Skipping Token attachedSymbol On Line 15429
+            Warning - 1 : Skipping Token attachedSymbol On Line 15449
+            Warning - 1 : Skipping Token attachedSymbol On Line 15469
+            Warning - 1 : Skipping Token attachedSymbol On Line 15489
+            Warning - 1 : Skipping Token attachedSymbol On Line 15509
+            Warning - 1 : Skipping Token attachedSymbol On Line 15529
+            Warning - 1 : Skipping Token attachedSymbol On Line 15549
+            Warning - 1 : Skipping Token attachedSymbol On Line 15569
+            Warning - 1 : Skipping Token attachedSymbol On Line 15589
+            Warning - 1 : Skipping Token attachedSymbol On Line 15609
+            Warning - 1 : Skipping Token attachedSymbol On Line 15629
+            Warning - 1 : Skipping Token attachedSymbol On Line 15649
+            Warning - 1 : Skipping Token attachedSymbol On Line 15669
+            Warning - 1 : Skipping Token attachedSymbol On Line 15689
+            Warning - 1 : Skipping Token attachedSymbol On Line 15709
+            Warning - 1 : Skipping Token attachedSymbol On Line 15729
+            Warning - 1 : Skipping Token attachedSymbol On Line 15750
+            Warning - 1 : Skipping Token attachedSymbol On Line 15771
+            Warning - 1 : Skipping Token attachedSymbol On Line 15792
+            Warning - 1 : Skipping Token attachedSymbol On Line 15813
+            Warning - 1 : Skipping Token attachedSymbol On Line 15834
+            Warning - 1 : Skipping Token attachedSymbol On Line 15854
+            Warning - 1 : Skipping Token attachedSymbol On Line 15874
+            Warning - 1 : Skipping Token attachedSymbol On Line 15894
+            Warning - 1 : Skipping Token attachedSymbol On Line 15914
+            Warning - 1 : Skipping Token attachedSymbol On Line 15934
+            Warning - 1 : Skipping Token attachedSymbol On Line 15954
+            Warning - 1 : Skipping Token attachedSymbol On Line 15974
+            Warning - 1 : Skipping Token attachedSymbol On Line 15994
+            Warning - 1 : Skipping Token attachedSymbol On Line 16014
+            Warning - 1 : Skipping Token attachedSymbol On Line 16034
+            Warning - 1 : Skipping Token attachedSymbol On Line 16054
+            Warning - 1 : Skipping Token attachedSymbol On Line 16074
+            Warning - 1 : Skipping Token attachedSymbol On Line 16094
+            Warning - 1 : Skipping Token attachedSymbol On Line 16114
+            Warning - 1 : Skipping Token attachedSymbol On Line 16134
+            Warning - 1 : Skipping Token attachedSymbol On Line 16154
+            Warning - 1 : Skipping Token attachedSymbol On Line 16174
+            Warning - 1 : Skipping Token attachedSymbol On Line 16194
+            Warning - 1 : Skipping Token attachedSymbol On Line 16214
+            Warning - 1 : Skipping Token attachedSymbol On Line 16234
+            Warning - 1 : Skipping Token attachedSymbol On Line 16254
+            Warning - 1 : Skipping Token attachedSymbol On Line 16274
+            Warning - 1 : Skipping Token attachedSymbol On Line 16295
+            Warning - 1 : Skipping Token attachedSymbol On Line 16315
+            Warning - 1 : Skipping Token attachedSymbol On Line 16335
+            Warning - 1 : Skipping Token attachedSymbol On Line 16355
+            Warning - 1 : Skipping Token attachedSymbol On Line 16376
+            Warning - 1 : Skipping Token attachedSymbol On Line 16396
+            Warning - 1 : Skipping Token attachedSymbol On Line 16417
+            Warning - 1 : Skipping Token attachedSymbol On Line 16437
+            Warning - 1 : Skipping Token attachedSymbol On Line 16458
+            Warning - 1 : Skipping Token attachedSymbol On Line 16479
+            Warning - 1 : Skipping Token attachedSymbol On Line 16500
+            Warning - 1 : Skipping Token attachedSymbol On Line 16521
+            Warning - 1 : Skipping Token attachedSymbol On Line 16542
+            Warning - 1 : Skipping Token attachedSymbol On Line 16563
+            Warning - 1 : Skipping Token attachedSymbol On Line 16584
+            Warning - 1 : Skipping Token attachedSymbol On Line 16605
+            Warning - 1 : Skipping Token attachedSymbol On Line 16626
+            Warning - 1 : Skipping Token attachedSymbol On Line 16647
+            Warning - 1 : Skipping Token attachedSymbol On Line 16668
+            Warning - 1 : Skipping Token attachedSymbol On Line 16689
+            Warning - 1 : Skipping Token attachedSymbol On Line 16709
+            Warning - 1 : Skipping Token attachedSymbol On Line 16730
+            Warning - 1 : Skipping Token attachedSymbol On Line 16752
+            Warning - 1 : Skipping Token attachedSymbol On Line 16774
+            Warning - 1 : Skipping Token attachedSymbol On Line 16796
+            Warning - 1 : Skipping Token attachedSymbol On Line 16818
+            Warning - 1 : Skipping Token attachedSymbol On Line 16840
+            Warning - 1 : Skipping Token attachedSymbol On Line 16862
+            Warning - 1 : Skipping Token attachedSymbol On Line 16884
+            Warning - 1 : Skipping Token attachedSymbol On Line 16906
+            Warning - 1 : Skipping Token attachedSymbol On Line 16928
+            Warning - 1 : Skipping Token attachedSymbol On Line 16950
+            Warning - 1 : Skipping Token attachedSymbol On Line 16972
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [DO-201][Primary] associated with PCAD Component [1.5KE16A (TVS)] has been renamed to PCB FootPrint [DO-201_1.5KE16A (TVS)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1.5KE51A] has been renamed to PCB FootPrint [DO-27_1.5KE51A(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201][Primary] associated with PCAD Component [1.5KE_SERIES] has been renamed to PCB FootPrint [DO-201_1.5KE_SERIES(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N34] has been renamed to PCB FootPrint [DO-7_1N34(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4001] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4001(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4002] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4002(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4003] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4003(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4004] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4004(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4005] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4005(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4006] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4006(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4007] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4007(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [1N4007_10MM] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_1N4007_10MM(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD27][Primary] associated with PCAD Component [1N4148] has been renamed to PCB FootPrint [SOD27_1N4148(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD-323][Primary] associated with PCAD Component [1N4148WS] has been renamed to PCB FootPrint [SOD-323_1N4148WS(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD27_9MM][Primary] associated with PCAD Component [1N4148_9MM] has been renamed to PCB FootPrint [SOD27_9MM_1N4148_9MM(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD27][Primary] associated with PCAD Component [1N4448] has been renamed to PCB FootPrint [SOD27_1N4448(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4933] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4933(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4934] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4934(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4935] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4935(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4936] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4936(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4937] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4937(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5158] has been renamed to PCB FootPrint [DO-7_1N5158(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5159] has been renamed to PCB FootPrint [DO-7_1N5159(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5160] has been renamed to PCB FootPrint [DO-7_1N5160(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [1N5391] has been renamed to PCB FootPrint [DO-15_1N5391(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5400] has been renamed to PCB FootPrint [DO-27_1N5400(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD VERT][Primary] associated with PCAD Component [1N5400 VERT] has been renamed to PCB FootPrint [DO-201AD VERT_1N5400 VERT(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5401] has been renamed to PCB FootPrint [DO-27_1N5401(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [1N5402] has been renamed to PCB FootPrint [DO-201AD_1N5402(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5404] has been renamed to PCB FootPrint [DO-27_1N5404(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5406] has been renamed to PCB FootPrint [DO-27_1N5406(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5407] has been renamed to PCB FootPrint [DO-27_1N5407(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5408] has been renamed to PCB FootPrint [DO-27_1N5408(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5779] has been renamed to PCB FootPrint [DO-7_1N5779(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5780] has been renamed to PCB FootPrint [DO-7_1N5780(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5781] has been renamed to PCB FootPrint [DO-7_1N5781(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5782] has been renamed to PCB FootPrint [DO-7_1N5782(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5783] has been renamed to PCB FootPrint [DO-7_1N5783(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5784] has been renamed to PCB FootPrint [DO-7_1N5784(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5785] has been renamed to PCB FootPrint [DO-7_1N5785(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5786] has been renamed to PCB FootPrint [DO-7_1N5786(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5787] has been renamed to PCB FootPrint [DO-7_1N5787(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5788] has been renamed to PCB FootPrint [DO-7_1N5788(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5789] has been renamed to PCB FootPrint [DO-7_1N5789(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5790] has been renamed to PCB FootPrint [DO-7_1N5790(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5791] has been renamed to PCB FootPrint [DO-7_1N5791(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5792] has been renamed to PCB FootPrint [DO-7_1N5792(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5793] has been renamed to PCB FootPrint [DO-7_1N5793(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [1N5817] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_1N5817(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_V][Primary] associated with PCAD Component [1N5817_V] has been renamed to PCB FootPrint [DO-41(DO-204AL)_V_1N5817_V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [1N5818] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_1N5818(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [1N5819] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_1N5819(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD-123][Primary] associated with PCAD Component [1N5819HW] has been renamed to PCB FootPrint [SOD-123_1N5819HW(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5821] has been renamed to PCB FootPrint [DO-27_1N5821(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5822] has been renamed to PCB FootPrint [DO-27_1N5822(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [1N914] has been renamed to PCB FootPrint [DO-35_1N914(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT05] has been renamed to PCB FootPrint [D-63_26MT05(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT10] has been renamed to PCB FootPrint [D-63_26MT10(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT100] has been renamed to PCB FootPrint [D-63_26MT100(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT120] has been renamed to PCB FootPrint [D-63_26MT120(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT140] has been renamed to PCB FootPrint [D-63_26MT140(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT160] has been renamed to PCB FootPrint [D-63_26MT160(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT20] has been renamed to PCB FootPrint [D-63_26MT20(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT40] has been renamed to PCB FootPrint [D-63_26MT40(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT60] has been renamed to PCB FootPrint [D-63_26MT60(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT80] has been renamed to PCB FootPrint [D-63_26MT80(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд102][Primary] associated with PCAD Component [2д102ю] has been renamed to PCB FootPrint [йд102_2д102ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд102][Primary] associated with PCAD Component [2д102а] has been renamed to PCB FootPrint [йд102_2д102а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [2д504ю-0412][Primary] associated with PCAD Component [2д504ю] has been renamed to PCB FootPrint [2д504ю-0412_2д504ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я175ф] has been renamed to PCB FootPrint [KD-2_2я175ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я182ф] has been renamed to PCB FootPrint [KD-2_2я182ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я191ф] has been renamed to PCB FootPrint [KD-2_2я191ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я210ф] has been renamed to PCB FootPrint [KD-2_2я210ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я211ф] has been renamed to PCB FootPrint [KD-2_2я211ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я212ф] has been renamed to PCB FootPrint [KD-2_2я212ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я213ф] has been renamed to PCB FootPrint [KD-2_2я213ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я215ф] has been renamed to PCB FootPrint [KD-2_2я215ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я216ф] has been renamed to PCB FootPrint [KD-2_2я216ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я218ф] has been renamed to PCB FootPrint [KD-2_2я218ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я220ф] has been renamed to PCB FootPrint [KD-2_2я220ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я222ф] has been renamed to PCB FootPrint [KD-2_2я222ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я224ф] has been renamed to PCB FootPrint [KD-2_2я224ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT05] has been renamed to PCB FootPrint [D-63_36MT05(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT10] has been renamed to PCB FootPrint [D-63_36MT10(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT100] has been renamed to PCB FootPrint [D-63_36MT100(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT120] has been renamed to PCB FootPrint [D-63_36MT120(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT140] has been renamed to PCB FootPrint [D-63_36MT140(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT160] has been renamed to PCB FootPrint [D-63_36MT160(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT20] has been renamed to PCB FootPrint [D-63_36MT20(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT40] has been renamed to PCB FootPrint [D-63_36MT40(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT60] has been renamed to PCB FootPrint [D-63_36MT60(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT80] has been renamed to PCB FootPrint [D-63_36MT80(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A05] has been renamed to PCB FootPrint [R-5_6A05(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [6A1] has been renamed to PCB FootPrint [R-6_6A1(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A10] has been renamed to PCB FootPrint [R-5_6A10(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A2] has been renamed to PCB FootPrint [R-5_6A2(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A4] has been renamed to PCB FootPrint [R-5_6A4(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A6] has been renamed to PCB FootPrint [R-5_6A6(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A8] has been renamed to PCB FootPrint [R-5_6A8(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD-323][Primary] associated with PCAD Component [BAS21-03W] has been renamed to PCB FootPrint [SOD-323_BAS21-03W(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD68][Primary] associated with PCAD Component [BAS45A] has been renamed to PCB FootPrint [SOD68_BAS45A(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [BY297] has been renamed to PCB FootPrint [DO-15_BY297(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [BY298] has been renamed to PCB FootPrint [DO-15_BY298(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [BY299] has been renamed to PCB FootPrint [DO-15_BY299(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [BY396] has been renamed to PCB FootPrint [DO-27_BY396(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [BY397] has been renamed to PCB FootPrint [DO-27_BY397(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [BY398] has been renamed to PCB FootPrint [DO-27_BY398(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [BY399] has been renamed to PCB FootPrint [DO-27_BY399(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C13V] has been renamed to PCB FootPrint [DO-35_BZX55-C13V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C15V] has been renamed to PCB FootPrint [DO-35_BZX55-C15V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C30V] has been renamed to PCB FootPrint [DO-35_BZX55-C30V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C4V7] has been renamed to PCB FootPrint [DO-35_BZX55-C4V7(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C7V5] has been renamed to PCB FootPrint [DO-35_BZX55-C7V5(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [FR103] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_FR103(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [FR207] has been renamed to PCB FootPrint [DO-15_FR207(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR301] has been renamed to PCB FootPrint [DO-27_FR301(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR302] has been renamed to PCB FootPrint [DO-27_FR302(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR303] has been renamed to PCB FootPrint [DO-27_FR303(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR304] has been renamed to PCB FootPrint [DO-27_FR304(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR305] has been renamed to PCB FootPrint [DO-27_FR305(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR306] has been renamed to PCB FootPrint [DO-27_FR306(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR307] has been renamed to PCB FootPrint [DO-27_FR307(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR601] has been renamed to PCB FootPrint [R-6_FR601(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR602] has been renamed to PCB FootPrint [R-6_FR602(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR603] has been renamed to PCB FootPrint [R-6_FR603(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR604] has been renamed to PCB FootPrint [R-6_FR604(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR605] has been renamed to PCB FootPrint [R-6_FR605(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR606] has been renamed to PCB FootPrint [R-6_FR606(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR607] has been renamed to PCB FootPrint [R-6_FR607(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER101] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER101(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER102] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER102(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER103] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER103(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER104] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER104(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER105] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER105(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER106] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER106(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER107] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER107(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER108] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER108(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER201] has been renamed to PCB FootPrint [DO-15_HER201(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER202] has been renamed to PCB FootPrint [DO-15_HER202(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER203] has been renamed to PCB FootPrint [DO-15_HER203(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER204] has been renamed to PCB FootPrint [DO-15_HER204(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER205] has been renamed to PCB FootPrint [DO-15_HER205(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER206] has been renamed to PCB FootPrint [DO-15_HER206(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER207] has been renamed to PCB FootPrint [DO-15_HER207(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER208] has been renamed to PCB FootPrint [DO-15_HER208(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER301] has been renamed to PCB FootPrint [DO-27_HER301(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER302] has been renamed to PCB FootPrint [DO-27_HER302(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER303] has been renamed to PCB FootPrint [DO-27_HER303(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER304] has been renamed to PCB FootPrint [DO-27_HER304(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER305] has been renamed to PCB FootPrint [DO-27_HER305(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER306] has been renamed to PCB FootPrint [DO-27_HER306(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER307] has been renamed to PCB FootPrint [DO-27_HER307(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER308] has been renamed to PCB FootPrint [DO-27_HER308(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KU202_VERT][Primary] associated with PCAD Component [KU202_VERT] has been renamed to PCB FootPrint [KU202_VERT_KU202_VERT(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [MTZ-18V-1W(1N4746)] has been renamed to PCB FootPrint [DO-41(DO-204AL)_MTZ-18V-1W(1N4746)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600A] has been renamed to PCB FootPrint [R-5_P600A(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600B] has been renamed to PCB FootPrint [R-5_P600B(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600D] has been renamed to PCB FootPrint [R-5_P600D(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600G] has been renamed to PCB FootPrint [R-5_P600G(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600J] has been renamed to PCB FootPrint [R-5_P600J(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600K] has been renamed to PCB FootPrint [R-5_P600K(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600M] has been renamed to PCB FootPrint [R-5_P600M(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [P6KE_SERIES] has been renamed to PCB FootPrint [DO-15_P6KE_SERIES(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD-323][Primary] associated with PCAD Component [PMEG2002EJ] has been renamed to PCB FootPrint [SOD-323_PMEG2002EJ(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL201] has been renamed to PCB FootPrint [DO-15_RL201(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL202] has been renamed to PCB FootPrint [DO-15_RL202(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL203] has been renamed to PCB FootPrint [DO-15_RL203(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL204] has been renamed to PCB FootPrint [DO-15_RL204(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL205] has been renamed to PCB FootPrint [DO-15_RL205(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL206] has been renamed to PCB FootPrint [DO-15_RL206(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL207] has been renamed to PCB FootPrint [DO-15_RL207(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SF12] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SF12(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SF14] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SF14(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SF18] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SF18(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_V][Primary] associated with PCAD Component [SF18_V] has been renamed to PCB FootPrint [DO-41(DO-204AL)_V_SF18_V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [SF22] has been renamed to PCB FootPrint [DO-15_SF22(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [SF24] has been renamed to PCB FootPrint [DO-15_SF24(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [SF28] has been renamed to PCB FootPrint [DO-15_SF28(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SF32] has been renamed to PCB FootPrint [DO-27_SF32(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SF34] has been renamed to PCB FootPrint [DO-27_SF34(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [SF510] has been renamed to PCB FootPrint [DO-201AD_SF510(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SF52] has been renamed to PCB FootPrint [DO-27_SF52(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SF54(DO-27)] has been renamed to PCB FootPrint [DO-27_SF54(DO-27)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [SF57] has been renamed to PCB FootPrint [DO-201AD_SF57(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [SF58] has been renamed to PCB FootPrint [DO-201AD_SF58(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [SF59] has been renamed to PCB FootPrint [DO-201AD_SF59(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK32] has been renamed to PCB FootPrint [SMC_SK32(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK33] has been renamed to PCB FootPrint [SMC_SK33(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK34] has been renamed to PCB FootPrint [SMC_SK34(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK35] has been renamed to PCB FootPrint [SMC_SK35(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK36] has been renamed to PCB FootPrint [SMC_SK36(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR120] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR120(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR130] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR130(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR140] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR140(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR150] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR150(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR160] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR160(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SR360] has been renamed to PCB FootPrint [DO-27_SR360(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SR540] has been renamed to PCB FootPrint [DO-27_SR540(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SR560] has been renamed to PCB FootPrint [DO-27_SR560(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KT-27][KT27A] associated with PCAD Component [TC106] has been renamed to PCB FootPrint [KT-27_KT27A].
+            Warning - 0 : PCAD Pattern Graphics [TC122][Primary] associated with PCAD Component [TC122] has been renamed to PCB FootPrint [TC122_TC122(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д219_220][Primary] associated with PCAD Component [д219] has been renamed to PCB FootPrint [д219_220_д219(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д219_220][Primary] associated with PCAD Component [д220] has been renamed to PCB FootPrint [д219_220_д220(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д242] has been renamed to PCB FootPrint [д24у_д242(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д243] has been renamed to PCB FootPrint [д24у_д243(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д244] has been renamed to PCB FootPrint [д24у_д244(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д245] has been renamed to PCB FootPrint [д24у_д245(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д246] has been renamed to PCB FootPrint [д24у_д246(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д247] has been renamed to PCB FootPrint [д24у_д247(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д248] has been renamed to PCB FootPrint [д24у_д248(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D311-0412][Primary] associated with PCAD Component [д310] has been renamed to PCB FootPrint [D311-0412_д310(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D311-0412][Primary] associated with PCAD Component [д311] has been renamed to PCB FootPrint [D311-0412_д311(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D311-0412][Primary] associated with PCAD Component [д311ю] has been renamed to PCB FootPrint [D311-0412_д311ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D311-0412][Primary] associated with PCAD Component [д311а] has been renamed to PCB FootPrint [D311-0412_д311а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814ю] has been renamed to PCB FootPrint [д814_д814ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814а] has been renamed to PCB FootPrint [д814_д814а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814б] has been renamed to PCB FootPrint [д814_д814б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814ц] has been renamed to PCB FootPrint [д814_д814ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [д814ц1] has been renamed to PCB FootPrint [KD-2_д814ц1(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814д] has been renamed to PCB FootPrint [д814_д814д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815ю] has been renamed to PCB FootPrint [д24у_д815ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815а] has been renamed to PCB FootPrint [д24у_д815а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815б] has been renamed to PCB FootPrint [д24у_д815б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815ц] has been renamed to PCB FootPrint [д24у_д815ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815д] has been renamed to PCB FootPrint [д24у_д815д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815е] has been renamed to PCB FootPrint [д24у_д815е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815ф] has been renamed to PCB FootPrint [д24у_д815ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818ю] has been renamed to PCB FootPrint [д818_д818ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818а] has been renamed to PCB FootPrint [д818_д818а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818б] has been renamed to PCB FootPrint [д818_д818б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818ц] has been renamed to PCB FootPrint [д818_д818ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818д] has been renamed to PCB FootPrint [д818_д818д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818е] has been renamed to PCB FootPrint [д818_д818е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9а] has been renamed to PCB FootPrint [д9_д9а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9б] has been renamed to PCB FootPrint [д9_д9б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9ц] has been renamed to PCB FootPrint [д9_д9ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9д] has been renamed to PCB FootPrint [д9_д9д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9е] has been renamed to PCB FootPrint [д9_д9е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9ф] has been renamed to PCB FootPrint [д9_д9ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9х] has been renamed to PCB FootPrint [д9_д9х(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9й] has been renamed to PCB FootPrint [д9_д9й(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9к] has been renamed to PCB FootPrint [д9_д9к(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9л] has been renamed to PCB FootPrint [д9_д9л(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд102][Primary] associated with PCAD Component [йд102ю] has been renamed to PCB FootPrint [йд102_йд102ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд102][Primary] associated with PCAD Component [йд102а] has been renamed to PCB FootPrint [йд102_йд102а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд105][Primary] associated with PCAD Component [йд105а] has been renamed to PCB FootPrint [йд105_йд105а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд105][Primary] associated with PCAD Component [йд105б] has been renamed to PCB FootPrint [йд105_йд105б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд105][Primary] associated with PCAD Component [йд105ц] has been renamed to PCB FootPrint [йд105_йд105ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [8X4S5][Primary] associated with PCAD Component [йд212] has been renamed to PCB FootPrint [8X4S5_йд212(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд213][Primary] associated with PCAD Component [йд213] has been renamed to PCB FootPrint [йд213_йд213(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226ю] has been renamed to PCB FootPrint [йд226_йд226ю(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226ю] has been renamed to PCB FootPrint [йд226_йд226ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226а] has been renamed to PCB FootPrint [йд226_йд226а(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226а] has been renamed to PCB FootPrint [йд226_йд226а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226б] has been renamed to PCB FootPrint [йд226_йд226б(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226б] has been renamed to PCB FootPrint [йд226_йд226б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226ц] has been renamed to PCB FootPrint [йд226_йд226ц(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226ц] has been renamed to PCB FootPrint [йд226_йд226ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226д] has been renamed to PCB FootPrint [йд226_йд226д(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226д] has been renamed to PCB FootPrint [йд226_йд226д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243ю] has been renamed to PCB FootPrint [йд243_йд243ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243а] has been renamed to PCB FootPrint [йд243_йд243а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243б] has been renamed to PCB FootPrint [йд243_йд243б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243ц] has been renamed to PCB FootPrint [йд243_йд243ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243д] has been renamed to PCB FootPrint [йд243_йд243д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243е] has been renamed to PCB FootPrint [йд243_йд243е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243ф] has been renamed to PCB FootPrint [йд243_йд243ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд2997][Primary] associated with PCAD Component [йд2997] has been renamed to PCB FootPrint [йд2997_йд2997(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд2999][Primary] associated with PCAD Component [йд2999] has been renamed to PCB FootPrint [йд2999_йд2999(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд503ю][Primary] associated with PCAD Component [йд503ю] has been renamed to PCB FootPrint [йд503ю_йд503ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд504ю-0412][Primary] associated with PCAD Component [йд504ю] has been renamed to PCB FootPrint [йд504ю-0412_йд504ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд522 (2002)][Primary] associated with PCAD Component [йд522 (2002)] has been renamed to PCB FootPrint [йд522 (2002)_йд522 (2002)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KC515A][Primary] associated with PCAD Component [йя151ю] has been renamed to PCB FootPrint [KC515A_йя151ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йя175ф][Primary] associated with PCAD Component [йя156ю] has been renamed to PCB FootPrint [йя175ф_йя156ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя175ф] has been renamed to PCB FootPrint [KD-2_йя175ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [8X4S5][Primary] associated with PCAD Component [йя182ю] has been renamed to PCB FootPrint [8X4S5_йя182ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя182ф] has been renamed to PCB FootPrint [KD-2_йя182ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя191ф] has been renamed to PCB FootPrint [KD-2_йя191ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя210ф] has been renamed to PCB FootPrint [KD-2_йя210ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя211ф] has been renamed to PCB FootPrint [KD-2_йя211ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя212ф] has been renamed to PCB FootPrint [KD-2_йя212ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя213ф] has been renamed to PCB FootPrint [KD-2_йя213ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя215ф] has been renamed to PCB FootPrint [KD-2_йя215ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя216ф] has been renamed to PCB FootPrint [KD-2_йя216ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя218ф] has been renamed to PCB FootPrint [KD-2_йя218ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя220ф] has been renamed to PCB FootPrint [KD-2_йя220ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя222ф] has been renamed to PCB FootPrint [KD-2_йя222ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя224ф] has been renamed to PCB FootPrint [KD-2_йя224ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KC515A][Primary] associated with PCAD Component [йя515ю] has been renamed to PCB FootPrint [KC515A_йя515ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202ю] has been renamed to PCB FootPrint [йс202_йс202ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202а] has been renamed to PCB FootPrint [йс202_йс202а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202б] has been renamed to PCB FootPrint [йс202_йс202б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202ц] has been renamed to PCB FootPrint [йс202_йс202ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202д] has been renamed to PCB FootPrint [йс202_йс202д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202е] has been renamed to PCB FootPrint [йс202_йс202е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202ф] has been renamed to PCB FootPrint [йс202_йс202ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202х] has been renamed to PCB FootPrint [йс202_йс202х(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202й] has been renamed to PCB FootPrint [йс202_йс202й(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202к] has been renamed to PCB FootPrint [йс202_йс202к(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202л] has been renamed to PCB FootPrint [йс202_йс202л(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202м] has been renamed to PCB FootPrint [йс202_йс202м(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - Diod.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 34
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 56
+            Warning - 1 : Skipping Token padStyleDef On Line 67
+            Warning - 1 : Skipping Token padStyleDef On Line 78
+            Warning - 1 : Skipping Token padStyleDef On Line 88
+            Warning - 1 : Skipping Token padStyleDef On Line 98
+            Warning - 1 : Skipping Token padStyleDef On Line 108
+            Warning - 1 : Skipping Token padStyleDef On Line 119
+            Warning - 1 : Skipping Token padStyleDef On Line 129
+            Warning - 1 : Skipping Token padStyleDef On Line 140
+            Warning - 1 : Skipping Token padStyleDef On Line 151
+            Warning - 1 : Skipping Token padStyleDef On Line 161
+            Warning - 1 : Skipping Token padStyleDef On Line 171
+            Warning - 1 : Skipping Token padStyleDef On Line 181
+            Warning - 1 : Skipping Token padStyleDef On Line 192
+            Warning - 1 : Skipping Token padStyleDef On Line 203
+            Warning - 1 : Skipping Token padStyleDef On Line 214
+            Warning - 1 : Skipping Token padStyleDef On Line 225
+            Warning - 1 : Skipping Token padStyleDef On Line 236
+            Warning - 1 : Skipping Token padStyleDef On Line 247
+            Warning - 1 : Skipping Token padStyleDef On Line 258
+            Warning - 1 : Skipping Token padStyleDef On Line 269
+            Warning - 1 : Skipping Token padStyleDef On Line 280
+            Warning - 1 : Skipping Token padStyleDef On Line 291
+            Warning - 1 : Skipping Token padStyleDef On Line 302
+            Warning - 1 : Skipping Token padStyleDef On Line 312
+            Warning - 1 : Skipping Token padStyleDef On Line 322
+            Warning - 1 : Skipping Token padStyleDef On Line 332
+            Warning - 1 : Skipping Token padStyleDef On Line 343
+            Warning - 1 : Skipping Token padStyleDef On Line 354
+            Warning - 1 : Skipping Token padStyleDef On Line 364
+            Warning - 1 : Skipping Token padStyleDef On Line 375
+            Warning - 1 : Skipping Token padStyleDef On Line 386
+            Warning - 1 : Skipping Token padStyleDef On Line 397
+            Warning - 1 : Skipping Token padStyleDef On Line 408
+            Warning - 1 : Skipping Token padStyleDef On Line 419
+            Warning - 1 : Skipping Token padStyleDef On Line 430
+            Warning - 1 : Skipping Token padStyleDef On Line 440
+            Warning - 1 : Skipping Token padStyleDef On Line 451
+            Warning - 1 : Skipping Token padStyleDef On Line 462
+            Warning - 1 : Skipping Token padStyleDef On Line 473
+            Warning - 1 : Skipping Token padStyleDef On Line 484
+            Warning - 1 : Skipping Token padStyleDef On Line 495
+            Warning - 1 : Skipping Token padStyleDef On Line 506
+            Warning - 1 : Skipping Token padStyleDef On Line 516
+            Warning - 1 : Skipping Token padStyleDef On Line 527
+            Warning - 1 : Skipping Token padStyleDef On Line 537
+            Warning - 1 : Skipping Token padStyleDef On Line 547
+            Warning - 1 : Skipping Token padStyleDef On Line 557
+            Warning - 1 : Skipping Token padStyleDef On Line 567
+            Warning - 1 : Skipping Token padStyleDef On Line 577
+            Warning - 1 : Skipping Token padStyleDef On Line 587
+            Warning - 1 : Skipping Token padStyleDef On Line 597
+            Warning - 1 : Skipping Token viaStyleDef On Line 607
+            Warning - 1 : Skipping Token multiLayer On Line 914
+            Warning - 1 : Skipping Token layerContents On Line 918
+            Warning - 1 : Skipping Token layerContents On Line 928
+            Warning - 1 : Skipping Token multiLayer On Line 956
+            Warning - 1 : Skipping Token layerContents On Line 963
+            Warning - 1 : Skipping Token layerContents On Line 972
+            Warning - 1 : Skipping Token multiLayer On Line 986
+            Warning - 1 : Skipping Token layerContents On Line 990
+            Warning - 1 : Skipping Token layerContents On Line 1008
+            Warning - 1 : Skipping Token multiLayer On Line 1034
+            Warning - 1 : Skipping Token layerContents On Line 1039
+            Warning - 1 : Skipping Token layerContents On Line 1048
+            Warning - 1 : Skipping Token multiLayer On Line 1062
+            Warning - 1 : Skipping Token layerContents On Line 1066
+            Warning - 1 : Skipping Token layerContents On Line 1077
+            Warning - 1 : Skipping Token multiLayer On Line 1093
+            Warning - 1 : Skipping Token layerContents On Line 1101
+            Warning - 1 : Skipping Token layerContents On Line 1123
+            Warning - 1 : Skipping Token layerContents On Line 1139
+            Warning - 1 : Skipping Token multiLayer On Line 1166
+            Warning - 1 : Skipping Token layerContents On Line 1171
+            Warning - 1 : Skipping Token layerContents On Line 1182
+            Warning - 1 : Skipping Token multiLayer On Line 1231
+            Warning - 1 : Skipping Token layerContents On Line 1235
+            Warning - 1 : Skipping Token layerContents On Line 1253
+            Warning - 1 : Skipping Token multiLayer On Line 1279
+            Warning - 1 : Skipping Token layerContents On Line 1285
+            Warning - 1 : Skipping Token layerContents On Line 1303
+            Warning - 1 : Skipping Token multiLayer On Line 1326
+            Warning - 1 : Skipping Token layerContents On Line 1330
+            Warning - 1 : Skipping Token layerContents On Line 1349
+            Warning - 1 : Skipping Token multiLayer On Line 1372
+            Warning - 1 : Skipping Token layerContents On Line 1376
+            Warning - 1 : Skipping Token layerContents On Line 1395
+            Warning - 1 : Skipping Token multiLayer On Line 1418
+            Warning - 1 : Skipping Token layerContents On Line 1422
+            Warning - 1 : Skipping Token layerContents On Line 1441
+            Warning - 1 : Skipping Token multiLayer On Line 1464
+            Warning - 1 : Skipping Token layerContents On Line 1468
+            Warning - 1 : Skipping Token layerContents On Line 1484
+            Warning - 1 : Skipping Token multiLayer On Line 1505
+            Warning - 1 : Skipping Token layerContents On Line 1509
+            Warning - 1 : Skipping Token layerContents On Line 1524
+            Warning - 1 : Skipping Token multiLayer On Line 1544
+            Warning - 1 : Skipping Token layerContents On Line 1548
+            Warning - 1 : Skipping Token layerContents On Line 1563
+            Warning - 1 : Skipping Token multiLayer On Line 1583
+            Warning - 1 : Skipping Token layerContents On Line 1589
+            Warning - 1 : Skipping Token layerContents On Line 1602
+            Warning - 1 : Skipping Token multiLayer On Line 1622
+            Warning - 1 : Skipping Token layerContents On Line 1628
+            Warning - 1 : Skipping Token layerContents On Line 1645
+            Warning - 1 : Skipping Token multiLayer On Line 1671
+            Warning - 1 : Skipping Token layerContents On Line 1677
+            Warning - 1 : Skipping Token layerContents On Line 1692
+            Warning - 1 : Skipping Token multiLayer On Line 1712
+            Warning - 1 : Skipping Token layerContents On Line 1718
+            Warning - 1 : Skipping Token layerContents On Line 1733
+            Warning - 1 : Skipping Token multiLayer On Line 1753
+            Warning - 1 : Skipping Token layerContents On Line 1759
+            Warning - 1 : Skipping Token layerContents On Line 1785
+            Warning - 1 : Skipping Token multiLayer On Line 1821
+            Warning - 1 : Skipping Token layerContents On Line 1825
+            Warning - 1 : Skipping Token layerContents On Line 1834
+            Warning - 1 : Skipping Token multiLayer On Line 1848
+            Warning - 1 : Skipping Token layerContents On Line 1852
+            Warning - 1 : Skipping Token layerContents On Line 1871
+            Warning - 1 : Skipping Token multiLayer On Line 1894
+            Warning - 1 : Skipping Token layerContents On Line 1898
+            Warning - 1 : Skipping Token layerContents On Line 1917
+            Warning - 1 : Skipping Token multiLayer On Line 1941
+            Warning - 1 : Skipping Token layerContents On Line 1945
+            Warning - 1 : Skipping Token layerContents On Line 1964
+            Warning - 1 : Skipping Token multiLayer On Line 1988
+            Warning - 1 : Skipping Token layerContents On Line 1992
+            Warning - 1 : Skipping Token layerContents On Line 2011
+            Warning - 1 : Skipping Token multiLayer On Line 2035
+            Warning - 1 : Skipping Token layerContents On Line 2039
+            Warning - 1 : Skipping Token layerContents On Line 2048
+            Warning - 1 : Skipping Token multiLayer On Line 2061
+            Warning - 1 : Skipping Token layerContents On Line 2065
+            Warning - 1 : Skipping Token layerContents On Line 2084
+            Warning - 1 : Skipping Token multiLayer On Line 2107
+            Warning - 1 : Skipping Token layerContents On Line 2112
+            Warning - 1 : Skipping Token layerContents On Line 2124
+            Warning - 1 : Skipping Token multiLayer On Line 2170
+            Warning - 1 : Skipping Token layerContents On Line 2174
+            Warning - 1 : Skipping Token layerContents On Line 2186
+            Warning - 1 : Skipping Token multiLayer On Line 2224
+            Warning - 1 : Skipping Token layerContents On Line 2230
+            Warning - 1 : Skipping Token layerContents On Line 2251
+            Warning - 1 : Skipping Token multiLayer On Line 2284
+            Warning - 1 : Skipping Token layerContents On Line 2290
+            Warning - 1 : Skipping Token layerContents On Line 2307
+            Warning - 1 : Skipping Token multiLayer On Line 2329
+            Warning - 1 : Skipping Token layerContents On Line 2333
+            Warning - 1 : Skipping Token layerContents On Line 2352
+            Warning - 1 : Skipping Token multiLayer On Line 2374
+            Warning - 1 : Skipping Token layerContents On Line 2378
+            Warning - 1 : Skipping Token layerContents On Line 2395
+            Warning - 1 : Skipping Token multiLayer On Line 2417
+            Warning - 1 : Skipping Token layerContents On Line 2421
+            Warning - 1 : Skipping Token layerContents On Line 2439
+            Warning - 1 : Skipping Token multiLayer On Line 2457
+            Warning - 1 : Skipping Token layerContents On Line 2461
+            Warning - 1 : Skipping Token layerContents On Line 2479
+            Warning - 1 : Skipping Token multiLayer On Line 2496
+            Warning - 1 : Skipping Token layerContents On Line 2501
+            Warning - 1 : Skipping Token multiLayer On Line 2516
+            Warning - 1 : Skipping Token layerContents On Line 2521
+            Warning - 1 : Skipping Token multiLayer On Line 2548
+            Warning - 1 : Skipping Token layerContents On Line 2553
+            Warning - 1 : Skipping Token multiLayer On Line 2580
+            Warning - 1 : Skipping Token layerContents On Line 2585
+            Warning - 1 : Skipping Token layerContents On Line 2595
+            Warning - 1 : Skipping Token multiLayer On Line 2609
+            Warning - 1 : Skipping Token layerContents On Line 2616
+            Warning - 1 : Skipping Token layerContents On Line 2625
+            Warning - 1 : Skipping Token multiLayer On Line 2663
+            Warning - 1 : Skipping Token layerContents On Line 2668
+            Warning - 1 : Skipping Token layerContents On Line 2675
+            Warning - 1 : Skipping Token multiLayer On Line 2716
+            Warning - 1 : Skipping Token layerContents On Line 2722
+            Warning - 1 : Skipping Token layerContents On Line 2735
+            Warning - 1 : Skipping Token multiLayer On Line 2753
+            Warning - 1 : Skipping Token layerContents On Line 2759
+            Warning - 1 : Skipping Token layerContents On Line 2777
+            Warning - 1 : Skipping Token multiLayer On Line 2800
+            Warning - 1 : Skipping Token layerContents On Line 2804
+            Warning - 1 : Skipping Token layerContents On Line 2821
+            Warning - 1 : Skipping Token multiLayer On Line 2843
+            Warning - 1 : Skipping Token layerContents On Line 2847
+            Warning - 1 : Skipping Token layerContents On Line 2864
+            Warning - 1 : Skipping Token multiLayer On Line 2886
+            Warning - 1 : Skipping Token layerContents On Line 2892
+            Warning - 1 : Skipping Token layerContents On Line 2907
+            Warning - 1 : Skipping Token multiLayer On Line 2925
+            Warning - 1 : Skipping Token layerContents On Line 2931
+            Warning - 1 : Skipping Token layerContents On Line 2948
+            Warning - 1 : Skipping Token multiLayer On Line 2970
+            Warning - 1 : Skipping Token layerContents On Line 2980
+            Warning - 1 : Skipping Token layerContents On Line 2995
+            Warning - 1 : Skipping Token multiLayer On Line 3029
+            Warning - 1 : Skipping Token layerContents On Line 3033
+            Warning - 1 : Skipping Token layerContents On Line 3042
+            Warning - 1 : Skipping Token multiLayer On Line 3056
+            Warning - 1 : Skipping Token layerContents On Line 3062
+            Warning - 1 : Skipping Token layerContents On Line 3077
+            Warning - 1 : Skipping Token multiLayer On Line 3097
+            Warning - 1 : Skipping Token layerContents On Line 3103
+            Warning - 1 : Skipping Token layerContents On Line 3120
+            Warning - 1 : Skipping Token multiLayer On Line 3146
+            Warning - 1 : Skipping Token layerContents On Line 3152
+            Warning - 1 : Skipping Token layerContents On Line 3168
+            Warning - 1 : Skipping Token multiLayer On Line 3188
+            Warning - 1 : Skipping Token layerContents On Line 3194
+            Warning - 1 : Skipping Token layerContents On Line 3209
+            Warning - 1 : Skipping Token multiLayer On Line 3229
+            Warning - 1 : Skipping Token layerContents On Line 3235
+            Warning - 1 : Skipping Token layerContents On Line 3245
+            Warning - 1 : Skipping Token multiLayer On Line 3272
+            Warning - 1 : Skipping Token layerContents On Line 3278
+            Warning - 1 : Skipping Token layerContents On Line 3288
+            Warning - 1 : Skipping Token multiLayer On Line 3325
+            Warning - 1 : Skipping Token layerContents On Line 3330
+            Warning - 1 : Skipping Token layerContents On Line 3338
+            Warning - 1 : Skipping Token multiLayer On Line 3357
+            Warning - 1 : Skipping Token layerContents On Line 3361
+            Warning - 1 : Skipping Token layerContents On Line 3385
+            Warning - 1 : Skipping Token multiLayer On Line 3413
+            Warning - 1 : Skipping Token layerContents On Line 3417
+            Warning - 1 : Skipping Token layerContents On Line 3441
+            Warning - 1 : Skipping Token multiLayer On Line 3469
+            Warning - 1 : Skipping Token layerContents On Line 3473
+            Warning - 1 : Skipping Token layerContents On Line 3497
+            Warning - 1 : Skipping Token multiLayer On Line 3513
+            Warning - 1 : Skipping Token layerContents On Line 3519
+            Warning - 1 : Skipping Token layerContents On Line 3534
+            Warning - 1 : Skipping Token multiLayer On Line 3565
+            Warning - 1 : Skipping Token layerContents On Line 3571
+            Warning - 1 : Skipping Token layerContents On Line 3586
+            Warning - 1 : Skipping Token multiLayer On Line 3601
+            Warning - 1 : Skipping Token layerContents On Line 3609
+            Warning - 1 : Skipping Token layerContents On Line 3618
+            Warning - 1 : Skipping Token multiLayer On Line 3644
+            Warning - 1 : Skipping Token layerContents On Line 3650
+            Warning - 1 : Skipping Token layerContents On Line 3660
+            Warning - 1 : Skipping Token multiLayer On Line 3683
+            Warning - 1 : Skipping Token layerContents On Line 3690
+            Warning - 1 : Skipping Token layerContents On Line 3755
+            Warning - 1 : Skipping Token multiLayer On Line 3829
+            Warning - 1 : Skipping Token layerContents On Line 3835
+            Warning - 1 : Skipping Token layerContents On Line 3848
+            Warning - 1 : Skipping Token multiLayer On Line 3906
+            Warning - 1 : Skipping Token layerContents On Line 3913
+            Warning - 1 : Skipping Token layerContents On Line 3924
+            Warning - 1 : Skipping Token multiLayer On Line 3963
+            Warning - 1 : Skipping Token layerContents On Line 3968
+            Warning - 1 : Skipping Token layerContents On Line 3981
+            Warning - 1 : Skipping Token multiLayer On Line 4000
+            Warning - 1 : Skipping Token layerContents On Line 4004
+            Warning - 1 : Skipping Token layerContents On Line 4022
+            Warning - 1 : Skipping Token multiLayer On Line 4048
+            Warning - 1 : Skipping Token layerContents On Line 4054
+            Warning - 1 : Skipping Token layerContents On Line 4118
+            Warning - 1 : Skipping Token multiLayer On Line 4188
+            Warning - 1 : Skipping Token layerContents On Line 4192
+            Warning - 1 : Skipping Token layerContents On Line 4218
+            Warning - 1 : Skipping Token multiLayer On Line 4249
+            Warning - 1 : Skipping Token layerContents On Line 4253
+            Warning - 1 : Skipping Token layerContents On Line 4280
+            Warning - 1 : Skipping Token multiLayer On Line 4311
+            Warning - 1 : Skipping Token layerContents On Line 4315
+            Warning - 1 : Skipping Token layerContents On Line 4332
+            Warning - 1 : Skipping Token multiLayer On Line 4353
+            Warning - 1 : Skipping Token layerContents On Line 4357
+            Warning - 1 : Skipping Token layerContents On Line 4366
+            Warning - 1 : Skipping Token multiLayer On Line 4380
+            Warning - 1 : Skipping Token layerContents On Line 4384
+            Warning - 1 : Skipping Token layerContents On Line 4402
+            Warning - 1 : Skipping Token multiLayer On Line 4424
+            Warning - 1 : Skipping Token layerContents On Line 4428
+            Warning - 1 : Skipping Token layerContents On Line 4445
+            Warning - 1 : Skipping Token multiLayer On Line 4467
+            Warning - 1 : Skipping Token layerContents On Line 4471
+            Warning - 1 : Skipping Token layerContents On Line 4485
+            Warning - 1 : Skipping Token multiLayer On Line 4504
+            Warning - 1 : Skipping Token layerContents On Line 4508
+            Warning - 1 : Skipping Token multiLayer On Line 4528
+            Warning - 1 : Skipping Token layerContents On Line 4532
+            Warning - 1 : Skipping Token layerContents On Line 4548
+            Warning - 1 : Skipping Token multiLayer On Line 4603
+            Warning - 1 : Skipping Token layerContents On Line 4607
+            Warning - 1 : Skipping Token layerContents On Line 4626
+            Warning - 1 : Skipping Token multiLayer On Line 4649
+            Warning - 1 : Skipping Token layerContents On Line 4653
+            Warning - 1 : Skipping Token layerContents On Line 4670
+            Warning - 1 : Skipping Token multiLayer On Line 4693
+            Warning - 1 : Skipping Token layerContents On Line 4697
+            Warning - 1 : Skipping Token layerContents On Line 4714
+            Warning - 1 : Skipping Token multiLayer On Line 4737
+            Warning - 1 : Skipping Token layerContents On Line 4741
+            Warning - 1 : Skipping Token layerContents On Line 4776
+            Warning - 1 : Skipping Token multiLayer On Line 4817
+            Warning - 1 : Skipping Token layerContents On Line 4821
+            Warning - 1 : Skipping Token layerContents On Line 4839
+            Warning - 1 : Skipping Token multiLayer On Line 4865
+            Warning - 1 : Skipping Token layerContents On Line 4869
+            Warning - 1 : Skipping Token layerContents On Line 4887
+            Warning - 1 : Skipping Token multiLayer On Line 4906
+            Warning - 1 : Skipping Token layerContents On Line 4910
+            Warning - 1 : Skipping Token layerContents On Line 4927
+            Warning - 1 : Skipping Token multiLayer On Line 4945
+            Warning - 1 : Skipping Token layerContents On Line 4949
+            Warning - 1 : Skipping Token layerContents On Line 4956
+            Warning - 1 : Skipping Token multiLayer On Line 4965
+            Warning - 1 : Skipping Token layerContents On Line 4969
+            Warning - 1 : Skipping Token layerContents On Line 4977
+            Warning - 1 : Skipping Token multiLayer On Line 4986
+            Warning - 1 : Skipping Token layerContents On Line 4990
+            Warning - 1 : Skipping Token layerContents On Line 4998
+            Warning - 1 : Skipping Token multiLayer On Line 5007
+            Warning - 1 : Skipping Token layerContents On Line 5011
+            Warning - 1 : Skipping Token layerContents On Line 5028
+            Warning - 1 : Skipping Token multiLayer On Line 5046
+            Warning - 1 : Skipping Token layerContents On Line 5050
+            Warning - 1 : Skipping Token layerContents On Line 5068
+            Warning - 1 : Skipping Token multiLayer On Line 5091
+            Warning - 1 : Skipping Token layerContents On Line 5095
+            Warning - 1 : Skipping Token layerContents On Line 5112
+            Warning - 1 : Skipping Token multiLayer On Line 5129
+            Warning - 1 : Skipping Token layerContents On Line 5133
+            Warning - 1 : Skipping Token layerContents On Line 5152
+            Warning - 1 : Skipping Token multiLayer On Line 5175
+            Warning - 1 : Skipping Token layerContents On Line 5182
+            Warning - 1 : Skipping Token layerContents On Line 5246
+            Warning - 1 : Skipping Token defaultPinDes On Line 5323
+            Warning - 1 : Skipping Token defaultPinDes On Line 5331
+            Warning - 1 : Skipping Token defaultPinDes On Line 5339
+            Warning - 1 : Skipping Token defaultPinDes On Line 5396
+            Warning - 1 : Skipping Token defaultPinDes On Line 5404
+            Warning - 1 : Skipping Token defaultPinDes On Line 5412
+            Warning - 1 : Skipping Token defaultPinDes On Line 5469
+            Warning - 1 : Skipping Token defaultPinDes On Line 5477
+            Warning - 1 : Skipping Token defaultPinDes On Line 5498
+            Warning - 1 : Skipping Token defaultPinDes On Line 5506
+            Warning - 1 : Skipping Token defaultPinDes On Line 5514
+            Warning - 1 : Skipping Token defaultPinDes On Line 5545
+            Warning - 1 : Skipping Token defaultPinDes On Line 5553
+            Warning - 1 : Skipping Token defaultPinDes On Line 5576
+            Warning - 1 : Skipping Token defaultPinDes On Line 5584
+            Warning - 1 : Skipping Token defaultPinDes On Line 5592
+            Warning - 1 : Skipping Token defaultPinDes On Line 5627
+            Warning - 1 : Skipping Token defaultPinDes On Line 5635
+            Warning - 1 : Skipping Token defaultPinDes On Line 5643
+            Warning - 1 : Skipping Token defaultPinDes On Line 5678
+            Warning - 1 : Skipping Token defaultPinDes On Line 5686
+            Warning - 1 : Skipping Token defaultPinDes On Line 5694
+            Warning - 1 : Skipping Token defaultPinDes On Line 5729
+            Warning - 1 : Skipping Token defaultPinDes On Line 5737
+            Warning - 1 : Skipping Token defaultPinDes On Line 5760
+            Warning - 1 : Skipping Token defaultPinDes On Line 5768
+            Warning - 1 : Skipping Token defaultPinDes On Line 5776
+            Warning - 1 : Skipping Token defaultPinDes On Line 5827
+            Warning - 1 : Skipping Token defaultPinDes On Line 5835
+            Warning - 1 : Skipping Token defaultPinDes On Line 5843
+            Warning - 1 : Skipping Token defaultPinDes On Line 5851
+            Warning - 1 : Skipping Token defaultPinDes On Line 5884
+            Warning - 1 : Skipping Token defaultPinDes On Line 5892
+            Warning - 1 : Skipping Token defaultPinDes On Line 5900
+            Warning - 1 : Skipping Token defaultPinDes On Line 5908
+            Warning - 1 : Skipping Token defaultPinDes On Line 5916
+            Warning - 1 : Skipping Token defaultPinDes On Line 5924
+            Warning - 1 : Skipping Token defaultPinDes On Line 5950
+            Warning - 1 : Skipping Token defaultPinDes On Line 5958
+            Warning - 1 : Skipping Token defaultPinDes On Line 5980
+            Warning - 1 : Skipping Token defaultPinDes On Line 5988
+            Warning - 1 : Skipping Token defaultPinDes On Line 6018
+            Warning - 1 : Skipping Token defaultPinDes On Line 6026
+            Warning - 1 : Skipping Token defaultPinDes On Line 6034
+            Warning - 1 : Skipping Token defaultPinDes On Line 6066
+            Warning - 1 : Skipping Token defaultPinDes On Line 6073
+            Warning - 1 : Skipping Token defaultPinDes On Line 6080
+            Warning - 1 : Skipping Token defaultPinDes On Line 6104
+            Warning - 1 : Skipping Token defaultPinDes On Line 6112
+            Warning - 1 : Skipping Token defaultPinDes On Line 6120
+            Warning - 1 : Skipping Token defaultPinDes On Line 6128
+            Warning - 1 : Skipping Token defaultPinDes On Line 6136
+            Warning - 1 : Skipping Token defaultPinDes On Line 6231
+            Warning - 1 : Skipping Token defaultPinDes On Line 6239
+            Warning - 1 : Skipping Token defaultPinDes On Line 6247
+            Warning - 1 : Skipping Token defaultPinDes On Line 6277
+            Warning - 1 : Skipping Token defaultPinDes On Line 6285
+            Warning - 1 : Skipping Token defaultPinDes On Line 6293
+            Warning - 1 : Skipping Token defaultPinDes On Line 6317
+            Warning - 1 : Skipping Token defaultPinDes On Line 6325
+        EndSection
+
+        Section : Generating SCH Library - Diod.SchLib
+            Warning - 0 : PCAD Pattern Graphics [DO-201][Primary] associated with PCAD Component [1.5KE16A (TVS)] has been renamed to PCB FootPrint [DO-201_1.5KE16A (TVS)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1.5KE51A] has been renamed to PCB FootPrint [DO-27_1.5KE51A(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201][Primary] associated with PCAD Component [1.5KE_SERIES] has been renamed to PCB FootPrint [DO-201_1.5KE_SERIES(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N34] has been renamed to PCB FootPrint [DO-7_1N34(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4001] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4001(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4002] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4002(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4003] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4003(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4004] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4004(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4005] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4005(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4006] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4006(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4007] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4007(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [1N4007_10MM] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_1N4007_10MM(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD27][Primary] associated with PCAD Component [1N4148] has been renamed to PCB FootPrint [SOD27_1N4148(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD-323][Primary] associated with PCAD Component [1N4148WS] has been renamed to PCB FootPrint [SOD-323_1N4148WS(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD27_9MM][Primary] associated with PCAD Component [1N4148_9MM] has been renamed to PCB FootPrint [SOD27_9MM_1N4148_9MM(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD27][Primary] associated with PCAD Component [1N4448] has been renamed to PCB FootPrint [SOD27_1N4448(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4933] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4933(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4934] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4934(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4935] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4935(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4936] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4936(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [1N4937] has been renamed to PCB FootPrint [DO-41(DO-204AL)_1N4937(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5158] has been renamed to PCB FootPrint [DO-7_1N5158(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5159] has been renamed to PCB FootPrint [DO-7_1N5159(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5160] has been renamed to PCB FootPrint [DO-7_1N5160(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [1N5391] has been renamed to PCB FootPrint [DO-15_1N5391(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5400] has been renamed to PCB FootPrint [DO-27_1N5400(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD VERT][Primary] associated with PCAD Component [1N5400 VERT] has been renamed to PCB FootPrint [DO-201AD VERT_1N5400 VERT(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5401] has been renamed to PCB FootPrint [DO-27_1N5401(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [1N5402] has been renamed to PCB FootPrint [DO-201AD_1N5402(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5404] has been renamed to PCB FootPrint [DO-27_1N5404(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5406] has been renamed to PCB FootPrint [DO-27_1N5406(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5407] has been renamed to PCB FootPrint [DO-27_1N5407(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5408] has been renamed to PCB FootPrint [DO-27_1N5408(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5779] has been renamed to PCB FootPrint [DO-7_1N5779(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5780] has been renamed to PCB FootPrint [DO-7_1N5780(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5781] has been renamed to PCB FootPrint [DO-7_1N5781(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5782] has been renamed to PCB FootPrint [DO-7_1N5782(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5783] has been renamed to PCB FootPrint [DO-7_1N5783(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5784] has been renamed to PCB FootPrint [DO-7_1N5784(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5785] has been renamed to PCB FootPrint [DO-7_1N5785(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5786] has been renamed to PCB FootPrint [DO-7_1N5786(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5787] has been renamed to PCB FootPrint [DO-7_1N5787(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5788] has been renamed to PCB FootPrint [DO-7_1N5788(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5789] has been renamed to PCB FootPrint [DO-7_1N5789(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5790] has been renamed to PCB FootPrint [DO-7_1N5790(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5791] has been renamed to PCB FootPrint [DO-7_1N5791(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5792] has been renamed to PCB FootPrint [DO-7_1N5792(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N5793] has been renamed to PCB FootPrint [DO-7_1N5793(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [1N5817] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_1N5817(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_V][Primary] associated with PCAD Component [1N5817_V] has been renamed to PCB FootPrint [DO-41(DO-204AL)_V_1N5817_V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [1N5818] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_1N5818(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [1N5819] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_1N5819(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD-123][Primary] associated with PCAD Component [1N5819HW] has been renamed to PCB FootPrint [SOD-123_1N5819HW(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5821] has been renamed to PCB FootPrint [DO-27_1N5821(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [1N5822] has been renamed to PCB FootPrint [DO-27_1N5822(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [1N914] has been renamed to PCB FootPrint [DO-35_1N914(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT05] has been renamed to PCB FootPrint [D-63_26MT05(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT10] has been renamed to PCB FootPrint [D-63_26MT10(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT100] has been renamed to PCB FootPrint [D-63_26MT100(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT120] has been renamed to PCB FootPrint [D-63_26MT120(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT140] has been renamed to PCB FootPrint [D-63_26MT140(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT160] has been renamed to PCB FootPrint [D-63_26MT160(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT20] has been renamed to PCB FootPrint [D-63_26MT20(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT40] has been renamed to PCB FootPrint [D-63_26MT40(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT60] has been renamed to PCB FootPrint [D-63_26MT60(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [26MT80] has been renamed to PCB FootPrint [D-63_26MT80(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд102][Primary] associated with PCAD Component [2д102ю] has been renamed to PCB FootPrint [йд102_2д102ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд102][Primary] associated with PCAD Component [2д102а] has been renamed to PCB FootPrint [йд102_2д102а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [2д504ю-0412][Primary] associated with PCAD Component [2д504ю] has been renamed to PCB FootPrint [2д504ю-0412_2д504ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я175ф] has been renamed to PCB FootPrint [KD-2_2я175ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я182ф] has been renamed to PCB FootPrint [KD-2_2я182ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я191ф] has been renamed to PCB FootPrint [KD-2_2я191ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я210ф] has been renamed to PCB FootPrint [KD-2_2я210ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я211ф] has been renamed to PCB FootPrint [KD-2_2я211ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я212ф] has been renamed to PCB FootPrint [KD-2_2я212ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я213ф] has been renamed to PCB FootPrint [KD-2_2я213ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я215ф] has been renamed to PCB FootPrint [KD-2_2я215ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я216ф] has been renamed to PCB FootPrint [KD-2_2я216ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я218ф] has been renamed to PCB FootPrint [KD-2_2я218ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я220ф] has been renamed to PCB FootPrint [KD-2_2я220ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я222ф] has been renamed to PCB FootPrint [KD-2_2я222ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [2я224ф] has been renamed to PCB FootPrint [KD-2_2я224ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT05] has been renamed to PCB FootPrint [D-63_36MT05(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT10] has been renamed to PCB FootPrint [D-63_36MT10(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT100] has been renamed to PCB FootPrint [D-63_36MT100(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT120] has been renamed to PCB FootPrint [D-63_36MT120(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT140] has been renamed to PCB FootPrint [D-63_36MT140(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT160] has been renamed to PCB FootPrint [D-63_36MT160(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT20] has been renamed to PCB FootPrint [D-63_36MT20(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT40] has been renamed to PCB FootPrint [D-63_36MT40(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT60] has been renamed to PCB FootPrint [D-63_36MT60(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D-63][Primary] associated with PCAD Component [36MT80] has been renamed to PCB FootPrint [D-63_36MT80(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A05] has been renamed to PCB FootPrint [R-5_6A05(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [6A1] has been renamed to PCB FootPrint [R-6_6A1(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A10] has been renamed to PCB FootPrint [R-5_6A10(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A2] has been renamed to PCB FootPrint [R-5_6A2(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A4] has been renamed to PCB FootPrint [R-5_6A4(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A6] has been renamed to PCB FootPrint [R-5_6A6(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [6A8] has been renamed to PCB FootPrint [R-5_6A8(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD-323][Primary] associated with PCAD Component [BAS21-03W] has been renamed to PCB FootPrint [SOD-323_BAS21-03W(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD68][Primary] associated with PCAD Component [BAS45A] has been renamed to PCB FootPrint [SOD68_BAS45A(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [BY297] has been renamed to PCB FootPrint [DO-15_BY297(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [BY298] has been renamed to PCB FootPrint [DO-15_BY298(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [BY299] has been renamed to PCB FootPrint [DO-15_BY299(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [BY396] has been renamed to PCB FootPrint [DO-27_BY396(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [BY397] has been renamed to PCB FootPrint [DO-27_BY397(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [BY398] has been renamed to PCB FootPrint [DO-27_BY398(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [BY399] has been renamed to PCB FootPrint [DO-27_BY399(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C13V] has been renamed to PCB FootPrint [DO-35_BZX55-C13V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C15V] has been renamed to PCB FootPrint [DO-35_BZX55-C15V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C30V] has been renamed to PCB FootPrint [DO-35_BZX55-C30V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C4V7] has been renamed to PCB FootPrint [DO-35_BZX55-C4V7(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-35][Primary] associated with PCAD Component [BZX55-C7V5] has been renamed to PCB FootPrint [DO-35_BZX55-C7V5(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [FR103] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_FR103(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [FR207] has been renamed to PCB FootPrint [DO-15_FR207(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR301] has been renamed to PCB FootPrint [DO-27_FR301(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR302] has been renamed to PCB FootPrint [DO-27_FR302(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR303] has been renamed to PCB FootPrint [DO-27_FR303(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR304] has been renamed to PCB FootPrint [DO-27_FR304(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR305] has been renamed to PCB FootPrint [DO-27_FR305(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR306] has been renamed to PCB FootPrint [DO-27_FR306(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [FR307] has been renamed to PCB FootPrint [DO-27_FR307(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR601] has been renamed to PCB FootPrint [R-6_FR601(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR602] has been renamed to PCB FootPrint [R-6_FR602(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR603] has been renamed to PCB FootPrint [R-6_FR603(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR604] has been renamed to PCB FootPrint [R-6_FR604(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR605] has been renamed to PCB FootPrint [R-6_FR605(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR606] has been renamed to PCB FootPrint [R-6_FR606(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-6][Primary] associated with PCAD Component [FR607] has been renamed to PCB FootPrint [R-6_FR607(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER101] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER101(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER102] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER102(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER103] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER103(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER104] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER104(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER105] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER105(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER106] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER106(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER107] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER107(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [HER108] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_HER108(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER201] has been renamed to PCB FootPrint [DO-15_HER201(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER202] has been renamed to PCB FootPrint [DO-15_HER202(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER203] has been renamed to PCB FootPrint [DO-15_HER203(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER204] has been renamed to PCB FootPrint [DO-15_HER204(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER205] has been renamed to PCB FootPrint [DO-15_HER205(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER206] has been renamed to PCB FootPrint [DO-15_HER206(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER207] has been renamed to PCB FootPrint [DO-15_HER207(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [HER208] has been renamed to PCB FootPrint [DO-15_HER208(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER301] has been renamed to PCB FootPrint [DO-27_HER301(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER302] has been renamed to PCB FootPrint [DO-27_HER302(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER303] has been renamed to PCB FootPrint [DO-27_HER303(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER304] has been renamed to PCB FootPrint [DO-27_HER304(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER305] has been renamed to PCB FootPrint [DO-27_HER305(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER306] has been renamed to PCB FootPrint [DO-27_HER306(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER307] has been renamed to PCB FootPrint [DO-27_HER307(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [HER308] has been renamed to PCB FootPrint [DO-27_HER308(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KU202_VERT][Primary] associated with PCAD Component [KU202_VERT] has been renamed to PCB FootPrint [KU202_VERT_KU202_VERT(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)][Primary] associated with PCAD Component [MTZ-18V-1W(1N4746)] has been renamed to PCB FootPrint [DO-41(DO-204AL)_MTZ-18V-1W(1N4746)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600A] has been renamed to PCB FootPrint [R-5_P600A(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600B] has been renamed to PCB FootPrint [R-5_P600B(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600D] has been renamed to PCB FootPrint [R-5_P600D(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600G] has been renamed to PCB FootPrint [R-5_P600G(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600J] has been renamed to PCB FootPrint [R-5_P600J(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600K] has been renamed to PCB FootPrint [R-5_P600K(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [R-5][Primary] associated with PCAD Component [P600M] has been renamed to PCB FootPrint [R-5_P600M(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [P6KE_SERIES] has been renamed to PCB FootPrint [DO-15_P6KE_SERIES(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SOD-323][Primary] associated with PCAD Component [PMEG2002EJ] has been renamed to PCB FootPrint [SOD-323_PMEG2002EJ(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL201] has been renamed to PCB FootPrint [DO-15_RL201(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL202] has been renamed to PCB FootPrint [DO-15_RL202(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL203] has been renamed to PCB FootPrint [DO-15_RL203(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL204] has been renamed to PCB FootPrint [DO-15_RL204(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL205] has been renamed to PCB FootPrint [DO-15_RL205(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL206] has been renamed to PCB FootPrint [DO-15_RL206(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [RL207] has been renamed to PCB FootPrint [DO-15_RL207(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SF12] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SF12(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SF14] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SF14(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SF18] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SF18(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_V][Primary] associated with PCAD Component [SF18_V] has been renamed to PCB FootPrint [DO-41(DO-204AL)_V_SF18_V(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [SF22] has been renamed to PCB FootPrint [DO-15_SF22(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [SF24] has been renamed to PCB FootPrint [DO-15_SF24(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-15][Primary] associated with PCAD Component [SF28] has been renamed to PCB FootPrint [DO-15_SF28(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SF32] has been renamed to PCB FootPrint [DO-27_SF32(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SF34] has been renamed to PCB FootPrint [DO-27_SF34(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [SF510] has been renamed to PCB FootPrint [DO-201AD_SF510(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SF52] has been renamed to PCB FootPrint [DO-27_SF52(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SF54(DO-27)] has been renamed to PCB FootPrint [DO-27_SF54(DO-27)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [SF57] has been renamed to PCB FootPrint [DO-201AD_SF57(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [SF58] has been renamed to PCB FootPrint [DO-201AD_SF58(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-201AD][Primary] associated with PCAD Component [SF59] has been renamed to PCB FootPrint [DO-201AD_SF59(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK32] has been renamed to PCB FootPrint [SMC_SK32(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK33] has been renamed to PCB FootPrint [SMC_SK33(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK34] has been renamed to PCB FootPrint [SMC_SK34(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK35] has been renamed to PCB FootPrint [SMC_SK35(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [SMC][Primary] associated with PCAD Component [SK36] has been renamed to PCB FootPrint [SMC_SK36(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR120] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR120(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR130] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR130(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR140] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR140(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR150] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR150(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-41(DO-204AL)_10MM][Primary] associated with PCAD Component [SR160] has been renamed to PCB FootPrint [DO-41(DO-204AL)_10MM_SR160(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SR360] has been renamed to PCB FootPrint [DO-27_SR360(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SR540] has been renamed to PCB FootPrint [DO-27_SR540(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [DO-27][Primary] associated with PCAD Component [SR560] has been renamed to PCB FootPrint [DO-27_SR560(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KT-27][KT27A] associated with PCAD Component [TC106] has been renamed to PCB FootPrint [KT-27_KT27A].
+            Warning - 0 : PCAD Pattern Graphics [KT-27][KT27R] associated with PCAD Component [TC106] has been renamed to PCB FootPrint [KT-27_KT27R].
+            Warning - 0 : PCAD Pattern Graphics [KT-27][KT27R1] associated with PCAD Component [TC106] has been renamed to PCB FootPrint [KT-27_KT27R1].
+            Warning - 0 : PCAD Pattern Graphics [KT-27][Primary] associated with PCAD Component [TC106] has been renamed to PCB FootPrint [KT-27_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TC122][Primary] associated with PCAD Component [TC122] has been renamed to PCB FootPrint [TC122_TC122(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д219_220][Primary] associated with PCAD Component [д219] has been renamed to PCB FootPrint [д219_220_д219(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д219_220][Primary] associated with PCAD Component [д220] has been renamed to PCB FootPrint [д219_220_д220(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д242] has been renamed to PCB FootPrint [д24у_д242(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д243] has been renamed to PCB FootPrint [д24у_д243(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д244] has been renamed to PCB FootPrint [д24у_д244(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д245] has been renamed to PCB FootPrint [д24у_д245(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д246] has been renamed to PCB FootPrint [д24у_д246(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д247] has been renamed to PCB FootPrint [д24у_д247(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д248] has been renamed to PCB FootPrint [д24у_д248(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D311-0412][Primary] associated with PCAD Component [д310] has been renamed to PCB FootPrint [D311-0412_д310(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D311-0412][Primary] associated with PCAD Component [д311] has been renamed to PCB FootPrint [D311-0412_д311(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D311-0412][Primary] associated with PCAD Component [д311ю] has been renamed to PCB FootPrint [D311-0412_д311ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [D311-0412][Primary] associated with PCAD Component [д311а] has been renamed to PCB FootPrint [D311-0412_д311а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814ю] has been renamed to PCB FootPrint [д814_д814ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814а] has been renamed to PCB FootPrint [д814_д814а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814б] has been renamed to PCB FootPrint [д814_д814б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814ц] has been renamed to PCB FootPrint [д814_д814ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [д814ц1] has been renamed to PCB FootPrint [KD-2_д814ц1(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д814][Primary] associated with PCAD Component [д814д] has been renamed to PCB FootPrint [д814_д814д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815ю] has been renamed to PCB FootPrint [д24у_д815ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815а] has been renamed to PCB FootPrint [д24у_д815а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815б] has been renamed to PCB FootPrint [д24у_д815б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815ц] has been renamed to PCB FootPrint [д24у_д815ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815д] has been renamed to PCB FootPrint [д24у_д815д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815е] has been renamed to PCB FootPrint [д24у_д815е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д24у][Primary] associated with PCAD Component [д815ф] has been renamed to PCB FootPrint [д24у_д815ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818ю] has been renamed to PCB FootPrint [д818_д818ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818а] has been renamed to PCB FootPrint [д818_д818а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818б] has been renamed to PCB FootPrint [д818_д818б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818ц] has been renamed to PCB FootPrint [д818_д818ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818д] has been renamed to PCB FootPrint [д818_д818д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д818][Primary] associated with PCAD Component [д818е] has been renamed to PCB FootPrint [д818_д818е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9а] has been renamed to PCB FootPrint [д9_д9а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9б] has been renamed to PCB FootPrint [д9_д9б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9ц] has been renamed to PCB FootPrint [д9_д9ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9д] has been renamed to PCB FootPrint [д9_д9д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9е] has been renamed to PCB FootPrint [д9_д9е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9ф] has been renamed to PCB FootPrint [д9_д9ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9х] has been renamed to PCB FootPrint [д9_д9х(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9й] has been renamed to PCB FootPrint [д9_д9й(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9к] has been renamed to PCB FootPrint [д9_д9к(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [д9][Primary] associated with PCAD Component [д9л] has been renamed to PCB FootPrint [д9_д9л(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд102][Primary] associated with PCAD Component [йд102ю] has been renamed to PCB FootPrint [йд102_йд102ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд102][Primary] associated with PCAD Component [йд102а] has been renamed to PCB FootPrint [йд102_йд102а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд105][Primary] associated with PCAD Component [йд105а] has been renamed to PCB FootPrint [йд105_йд105а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд105][Primary] associated with PCAD Component [йд105б] has been renamed to PCB FootPrint [йд105_йд105б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд105][Primary] associated with PCAD Component [йд105ц] has been renamed to PCB FootPrint [йд105_йд105ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [8X4S5][Primary] associated with PCAD Component [йд212] has been renamed to PCB FootPrint [8X4S5_йд212(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд213][Primary] associated with PCAD Component [йд213] has been renamed to PCB FootPrint [йд213_йд213(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226ю] has been renamed to PCB FootPrint [йд226_йд226ю(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226ю] has been renamed to PCB FootPrint [йд226_йд226ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226а] has been renamed to PCB FootPrint [йд226_йд226а(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226а] has been renamed to PCB FootPrint [йд226_йд226а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226б] has been renamed to PCB FootPrint [йд226_йд226б(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226б] has been renamed to PCB FootPrint [йд226_йд226б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226ц] has been renamed to PCB FootPrint [йд226_йд226ц(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226ц] has been renamed to PCB FootPrint [йд226_йд226ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][KD213-1] associated with PCAD Component [йд226д] has been renamed to PCB FootPrint [йд226_йд226д(KD213-1)].
+            Warning - 0 : PCAD Pattern Graphics [йд226][Primary] associated with PCAD Component [йд226д] has been renamed to PCB FootPrint [йд226_йд226д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243ю] has been renamed to PCB FootPrint [йд243_йд243ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243а] has been renamed to PCB FootPrint [йд243_йд243а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243б] has been renamed to PCB FootPrint [йд243_йд243б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243ц] has been renamed to PCB FootPrint [йд243_йд243ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243д] has been renamed to PCB FootPrint [йд243_йд243д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243е] has been renamed to PCB FootPrint [йд243_йд243е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд243][Primary] associated with PCAD Component [йд243ф] has been renamed to PCB FootPrint [йд243_йд243ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд2997][Primary] associated with PCAD Component [йд2997] has been renamed to PCB FootPrint [йд2997_йд2997(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд2999][Primary] associated with PCAD Component [йд2999] has been renamed to PCB FootPrint [йд2999_йд2999(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд503ю][Primary] associated with PCAD Component [йд503ю] has been renamed to PCB FootPrint [йд503ю_йд503ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд504ю-0412][Primary] associated with PCAD Component [йд504ю] has been renamed to PCB FootPrint [йд504ю-0412_йд504ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521ю] has been renamed to PCB FootPrint [йд521(522)_йд521ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521а] has been renamed to PCB FootPrint [йд521(522)_йд521а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521б] has been renamed to PCB FootPrint [йд521(522)_йд521б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521ц] has been renamed to PCB FootPrint [йд521(522)_йд521ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд521д] has been renamed to PCB FootPrint [йд521(522)_йд521д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд522 (2002)][Primary] associated with PCAD Component [йд522 (2002)] has been renamed to PCB FootPrint [йд522 (2002)_йд522 (2002)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд522ю] has been renamed to PCB FootPrint [йд521(522)_йд522ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][12.5mm] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(12.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][15mm] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(15mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][2.5mm_v] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(2.5mm_v)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v1] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(5mm_v1)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][5mm_v2] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(5mm_v2)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][7.5mm] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(7.5mm)].
+            Warning - 0 : PCAD Pattern Graphics [йд521(522)][Primary] associated with PCAD Component [йд522а] has been renamed to PCB FootPrint [йд521(522)_йд522а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KC515A][Primary] associated with PCAD Component [йя151ю] has been renamed to PCB FootPrint [KC515A_йя151ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йя175ф][Primary] associated with PCAD Component [йя156ю] has been renamed to PCB FootPrint [йя175ф_йя156ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя175ф] has been renamed to PCB FootPrint [KD-2_йя175ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [8X4S5][Primary] associated with PCAD Component [йя182ю] has been renamed to PCB FootPrint [8X4S5_йя182ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя182ф] has been renamed to PCB FootPrint [KD-2_йя182ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя191ф] has been renamed to PCB FootPrint [KD-2_йя191ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя210ф] has been renamed to PCB FootPrint [KD-2_йя210ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя211ф] has been renamed to PCB FootPrint [KD-2_йя211ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя212ф] has been renamed to PCB FootPrint [KD-2_йя212ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя213ф] has been renamed to PCB FootPrint [KD-2_йя213ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя215ф] has been renamed to PCB FootPrint [KD-2_йя215ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя216ф] has been renamed to PCB FootPrint [KD-2_йя216ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя218ф] has been renamed to PCB FootPrint [KD-2_йя218ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя220ф] has been renamed to PCB FootPrint [KD-2_йя220ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя222ф] has been renamed to PCB FootPrint [KD-2_йя222ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KD-2][Primary] associated with PCAD Component [йя224ф] has been renamed to PCB FootPrint [KD-2_йя224ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KC515A][Primary] associated with PCAD Component [йя515ю] has been renamed to PCB FootPrint [KC515A_йя515ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202ю] has been renamed to PCB FootPrint [йс202_йс202ю(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202а] has been renamed to PCB FootPrint [йс202_йс202а(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202б] has been renamed to PCB FootPrint [йс202_йс202б(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202ц] has been renamed to PCB FootPrint [йс202_йс202ц(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202д] has been renamed to PCB FootPrint [йс202_йс202д(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202е] has been renamed to PCB FootPrint [йс202_йс202е(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202ф] has been renamed to PCB FootPrint [йс202_йс202ф(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202х] has been renamed to PCB FootPrint [йс202_йс202х(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202й] has been renamed to PCB FootPrint [йс202_йс202й(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202к] has been renamed to PCB FootPrint [йс202_йс202к(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202л] has been renamed to PCB FootPrint [йс202_йс202л(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [йс202][Primary] associated with PCAD Component [йс202м] has been renamed to PCB FootPrint [йс202_йс202м(Primary)].
+        EndSection
+    EndSection
+EndSection

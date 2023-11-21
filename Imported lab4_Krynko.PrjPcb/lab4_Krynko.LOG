@@ -1,0 +1,99 @@
+PCAD Importer Log
+Project : lab4_Krynko.PrjPcb
+
+Section : D:\TKPS-Krynko\lab4_Krynko.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 505
+        Warning - 1 : Skipping Token defaultPinDes On Line 506
+        Warning - 1 : Skipping Token defaultPinDes On Line 530
+        Warning - 1 : Skipping Token defaultPinDes On Line 531
+        Warning - 1 : Skipping Token defaultPinDes On Line 532
+        Warning - 1 : Skipping Token defaultPinDes On Line 676
+        Warning - 1 : Skipping Token defaultPinDes On Line 677
+        Warning - 1 : Skipping Token defaultPinDes On Line 678
+        Warning - 1 : Skipping Token defaultPinDes On Line 679
+        Warning - 1 : Skipping Token defaultPinDes On Line 753
+        Warning - 1 : Skipping Token defaultPinDes On Line 754
+        Warning - 1 : Skipping Token defaultPinDes On Line 849
+        Warning - 1 : Skipping Token defaultPinDes On Line 850
+        Warning - 1 : Skipping Token defaultPinDes On Line 918
+        Warning - 1 : Skipping Token defaultPinDes On Line 919
+        Warning - 1 : Skipping Token defaultPinDes On Line 920
+        Warning - 1 : Skipping Token defaultPinDes On Line 1033
+        Warning - 1 : Skipping Token defaultPinDes On Line 1034
+        Warning - 1 : Skipping Token defaultPinDes On Line 1035
+        Warning - 1 : Skipping Token defaultPinDes On Line 1065
+        Warning - 1 : Skipping Token defaultPinDes On Line 1066
+        Warning - 1 : Skipping Token defaultPinDes On Line 1067
+        Warning - 1 : Skipping Token defaultPinDes On Line 1068
+        Warning - 1 : Skipping Token defaultPinDes On Line 1069
+        Warning - 1 : Skipping Token defaultPinDes On Line 1095
+        Warning - 1 : Skipping Token defaultPinDes On Line 1096
+        Warning - 1 : Skipping Token defaultPinDes On Line 1131
+        Warning - 1 : Skipping Token defaultPinDes On Line 1132
+        Warning - 1 : Skipping Token defaultPinDes On Line 1217
+        Warning - 1 : Skipping Token defaultPinDes On Line 1218
+        Warning - 1 : Skipping Token attachedSymbol On Line 1266
+        Warning - 1 : Skipping Token attachedSymbol On Line 1286
+        Warning - 1 : Skipping Token attachedSymbol On Line 1309
+        Warning - 1 : Skipping Token attachedSymbol On Line 1339
+        Warning - 1 : Skipping Token attachedSymbol On Line 1367
+        Warning - 1 : Skipping Token attachedSymbol On Line 1389
+        Warning - 1 : Skipping Token attachedSymbol On Line 1410
+        Warning - 1 : Skipping Token attachedSymbol On Line 1431
+        Warning - 1 : Skipping Token attachedSymbol On Line 1452
+        Warning - 1 : Skipping Token attachedSymbol On Line 1475
+        Warning - 1 : Skipping Token attachedSymbol On Line 1500
+        Warning - 1 : Skipping Token attachedSymbol On Line 1522
+        Warning - 1 : Skipping Token attachedSymbol On Line 1544
+        Warning - 1 : Skipping Token attachedSymbol On Line 1567
+        Warning - 1 : Skipping Token refPointSize On Line 1787
+        Warning - 1 : Skipping Token infoPointSize On Line 1788
+        Warning - 1 : Skipping Token gluePointSize On Line 1789
+        Warning - 1 : Skipping Token pickPointSize On Line 1790
+        Warning - 1 : Skipping Token testPointSize On Line 1791
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1792
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1793
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 1794
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 1795
+        Warning - 1 : Skipping Token testPointSizePrint On Line 1796
+        Warning - 1 : Skipping Token solderFlowDirection On Line 1797
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 1798
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 1799
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 1800
+        Warning - 1 : Skipping Token K5035-1R On Line 1891
+        Warning - 1 : Skipping Token K5035-1R On Line 1891
+        Warning - 1 : Skipping Token K5035-1R1 On Line 1897
+        Warning - 1 : Skipping Token K5035-1R1 On Line 1897
+        Warning - 1 : Skipping Token K5035-1R On Line 1912
+        Warning - 1 : Skipping Token K5035-1R On Line 1912
+        Warning - 1 : Skipping Token K5035-1R1 On Line 1918
+        Warning - 1 : Skipping Token K5035-1R1 On Line 1918
+        Warning - 1 : Skipping Token KT13-1 On Line 1960
+        Warning - 1 : Skipping Token KT13-1 On Line 1960
+        Warning - 1 : Skipping Token KT13-2 On Line 1966
+        Warning - 1 : Skipping Token KT13-2 On Line 1966
+        Warning - 1 : Skipping Token K5035-2R On Line 2047
+        Warning - 1 : Skipping Token K5035-2R On Line 2047
+        Warning - 1 : Skipping Token K5035-2R1 On Line 2053
+        Warning - 1 : Skipping Token K5035-2R1 On Line 2053
+        Warning - 1 : Skipping Token drillSymSettings On Line 2216
+        Warning - 1 : Skipping Token gerberSettings On Line 2218
+        Warning - 1 : Skipping Token ncDrillSettings On Line 2232
+        Warning - 1 : Skipping Token programState On Line 2241
+        Warning - 1 : Skipping Token displayDrawOrder On Line 2282
+        Warning - 1 : Skipping Token reportSettings On Line 2505
+        Warning - 1 : Skipping Token odbSettings On Line 3230
+    EndSection
+
+    Section : Import Messages
+        Warning - 0 : PCAD Pattern Graphics [ส50-35-0511][Primary] associated with PCAD Component [ส50-35-0,1ฬสิ-50ย] has been renamed to PCB FootPrint [ส50-35-0511_Primary].
+        Warning - 0 : PCAD Pattern Graphics [ส50-35-0511][Primary] associated with PCAD Component [ส50-35-1ฬสิ-50ย] has been renamed to PCB FootPrint [ส50-35-0511_Primary].
+        Warning - 0 : PCAD Pattern Graphics [KT13][Primary] associated with PCAD Component [สา315ม] has been renamed to PCB FootPrint [KT13_สา315ม(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [DO-7][Primary] associated with PCAD Component [1N34] has been renamed to PCB FootPrint [DO-7_1N34(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [TRANS_1][Primary] associated with PCAD Component [TRANS_1] has been renamed to PCB FootPrint [TRANS_1_TRANS_1(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [R50-35-08XX][Primary] associated with PCAD Component [ส50-35-470ฬสิ-10ย] has been renamed to PCB FootPrint [R50-35-08XX_Primary].
+        Warning - 0 : PCAD Pattern Graphics [TO-220-KT-28-2][Primary] associated with PCAD Component [สะ142ลอ5ภ] has been renamed to PCB FootPrint [TO-220-KT-28-2_สะ142ลอ5ภ(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [TC122][Primary] associated with PCAD Component [TC122] has been renamed to PCB FootPrint [TC122_TC122(Primary)].
+    EndSection
+EndSection

@@ -1,0 +1,105 @@
+PCAD Importer Log
+Project : IR.LibPkg
+
+Section : D:\PCAD-Libs\IR.lib
+    Section : PCB Library - IR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 183
+            Warning - 1 : Skipping Token defaultPinDes On Line 184
+            Warning - 1 : Skipping Token defaultPinDes On Line 185
+            Warning - 1 : Skipping Token defaultPinDes On Line 186
+            Warning - 1 : Skipping Token defaultPinDes On Line 187
+            Warning - 1 : Skipping Token defaultPinDes On Line 188
+            Warning - 1 : Skipping Token defaultPinDes On Line 189
+            Warning - 1 : Skipping Token defaultPinDes On Line 190
+            Warning - 1 : Skipping Token defaultPinDes On Line 288
+            Warning - 1 : Skipping Token defaultPinDes On Line 289
+            Warning - 1 : Skipping Token defaultPinDes On Line 290
+            Warning - 1 : Skipping Token defaultPinDes On Line 291
+            Warning - 1 : Skipping Token defaultPinDes On Line 292
+            Warning - 1 : Skipping Token defaultPinDes On Line 293
+            Warning - 1 : Skipping Token defaultPinDes On Line 294
+            Warning - 1 : Skipping Token defaultPinDes On Line 295
+            Warning - 1 : Skipping Token defaultPinDes On Line 325
+            Warning - 1 : Skipping Token defaultPinDes On Line 326
+            Warning - 1 : Skipping Token defaultPinDes On Line 327
+            Warning - 1 : Skipping Token defaultPinDes On Line 328
+            Warning - 1 : Skipping Token defaultPinDes On Line 329
+            Warning - 1 : Skipping Token defaultPinDes On Line 330
+            Warning - 1 : Skipping Token defaultPinDes On Line 331
+            Warning - 1 : Skipping Token defaultPinDes On Line 332
+            Warning - 1 : Skipping Token defaultPinDes On Line 415
+            Warning - 1 : Skipping Token defaultPinDes On Line 416
+            Warning - 1 : Skipping Token defaultPinDes On Line 417
+            Warning - 1 : Skipping Token defaultPinDes On Line 418
+            Warning - 1 : Skipping Token defaultPinDes On Line 419
+            Warning - 1 : Skipping Token defaultPinDes On Line 420
+            Warning - 1 : Skipping Token defaultPinDes On Line 421
+            Warning - 1 : Skipping Token defaultPinDes On Line 422
+            Warning - 1 : Skipping Token ACS712 On Line 447
+            Warning - 1 : Skipping Token N_MOSFET_8PIN On Line 532
+            Warning - 1 : Skipping Token P_MOSFET_8PIN On Line 655
+            Warning - 1 : Skipping Token attachedSymbol On Line 796
+            Warning - 1 : Skipping Token attachedSymbol On Line 828
+            Warning - 1 : Skipping Token attachedSymbol On Line 860
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - IR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 43
+            Warning - 1 : Skipping Token padStyleDef On Line 54
+            Warning - 1 : Skipping Token padStyleDef On Line 65
+            Warning - 1 : Skipping Token padStyleDef On Line 76
+            Warning - 1 : Skipping Token viaStyleDef On Line 87
+            Warning - 1 : Skipping Token multiLayer On Line 182
+            Warning - 1 : Skipping Token layerContents On Line 192
+            Warning - 1 : Skipping Token layerContents On Line 203
+            Warning - 1 : Skipping Token multiLayer On Line 287
+            Warning - 1 : Skipping Token layerContents On Line 297
+            Warning - 1 : Skipping Token layerContents On Line 308
+            Warning - 1 : Skipping Token multiLayer On Line 324
+            Warning - 1 : Skipping Token layerContents On Line 334
+            Warning - 1 : Skipping Token layerContents On Line 342
+            Warning - 1 : Skipping Token layerContents On Line 350
+            Warning - 1 : Skipping Token layerContents On Line 361
+            Warning - 1 : Skipping Token layerContents On Line 369
+            Warning - 1 : Skipping Token multiLayer On Line 414
+            Warning - 1 : Skipping Token layerContents On Line 426
+            Warning - 1 : Skipping Token layerContents On Line 437
+            Warning - 1 : Skipping Token defaultPinDes On Line 455
+            Warning - 1 : Skipping Token defaultPinDes On Line 463
+            Warning - 1 : Skipping Token defaultPinDes On Line 471
+            Warning - 1 : Skipping Token defaultPinDes On Line 479
+            Warning - 1 : Skipping Token defaultPinDes On Line 487
+            Warning - 1 : Skipping Token defaultPinDes On Line 495
+            Warning - 1 : Skipping Token defaultPinDes On Line 503
+            Warning - 1 : Skipping Token defaultPinDes On Line 511
+            Warning - 1 : Skipping Token defaultPinDes On Line 540
+            Warning - 1 : Skipping Token defaultPinDes On Line 548
+            Warning - 1 : Skipping Token defaultPinDes On Line 556
+            Warning - 1 : Skipping Token defaultPinDes On Line 564
+            Warning - 1 : Skipping Token defaultPinDes On Line 572
+            Warning - 1 : Skipping Token defaultPinDes On Line 580
+            Warning - 1 : Skipping Token defaultPinDes On Line 588
+            Warning - 1 : Skipping Token defaultPinDes On Line 596
+            Warning - 1 : Skipping Token defaultPinDes On Line 663
+            Warning - 1 : Skipping Token defaultPinDes On Line 671
+            Warning - 1 : Skipping Token defaultPinDes On Line 679
+            Warning - 1 : Skipping Token defaultPinDes On Line 687
+            Warning - 1 : Skipping Token defaultPinDes On Line 695
+            Warning - 1 : Skipping Token defaultPinDes On Line 703
+            Warning - 1 : Skipping Token defaultPinDes On Line 711
+            Warning - 1 : Skipping Token defaultPinDes On Line 719
+        EndSection
+
+        Section : Generating SCH Library - IR.SchLib
+        EndSection
+    EndSection
+EndSection

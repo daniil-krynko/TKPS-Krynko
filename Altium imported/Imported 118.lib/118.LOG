@@ -1,0 +1,60 @@
+PCAD Importer Log
+Project : 118.LibPkg
+
+Section : D:\PCAD-Libs\118.lib
+    Section : PCB Library - 118.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 94
+            Warning - 1 : Skipping Token defaultPinDes On Line 95
+            Warning - 1 : Skipping Token defaultPinDes On Line 96
+            Warning - 1 : Skipping Token defaultPinDes On Line 97
+            Warning - 1 : Skipping Token defaultPinDes On Line 98
+            Warning - 1 : Skipping Token defaultPinDes On Line 99
+            Warning - 1 : Skipping Token defaultPinDes On Line 100
+            Warning - 1 : Skipping Token defaultPinDes On Line 101
+            Warning - 1 : Skipping Token defaultPinDes On Line 102
+            Warning - 1 : Skipping Token defaultPinDes On Line 103
+            Warning - 1 : Skipping Token defaultPinDes On Line 104
+            Warning - 1 : Skipping Token defaultPinDes On Line 105
+            Warning - 1 : Skipping Token defaultPinDes On Line 106
+            Warning - 1 : Skipping Token defaultPinDes On Line 107
+            Warning - 1 : Skipping Token OPER-AMP-8PIN On Line 247
+            Warning - 1 : Skipping Token й118см1 On Line 350
+            Warning - 1 : Skipping Token attachedSymbol On Line 484
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 118.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 93
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 125
+            Warning - 1 : Skipping Token defaultPinDes On Line 255
+            Warning - 1 : Skipping Token defaultPinDes On Line 264
+            Warning - 1 : Skipping Token defaultPinDes On Line 272
+            Warning - 1 : Skipping Token defaultPinDes On Line 280
+            Warning - 1 : Skipping Token defaultPinDes On Line 288
+            Warning - 1 : Skipping Token defaultPinDes On Line 296
+            Warning - 1 : Skipping Token defaultPinDes On Line 304
+            Warning - 1 : Skipping Token defaultPinDes On Line 312
+            Warning - 1 : Skipping Token defaultPinDes On Line 358
+            Warning - 1 : Skipping Token defaultPinDes On Line 366
+            Warning - 1 : Skipping Token defaultPinDes On Line 374
+            Warning - 1 : Skipping Token defaultPinDes On Line 382
+            Warning - 1 : Skipping Token defaultPinDes On Line 390
+            Warning - 1 : Skipping Token defaultPinDes On Line 398
+            Warning - 1 : Skipping Token defaultPinDes On Line 406
+            Warning - 1 : Skipping Token defaultPinDes On Line 414
+            Warning - 1 : Skipping Token defaultPinDes On Line 422
+        EndSection
+
+        Section : Generating SCH Library - 118.SchLib
+        EndSection
+    EndSection
+EndSection

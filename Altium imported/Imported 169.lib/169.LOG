@@ -1,0 +1,80 @@
+PCAD Importer Log
+Project : 169.LibPkg
+
+Section : D:\PCAD-Libs\169.lib
+    Section : PCB Library - 169.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 108
+            Warning - 1 : Skipping Token defaultPinDes On Line 109
+            Warning - 1 : Skipping Token defaultPinDes On Line 110
+            Warning - 1 : Skipping Token defaultPinDes On Line 111
+            Warning - 1 : Skipping Token defaultPinDes On Line 112
+            Warning - 1 : Skipping Token defaultPinDes On Line 113
+            Warning - 1 : Skipping Token defaultPinDes On Line 114
+            Warning - 1 : Skipping Token defaultPinDes On Line 115
+            Warning - 1 : Skipping Token defaultPinDes On Line 116
+            Warning - 1 : Skipping Token defaultPinDes On Line 117
+            Warning - 1 : Skipping Token defaultPinDes On Line 118
+            Warning - 1 : Skipping Token defaultPinDes On Line 119
+            Warning - 1 : Skipping Token defaultPinDes On Line 120
+            Warning - 1 : Skipping Token defaultPinDes On Line 121
+            Warning - 1 : Skipping Token defaultPinDes On Line 122
+            Warning - 1 : Skipping Token defaultPinDes On Line 123
+            Warning - 1 : Skipping Token FORMIROVATEL VTEKAYUCHEGO TOKA On Line 157
+            Warning - 1 : Skipping Token attachedSymbol On Line 222
+            Warning - 1 : Skipping Token attachedSymbol On Line 223
+        EndSection
+
+        Section : Import Messages
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+        EndSection
+    EndSection
+
+    Section : SCH Library - 169.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 34
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 125
+            Warning - 1 : Skipping Token layerContents On Line 140
+            Warning - 1 : Skipping Token defaultPinDes On Line 165
+            Warning - 1 : Skipping Token defaultPinDes On Line 173
+            Warning - 1 : Skipping Token defaultPinDes On Line 181
+        EndSection
+
+        Section : Generating SCH Library - 169.SchLib
+        EndSection
+    EndSection
+EndSection

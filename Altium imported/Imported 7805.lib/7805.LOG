@@ -1,0 +1,142 @@
+PCAD Importer Log
+Project : 7805.LibPkg
+
+Section : D:\PCAD-Libs\7805.lib
+    Section : PCB Library - 7805.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 370
+            Warning - 1 : Skipping Token defaultPinDes On Line 371
+            Warning - 1 : Skipping Token defaultPinDes On Line 372
+            Warning - 1 : Skipping Token defaultPinDes On Line 432
+            Warning - 1 : Skipping Token defaultPinDes On Line 433
+            Warning - 1 : Skipping Token defaultPinDes On Line 434
+            Warning - 1 : Skipping Token defaultPinDes On Line 435
+            Warning - 1 : Skipping Token defaultPinDes On Line 480
+            Warning - 1 : Skipping Token defaultPinDes On Line 481
+            Warning - 1 : Skipping Token defaultPinDes On Line 482
+            Warning - 1 : Skipping Token defaultPinDes On Line 483
+            Warning - 1 : Skipping Token defaultPinDes On Line 523
+            Warning - 1 : Skipping Token defaultPinDes On Line 524
+            Warning - 1 : Skipping Token defaultPinDes On Line 525
+            Warning - 1 : Skipping Token defaultPinDes On Line 526
+            Warning - 1 : Skipping Token defaultPinDes On Line 573
+            Warning - 1 : Skipping Token defaultPinDes On Line 574
+            Warning - 1 : Skipping Token defaultPinDes On Line 581
+            Warning - 1 : Skipping Token defaultPinDes On Line 582
+            Warning - 1 : Skipping Token defaultPinDes On Line 659
+            Warning - 1 : Skipping Token defaultPinDes On Line 660
+            Warning - 1 : Skipping Token defaultPinDes On Line 661
+            Warning - 1 : Skipping Token defaultPinDes On Line 662
+            Warning - 1 : Skipping Token defaultPinDes On Line 744
+            Warning - 1 : Skipping Token defaultPinDes On Line 745
+            Warning - 1 : Skipping Token defaultPinDes On Line 746
+            Warning - 1 : Skipping Token defaultPinDes On Line 747
+            Warning - 1 : Skipping Token defaultPinDes On Line 825
+            Warning - 1 : Skipping Token defaultPinDes On Line 826
+            Warning - 1 : Skipping Token defaultPinDes On Line 827
+            Warning - 1 : Skipping Token defaultPinDes On Line 862
+            Warning - 1 : Skipping Token defaultPinDes On Line 863
+            Warning - 1 : Skipping Token defaultPinDes On Line 864
+            Warning - 1 : Skipping Token defaultPinDes On Line 895
+            Warning - 1 : Skipping Token defaultPinDes On Line 896
+            Warning - 1 : Skipping Token defaultPinDes On Line 897
+            Warning - 1 : Skipping Token STU-3PIN On Line 920
+            Warning - 1 : Skipping Token STU-4PIN On Line 964
+            Warning - 1 : Skipping Token attachedSymbol On Line 1030
+            Warning - 1 : Skipping Token attachedSymbol On Line 1052
+            Warning - 1 : Skipping Token attachedSymbol On Line 1075
+            Warning - 1 : Skipping Token attachedSymbol On Line 1099
+            Warning - 1 : Skipping Token attachedSymbol On Line 1122
+            Warning - 1 : Skipping Token attachedSymbol On Line 1145
+            Warning - 1 : Skipping Token attachedSymbol On Line 1168
+            Warning - 1 : Skipping Token attachedSymbol On Line 1191
+            Warning - 1 : Skipping Token attachedSymbol On Line 1214
+            Warning - 1 : Skipping Token attachedSymbol On Line 1237
+            Warning - 1 : Skipping Token attachedSymbol On Line 1261
+            Warning - 1 : Skipping Token attachedSymbol On Line 1284
+            Warning - 1 : Skipping Token attachedSymbol On Line 1307
+            Warning - 1 : Skipping Token attachedSymbol On Line 1332
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [TO-225AA][Primary] associated with PCAD Component [7805AE] has been renamed to PCB FootPrint [TO-225AA_7805AE(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [7805AJ] has been renamed to PCB FootPrint [TO-220AB_Primary].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 7805.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 34
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 56
+            Warning - 1 : Skipping Token padStyleDef On Line 67
+            Warning - 1 : Skipping Token padStyleDef On Line 78
+            Warning - 1 : Skipping Token padStyleDef On Line 89
+            Warning - 1 : Skipping Token padStyleDef On Line 100
+            Warning - 1 : Skipping Token padStyleDef On Line 111
+            Warning - 1 : Skipping Token padStyleDef On Line 121
+            Warning - 1 : Skipping Token padStyleDef On Line 131
+            Warning - 1 : Skipping Token padStyleDef On Line 142
+            Warning - 1 : Skipping Token padStyleDef On Line 153
+            Warning - 1 : Skipping Token padStyleDef On Line 163
+            Warning - 1 : Skipping Token padStyleDef On Line 174
+            Warning - 1 : Skipping Token padStyleDef On Line 184
+            Warning - 1 : Skipping Token padStyleDef On Line 194
+            Warning - 1 : Skipping Token viaStyleDef On Line 204
+            Warning - 1 : Skipping Token multiLayer On Line 369
+            Warning - 1 : Skipping Token layerContents On Line 374
+            Warning - 1 : Skipping Token layerContents On Line 385
+            Warning - 1 : Skipping Token multiLayer On Line 431
+            Warning - 1 : Skipping Token layerContents On Line 437
+            Warning - 1 : Skipping Token layerContents On Line 445
+            Warning - 1 : Skipping Token layerContents On Line 455
+            Warning - 1 : Skipping Token multiLayer On Line 479
+            Warning - 1 : Skipping Token layerContents On Line 487
+            Warning - 1 : Skipping Token layerContents On Line 496
+            Warning - 1 : Skipping Token multiLayer On Line 522
+            Warning - 1 : Skipping Token layerContents On Line 530
+            Warning - 1 : Skipping Token layerContents On Line 543
+            Warning - 1 : Skipping Token multiLayer On Line 572
+            Warning - 1 : Skipping Token layerContents On Line 589
+            Warning - 1 : Skipping Token layerContents On Line 615
+            Warning - 1 : Skipping Token layerContents On Line 629
+            Warning - 1 : Skipping Token multiLayer On Line 658
+            Warning - 1 : Skipping Token layerContents On Line 664
+            Warning - 1 : Skipping Token layerContents On Line 677
+            Warning - 1 : Skipping Token multiLayer On Line 743
+            Warning - 1 : Skipping Token layerContents On Line 749
+            Warning - 1 : Skipping Token layerContents On Line 809
+            Warning - 1 : Skipping Token multiLayer On Line 824
+            Warning - 1 : Skipping Token layerContents On Line 829
+            Warning - 1 : Skipping Token layerContents On Line 844
+            Warning - 1 : Skipping Token multiLayer On Line 861
+            Warning - 1 : Skipping Token layerContents On Line 866
+            Warning - 1 : Skipping Token layerContents On Line 878
+            Warning - 1 : Skipping Token multiLayer On Line 894
+            Warning - 1 : Skipping Token layerContents On Line 899
+            Warning - 1 : Skipping Token layerContents On Line 909
+            Warning - 1 : Skipping Token defaultPinDes On Line 928
+            Warning - 1 : Skipping Token defaultPinDes On Line 936
+            Warning - 1 : Skipping Token defaultPinDes On Line 944
+            Warning - 1 : Skipping Token defaultPinDes On Line 972
+            Warning - 1 : Skipping Token defaultPinDes On Line 980
+            Warning - 1 : Skipping Token defaultPinDes On Line 988
+            Warning - 1 : Skipping Token defaultPinDes On Line 996
+        EndSection
+
+        Section : Generating SCH Library - 7805.SchLib
+            Warning - 0 : PCAD Pattern Graphics [TO-225AA][Primary] associated with PCAD Component [7805AE] has been renamed to PCB FootPrint [TO-225AA_7805AE(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [7805AJ] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [7805AJ] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [7805AJ] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [L7805CV] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [L7805CV] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [L7805CV] has been renamed to PCB FootPrint [TO-220AB_Vert].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Primary] associated with PCAD Component [L7812CV] has been renamed to PCB FootPrint [TO-220AB_Primary].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][SMD] associated with PCAD Component [L7812CV] has been renamed to PCB FootPrint [TO-220AB_SMD].
+            Warning - 0 : PCAD Pattern Graphics [TO-220AB][Vert] associated with PCAD Component [L7812CV] has been renamed to PCB FootPrint [TO-220AB_Vert].
+        EndSection
+    EndSection
+EndSection

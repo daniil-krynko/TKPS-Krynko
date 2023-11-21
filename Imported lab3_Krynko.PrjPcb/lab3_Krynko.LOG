@@ -1,0 +1,61 @@
+PCAD Importer Log
+Project : lab3_Krynko.PrjPcb
+
+Section : D:\TKPS-Krynko\lab3_Krynko.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 173
+        Warning - 1 : Skipping Token defaultPinDes On Line 181
+        Warning - 1 : Skipping Token defaultPinDes On Line 189
+        Warning - 1 : Skipping Token defaultPinDes On Line 217
+        Warning - 1 : Skipping Token defaultPinDes On Line 225
+        Warning - 1 : Skipping Token defaultPinDes On Line 246
+        Warning - 1 : Skipping Token defaultPinDes On Line 254
+        Warning - 1 : Skipping Token defaultPinDes On Line 276
+        Warning - 1 : Skipping Token defaultPinDes On Line 283
+        Warning - 1 : Skipping Token defaultPinDes On Line 290
+        Warning - 1 : Skipping Token defaultPinDes On Line 297
+        Warning - 1 : Skipping Token defaultPinDes On Line 333
+        Warning - 1 : Skipping Token defaultPinDes On Line 341
+        Warning - 1 : Skipping Token defaultPinDes On Line 349
+        Warning - 1 : Skipping Token defaultPinDes On Line 357
+        Warning - 1 : Skipping Token defaultPinDes On Line 417
+        Warning - 1 : Skipping Token defaultPinDes On Line 424
+        Warning - 1 : Skipping Token defaultPinDes On Line 431
+        Warning - 1 : Skipping Token defaultPinDes On Line 455
+        Warning - 1 : Skipping Token defaultPinDes On Line 463
+        Warning - 1 : Skipping Token defaultPinDes On Line 514
+        Warning - 1 : Skipping Token defaultPinDes On Line 522
+        Warning - 1 : Skipping Token defaultPinDes On Line 530
+        Warning - 1 : Skipping Token defaultPinDes On Line 553
+        Warning - 1 : Skipping Token defaultPinDes On Line 561
+        Warning - 1 : Skipping Token defaultPinDes On Line 597
+        Warning - 1 : Skipping Token defaultPinDes On Line 605
+        Warning - 1 : Skipping Token defaultPinDes On Line 613
+        Warning - 1 : Skipping Token defaultPinDes On Line 621
+        Warning - 1 : Skipping Token defaultPinDes On Line 629
+        Warning - 1 : Skipping Token defaultPinDes On Line 637
+        Warning - 1 : Skipping Token defaultPinDes On Line 645
+        Warning - 1 : Skipping Token defaultPinDes On Line 653
+        Warning - 1 : Skipping Token gridDfns On Line 1176
+        Warning - 1 : Skipping Token refPointSize On Line 1198
+        Warning - 1 : Skipping Token infoPointSize On Line 1199
+        Warning - 1 : Skipping Token junctionSize On Line 1200
+        Warning - 1 : Skipping Token refPointSizePrint On Line 1201
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 1202
+        Warning - 1 : Skipping Token junctionSizePrint On Line 1203
+        Warning - 1 : Skipping Token PrintRegion On Line 1414
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 1418
+        Warning - 1 : Skipping Token ecoState On Line 1433
+        Warning - 1 : Skipping Token currentTextStyle On Line 1434
+        Warning - 1 : Skipping Token reportSettings On Line 1437
+    EndSection
+
+    Section : Generating SCH Library - lab3_Krynko.SchLib
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection

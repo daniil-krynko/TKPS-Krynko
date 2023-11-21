@@ -1,0 +1,166 @@
+PCAD Importer Log
+Project : 155.LibPkg
+
+Section : D:\PCAD-Libs\155.lib
+    Section : PCB Library - 155.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 118
+            Warning - 1 : Skipping Token defaultPinDes On Line 119
+            Warning - 1 : Skipping Token defaultPinDes On Line 120
+            Warning - 1 : Skipping Token defaultPinDes On Line 121
+            Warning - 1 : Skipping Token defaultPinDes On Line 122
+            Warning - 1 : Skipping Token defaultPinDes On Line 123
+            Warning - 1 : Skipping Token defaultPinDes On Line 124
+            Warning - 1 : Skipping Token defaultPinDes On Line 125
+            Warning - 1 : Skipping Token defaultPinDes On Line 126
+            Warning - 1 : Skipping Token defaultPinDes On Line 127
+            Warning - 1 : Skipping Token defaultPinDes On Line 128
+            Warning - 1 : Skipping Token defaultPinDes On Line 129
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token defaultPinDes On Line 278
+            Warning - 1 : Skipping Token defaultPinDes On Line 279
+            Warning - 1 : Skipping Token defaultPinDes On Line 280
+            Warning - 1 : Skipping Token defaultPinDes On Line 281
+            Warning - 1 : Skipping Token defaultPinDes On Line 282
+            Warning - 1 : Skipping Token defaultPinDes On Line 283
+            Warning - 1 : Skipping Token defaultPinDes On Line 284
+            Warning - 1 : Skipping Token defaultPinDes On Line 285
+            Warning - 1 : Skipping Token defaultPinDes On Line 286
+            Warning - 1 : Skipping Token defaultPinDes On Line 287
+            Warning - 1 : Skipping Token defaultPinDes On Line 288
+            Warning - 1 : Skipping Token defaultPinDes On Line 289
+            Warning - 1 : Skipping Token defaultPinDes On Line 290
+            Warning - 1 : Skipping Token defaultPinDes On Line 291
+            Warning - 1 : Skipping Token defaultPinDes On Line 292
+            Warning - 1 : Skipping Token defaultPinDes On Line 293
+            Warning - 1 : Skipping Token defaultPinDes On Line 294
+            Warning - 1 : Skipping Token defaultPinDes On Line 295
+            Warning - 1 : Skipping Token defaultPinDes On Line 296
+            Warning - 1 : Skipping Token defaultPinDes On Line 297
+            Warning - 1 : Skipping Token defaultPinDes On Line 298
+            Warning - 1 : Skipping Token defaultPinDes On Line 299
+            Warning - 1 : Skipping Token defaultPinDes On Line 300
+            Warning - 1 : Skipping Token defaultPinDes On Line 301
+            Warning - 1 : Skipping Token 2AND-NOT On Line 686
+            Warning - 1 : Skipping Token 3AND-NOT On Line 724
+            Warning - 1 : Skipping Token 4AND-NOT On Line 770
+            Warning - 1 : Skipping Token 4OR-NOT-STB On Line 824
+            Warning - 1 : Skipping Token COUNTER-4DIG-REVERSE On Line 896
+            Warning - 1 : Skipping Token D-TRIGGER On Line 1082
+            Warning - 1 : Skipping Token NOT On Line 1169
+            Warning - 1 : Skipping Token Ê155ÈÐ13 On Line 1199
+            Warning - 1 : Skipping Token attachedSymbol On Line 1464
+            Warning - 1 : Skipping Token attachedSymbol On Line 1521
+            Warning - 1 : Skipping Token attachedSymbol On Line 1576
+            Warning - 1 : Skipping Token attachedSymbol On Line 1577
+            Warning - 1 : Skipping Token attachedSymbol On Line 1622
+            Warning - 1 : Skipping Token attachedSymbol On Line 1623
+            Warning - 1 : Skipping Token attachedSymbol On Line 1624
+            Warning - 1 : Skipping Token attachedSymbol On Line 1625
+            Warning - 1 : Skipping Token attachedSymbol On Line 1670
+            Warning - 1 : Skipping Token attachedSymbol On Line 1671
+            Warning - 1 : Skipping Token attachedSymbol On Line 1672
+            Warning - 1 : Skipping Token attachedSymbol On Line 1719
+            Warning - 1 : Skipping Token attachedSymbol On Line 1720
+            Warning - 1 : Skipping Token attachedSymbol On Line 1767
+            Warning - 1 : Skipping Token attachedSymbol On Line 1768
+            Warning - 1 : Skipping Token attachedSymbol On Line 1769
+            Warning - 1 : Skipping Token attachedSymbol On Line 1770
+            Warning - 1 : Skipping Token attachedSymbol On Line 1771
+            Warning - 1 : Skipping Token attachedSymbol On Line 1772
+            Warning - 1 : Skipping Token attachedSymbol On Line 1817
+            Warning - 1 : Skipping Token attachedSymbol On Line 1818
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 155.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token layerContents On Line 149
+            Warning - 1 : Skipping Token multiLayer On Line 277
+            Warning - 1 : Skipping Token layerContents On Line 303
+            Warning - 1 : Skipping Token layerContents On Line 319
+            Warning - 1 : Skipping Token multiLayer On Line 516
+            Warning - 1 : Skipping Token layerContents On Line 534
+            Warning - 1 : Skipping Token layerContents On Line 550
+            Warning - 1 : Skipping Token defaultPinDes On Line 694
+            Warning - 1 : Skipping Token defaultPinDes On Line 701
+            Warning - 1 : Skipping Token defaultPinDes On Line 708
+            Warning - 1 : Skipping Token defaultPinDes On Line 731
+            Warning - 1 : Skipping Token defaultPinDes On Line 738
+            Warning - 1 : Skipping Token defaultPinDes On Line 745
+            Warning - 1 : Skipping Token defaultPinDes On Line 753
+            Warning - 1 : Skipping Token defaultPinDes On Line 777
+            Warning - 1 : Skipping Token defaultPinDes On Line 784
+            Warning - 1 : Skipping Token defaultPinDes On Line 791
+            Warning - 1 : Skipping Token defaultPinDes On Line 798
+            Warning - 1 : Skipping Token defaultPinDes On Line 806
+            Warning - 1 : Skipping Token defaultPinDes On Line 832
+            Warning - 1 : Skipping Token defaultPinDes On Line 840
+            Warning - 1 : Skipping Token defaultPinDes On Line 847
+            Warning - 1 : Skipping Token defaultPinDes On Line 855
+            Warning - 1 : Skipping Token defaultPinDes On Line 862
+            Warning - 1 : Skipping Token defaultPinDes On Line 869
+            Warning - 1 : Skipping Token defaultPinDes On Line 876
+            Warning - 1 : Skipping Token defaultPinDes On Line 904
+            Warning - 1 : Skipping Token defaultPinDes On Line 912
+            Warning - 1 : Skipping Token defaultPinDes On Line 920
+            Warning - 1 : Skipping Token defaultPinDes On Line 928
+            Warning - 1 : Skipping Token defaultPinDes On Line 937
+            Warning - 1 : Skipping Token defaultPinDes On Line 945
+            Warning - 1 : Skipping Token defaultPinDes On Line 953
+            Warning - 1 : Skipping Token defaultPinDes On Line 961
+            Warning - 1 : Skipping Token defaultPinDes On Line 970
+            Warning - 1 : Skipping Token defaultPinDes On Line 978
+            Warning - 1 : Skipping Token defaultPinDes On Line 986
+            Warning - 1 : Skipping Token defaultPinDes On Line 994
+            Warning - 1 : Skipping Token defaultPinDes On Line 1002
+            Warning - 1 : Skipping Token defaultPinDes On Line 1010
+            Warning - 1 : Skipping Token defaultPinDes On Line 1018
+            Warning - 1 : Skipping Token defaultPinDes On Line 1027
+            Warning - 1 : Skipping Token defaultPinDes On Line 1091
+            Warning - 1 : Skipping Token defaultPinDes On Line 1099
+            Warning - 1 : Skipping Token defaultPinDes On Line 1108
+            Warning - 1 : Skipping Token defaultPinDes On Line 1117
+            Warning - 1 : Skipping Token defaultPinDes On Line 1125
+            Warning - 1 : Skipping Token defaultPinDes On Line 1133
+            Warning - 1 : Skipping Token defaultPinDes On Line 1176
+            Warning - 1 : Skipping Token defaultPinDes On Line 1184
+            Warning - 1 : Skipping Token defaultPinDes On Line 1207
+            Warning - 1 : Skipping Token defaultPinDes On Line 1215
+            Warning - 1 : Skipping Token defaultPinDes On Line 1223
+            Warning - 1 : Skipping Token defaultPinDes On Line 1231
+            Warning - 1 : Skipping Token defaultPinDes On Line 1239
+            Warning - 1 : Skipping Token defaultPinDes On Line 1247
+            Warning - 1 : Skipping Token defaultPinDes On Line 1256
+            Warning - 1 : Skipping Token defaultPinDes On Line 1264
+            Warning - 1 : Skipping Token defaultPinDes On Line 1272
+            Warning - 1 : Skipping Token defaultPinDes On Line 1280
+            Warning - 1 : Skipping Token defaultPinDes On Line 1288
+            Warning - 1 : Skipping Token defaultPinDes On Line 1296
+            Warning - 1 : Skipping Token defaultPinDes On Line 1304
+            Warning - 1 : Skipping Token defaultPinDes On Line 1312
+            Warning - 1 : Skipping Token defaultPinDes On Line 1320
+            Warning - 1 : Skipping Token defaultPinDes On Line 1328
+            Warning - 1 : Skipping Token defaultPinDes On Line 1336
+            Warning - 1 : Skipping Token defaultPinDes On Line 1344
+            Warning - 1 : Skipping Token defaultPinDes On Line 1352
+            Warning - 1 : Skipping Token defaultPinDes On Line 1360
+            Warning - 1 : Skipping Token defaultPinDes On Line 1368
+            Warning - 1 : Skipping Token defaultPinDes On Line 1376
+            Warning - 1 : Skipping Token defaultPinDes On Line 1384
+            Warning - 1 : Skipping Token defaultPinDes On Line 1392
+        EndSection
+
+        Section : Generating SCH Library - 155.SchLib
+        EndSection
+    EndSection
+EndSection

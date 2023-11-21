@@ -1,0 +1,62 @@
+PCAD Importer Log
+Project : 136.LibPkg
+
+Section : D:\PCAD-Libs\136.lib
+    Section : PCB Library - 136.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 2AND-NOT On Line 154
+            Warning - 1 : Skipping Token attachedSymbol On Line 216
+            Warning - 1 : Skipping Token attachedSymbol On Line 217
+            Warning - 1 : Skipping Token attachedSymbol On Line 218
+            Warning - 1 : Skipping Token attachedSymbol On Line 219
+        EndSection
+
+        Section : Import Messages
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+            Warning : No Connect Pad Converted To Rounded Pad
+        EndSection
+    EndSection
+
+    Section : SCH Library - 136.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 34
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 139
+            Warning - 1 : Skipping Token defaultPinDes On Line 162
+            Warning - 1 : Skipping Token defaultPinDes On Line 169
+            Warning - 1 : Skipping Token defaultPinDes On Line 176
+        EndSection
+
+        Section : Generating SCH Library - 136.SchLib
+        EndSection
+    EndSection
+EndSection

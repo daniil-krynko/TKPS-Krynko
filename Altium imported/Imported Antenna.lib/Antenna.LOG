@@ -1,0 +1,77 @@
+PCAD Importer Log
+Project : Antenna.LibPkg
+
+Section : D:\PCAD-Libs\Antenna.lib
+    Section : PCB Library - Antenna.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 245
+            Warning - 1 : Skipping Token defaultPinDes On Line 246
+            Warning - 1 : Skipping Token defaultPinDes On Line 247
+            Warning - 1 : Skipping Token defaultPinDes On Line 248
+            Warning - 1 : Skipping Token defaultPinDes On Line 249
+            Warning - 1 : Skipping Token defaultPinDes On Line 250
+            Warning - 1 : Skipping Token defaultPinDes On Line 611
+            Warning - 1 : Skipping Token defaultPinDes On Line 612
+            Warning - 1 : Skipping Token defaultPinDes On Line 613
+            Warning - 1 : Skipping Token defaultPinDes On Line 614
+            Warning - 1 : Skipping Token defaultPinDes On Line 642
+            Warning - 1 : Skipping Token defaultPinDes On Line 643
+            Warning - 1 : Skipping Token defaultPinDes On Line 663
+            Warning - 1 : Skipping Token 2450AT18B100 On Line 682
+            Warning - 1 : Skipping Token ANTENNA_1 On Line 714
+            Warning - 1 : Skipping Token ANTENNA_2 On Line 776
+            Warning - 1 : Skipping Token ANTENNA_3 On Line 810
+            Warning - 1 : Skipping Token attachedSymbol On Line 840
+            Warning - 1 : Skipping Token attachedSymbol On Line 864
+            Warning - 1 : Skipping Token attachedSymbol On Line 890
+            Warning - 1 : Skipping Token attachedSymbol On Line 911
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [TELESKOP_ANTENNA][PRK] associated with PCAD Component [TELESKOP_ANTENNA] has been renamed to PCB FootPrint [TELESKOP_ANTENNA_PRK].
+        EndSection
+    EndSection
+
+    Section : SCH Library - Antenna.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 34
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 55
+            Warning - 1 : Skipping Token padStyleDef On Line 65
+            Warning - 1 : Skipping Token padStyleDef On Line 75
+            Warning - 1 : Skipping Token padStyleDef On Line 85
+            Warning - 1 : Skipping Token viaStyleDef On Line 95
+            Warning - 1 : Skipping Token multiLayer On Line 214
+            Warning - 1 : Skipping Token layerContents On Line 220
+            Warning - 1 : Skipping Token layerContents On Line 230
+            Warning - 1 : Skipping Token multiLayer On Line 244
+            Warning - 1 : Skipping Token layerContents On Line 252
+            Warning - 1 : Skipping Token layerContents On Line 264
+            Warning - 1 : Skipping Token multiLayer On Line 610
+            Warning - 1 : Skipping Token layerContents On Line 616
+            Warning - 1 : Skipping Token layerContents On Line 626
+            Warning - 1 : Skipping Token multiLayer On Line 641
+            Warning - 1 : Skipping Token layerContents On Line 645
+            Warning - 1 : Skipping Token multiLayer On Line 662
+            Warning - 1 : Skipping Token layerContents On Line 665
+            Warning - 1 : Skipping Token layerContents On Line 669
+            Warning - 1 : Skipping Token layerContents On Line 675
+            Warning - 1 : Skipping Token defaultPinDes On Line 689
+            Warning - 1 : Skipping Token defaultPinDes On Line 696
+            Warning - 1 : Skipping Token defaultPinDes On Line 722
+            Warning - 1 : Skipping Token defaultPinDes On Line 730
+            Warning - 1 : Skipping Token defaultPinDes On Line 738
+            Warning - 1 : Skipping Token defaultPinDes On Line 746
+            Warning - 1 : Skipping Token defaultPinDes On Line 784
+            Warning - 1 : Skipping Token defaultPinDes On Line 792
+            Warning - 1 : Skipping Token defaultPinDes On Line 818
+        EndSection
+
+        Section : Generating SCH Library - Antenna.SchLib
+            Warning - 0 : PCAD Pattern Graphics [TELESKOP_ANTENNA][PRK] associated with PCAD Component [TELESKOP_ANTENNA] has been renamed to PCB FootPrint [TELESKOP_ANTENNA_PRK].
+            Warning - 0 : PCAD Pattern Graphics [TELESKOP_ANTENNA][Primary] associated with PCAD Component [TELESKOP_ANTENNA] has been renamed to PCB FootPrint [TELESKOP_ANTENNA_Primary].
+        EndSection
+    EndSection
+EndSection
