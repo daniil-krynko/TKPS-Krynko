@@ -1,0 +1,117 @@
+Added Component: Designator=C1(R50-35-08XX_K5035-2R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "470mk"; VariantName = "[No Variations]"
+Added Component: Designator=C2(ส50-35-0511_K5035-1R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1mk"; VariantName = "[No Variations]"
+Added Component: Designator=C3(ส50-35-08XX-ร_K5035-2R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0,1mk"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(TO-220-KT-28-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DA2(SO-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HL1(3528)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(C2-33H-0.125W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Autor"; Value = "pcbdesigner.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(C2-33H-0.125W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Autor"; Value = "pcbdesigner.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(C2-33H-0.125W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Autor"; Value = "pcbdesigner.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R4(C2-33H-0.125W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Autor"; Value = "pcbdesigner.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "130"; VariantName = "[No Variations]"
+Added Component: Designator=R5(C2-33H-0.25W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Autor"; Value = "pcbdesigner.ru"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "56"; VariantName = "[No Variations]"
+Added Component: Designator=T1(TRANS_1_TRANS_1(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=V1(สำ202_สำ202ภ(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD1(2ฤ2136ภั)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VO1(DO-7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VT1(KT13_สา315ม(KT13-1))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(2XR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "~220 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetC1_2 Pin=DA2-1
+Added Pin To Net: NetName=NetC2_1 Pin=DA2-2
+Added Pin To Net: NetName=NetDA2_3 Pin=DA2-3
+Added Pin To Net: NetName=NetDA1_2 Pin=DA2-4
+Added Pin To Net: NetName=NetC3_1 Pin=DA2-5
+Added Pin To Net: NetName=NetC2_1 Pin=DA2-6
+Added Pin To Net: NetName=NetDA2_7 Pin=DA2-7
+Added Pin To Net: NetName=NetDA1_2 Pin=DA2-8
+Added Pin To Net: NetName=NetC1_2 Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=R1-1
+Added Pin To Net: NetName=NetDA2_7 Pin=R1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=NetDA2_7 Pin=R2-2
+Added Pin To Net: NetName=NetHL1_2 Pin=R3-1
+Added Pin To Net: NetName=NetDA2_3 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetDA2_3 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetT1_3 Pin=T1-3
+Added Pin To Net: NetName=NetT1_5 Pin=T1-5
+Added Pin To Net: NetName=NetT1_12 Pin=T1-12
+Added Pin To Net: NetName=NetC1_2 Pin=T1-14
+Added Pin To Net: NetName=NetC1_2 Pin=V1-1
+Added Pin To Net: NetName=NetT1_12 Pin=V1-2
+Added Pin To Net: NetName=NetR5_1 Pin=V1-UE
+Added Pin To Net: NetName=NetT1_3 Pin=VD1-1
+Added Pin To Net: NetName=NetT1_5 Pin=VD1-3
+Added Pin To Net: NetName=NetC1_2 Pin=VD1-4
+Added Pin To Net: NetName=NetC1_1 Pin=VD1-5
+Added Pin To Net: NetName=NetR5_2 Pin=VT1-1
+Added Pin To Net: NetName=NetR4_1 Pin=VT1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=VT1-3
+Added Pin To Net: NetName=NetC1_2 Pin=X1-1
+Added Pin To Net: NetName=NetT1_12 Pin=X1-2
+Added Member To Class: ClassName=Pr7 Member=Component C1 ส50-35-470ฬสิ-10ย
+Added Member To Class: ClassName=Pr7 Member=Component C2 ส50-35-1ฬสิ-50ย
+Added Member To Class: ClassName=Pr7 Member=Component C3 ส50-35-0,1ฬสิ-50ย
+Added Member To Class: ClassName=Pr7 Member=Component DA1 สะ142ลอ5ภ
+Added Member To Class: ClassName=Pr7 Member=Component DA2 LM555CM
+Added Member To Class: ClassName=Pr7 Member=Component HL1 ศฯฤ156
+Added Member To Class: ClassName=Pr7 Member=Component R1 C2-33H-0.125W_OLD_UGO
+Added Member To Class: ClassName=Pr7 Member=Component R2 C2-33H-0.125W_OLD_UGO
+Added Member To Class: ClassName=Pr7 Member=Component R3 C2-33H-0.125W_OLD_UGO
+Added Member To Class: ClassName=Pr7 Member=Component R4 C2-33H-0.125W_OLD_UGO
+Added Member To Class: ClassName=Pr7 Member=Component R5 C2-33H-0.25W_OLD_UGO
+Added Member To Class: ClassName=Pr7 Member=Component T1 TRANS_1
+Added Member To Class: ClassName=Pr7 Member=Component V1 TC122
+Added Member To Class: ClassName=Pr7 Member=Component VD1 2ฤ2136ภั
+Added Member To Class: ClassName=Pr7 Member=Component VO1 1N34
+Added Member To Class: ClassName=Pr7 Member=Component VT1 สา315ม
+Added Member To Class: ClassName=Pr7 Member=Component X1 2XR
+Added Room: Name=Pr7

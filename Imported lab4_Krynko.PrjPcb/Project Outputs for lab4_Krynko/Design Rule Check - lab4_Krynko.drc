@@ -1,0 +1,14 @@
+Protel Design System Design Rule Check
+PCB File : D:\TKPS-Krynko\Imported lab4_Krynko.PrjPcb\lab4_Krynko.PcbDoc
+Date     : 06/12/2023
+Time     : 11:37:11
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad DA1-17(14613.6mil,13510mil) on Multi-Layer on Net NET00004
+   Pad DA1-2(14813.6mil,13510mil) on Multi-Layer on Net NET00016
+   Pad DA1-8(14713.6mil,13410mil) on Multi-Layer on Net NET00017
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00

@@ -1,0 +1,38 @@
+PCAD Importer Log
+Project : Резисторы-1.LibPkg
+
+Section : D:\PCAD-Libs\Lib_mm\Резисторы-1.lib
+    Section : PCB Library - Резисторы-1.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 106
+            Warning - 1 : Skipping Token defaultPinDes On Line 107
+            Warning - 1 : Skipping Token defaultPinDes On Line 130
+            Warning - 1 : Skipping Token defaultPinDes On Line 131
+            Warning - 1 : Skipping Token R100 On Line 144
+            Warning - 1 : Skipping Token attachedSymbol On Line 178
+            Warning - 1 : Skipping Token attachedSymbol On Line 198
+            Warning - 1 : Skipping Token attachedSymbol On Line 218
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - Резисторы-1.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token viaStyleDef On Line 43
+            Warning - 1 : Skipping Token multiLayer On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token multiLayer On Line 129
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token defaultPinDes On Line 151
+            Warning - 1 : Skipping Token defaultPinDes On Line 158
+        EndSection
+
+        Section : Generating SCH Library - Резисторы-1.SchLib
+        EndSection
+    EndSection
+EndSection

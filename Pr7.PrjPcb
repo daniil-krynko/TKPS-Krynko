@@ -1,6 +1,6 @@
 [Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=3
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -39,7 +39,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=lab4_Krynko.PcbDoc
+DocumentPath=Imported lab3_Krynko.PrjPcb\Pr7.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -53,10 +53,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RSDWVJWN
+DocumentUniqueId=CFGSWOEN
 
 [Document2]
-DocumentPath=lab4_Krynko.OutJob
+DocumentPath=Pr7.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,14 +70,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SOWYMOMX
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for lab4_Krynko\Design Rule Check - lab4_Krynko.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=lab4_Krynko.LOG
+DocumentPath=Imported lab3_Krynko.PrjPcb\lab3_Krynko.LOG
 DItemRevisionGUID=
 
 [Configuration1]
@@ -904,7 +900,7 @@ Type48=1
 Type49=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
